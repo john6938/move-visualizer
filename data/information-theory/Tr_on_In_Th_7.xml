@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_7.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Knuth&apos;s celebrated balancing method consists of inverting the first bits in a binary information sequence, such that the resulting sequence has as many ones as zeroes, and communicating the index to the receiver through a short balanced prefix.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In the proposed method, Knuth&apos;s scheme is extended with error-correcting capabilities, where it is allowed to give unequal protection levels to the prefix and the payload.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The proposed scheme is very general in the sense that any error-correcting block code may be used for the protection of the payload.</segment> <segment id='4' features='rhetorical_moves;method' state='active' comment='embedded general result'>Analyses with respect to redundancy and block and bit error probabilities are performed, showing good results while maintaining the simplicity features of the original scheme.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>It is shown that the Hamming distance of the code is of minor importance with respect to the error probability.</segment>    </body>
+</document>

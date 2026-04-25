@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_32.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this correspondence, we present an original energy-based model that achieves the edge-histogram specification of a real input image and thus extends the exact specification method of the image luminance (or gray level) distribution recently proposed by Coltuc et al.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Our edge-histogram specification approach is stated as an optimization problem in which each edge of a real input image will tend iteratively toward some specified gradient magnitude values given by a target edge distribution (or a normalized edge histogram possibly estimated from a target image).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>To this end, a hybrid optimization scheme combining a global and deterministic conjugate-gradient-based procedure and a local stochastic search using the Metropolis criterion is proposed herein to find a reliable solution to our energy-based model.</segment> <segment id='4' features='rhetorical_moves;introduction;overview' state='active'>Experimental results are presented, and several applications follow from this procedure.</segment>    </body>
+</document>

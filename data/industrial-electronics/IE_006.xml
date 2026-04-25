@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_006.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active'>This paper presents a review of the most popular control and modulation strategies studied for matrix converters (MCs) in the last decade.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>The purpose of most of these methods is to generate sinusoidal current on the input and output sides.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>These methods are compared considering theoretical complexity and performance.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>This paper concludes that the control strategy has a significant impact on the resonance of the MC input filter.</segment>    </body>
+</document>

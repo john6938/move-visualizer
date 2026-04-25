@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_066.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper proposes a simple modulation approach for symmetrical and asymmetrical cascaded multilevel converters, suitable for operation under normal and fault conditions.</segment> <segment id='2' features='rhetorical_moves' state='active'>Initially, the set of all possible converter common-mode voltages for linear operation is derived, considering the status of each converter cell.</segment> <segment id='3' features='rhetorical_moves' state='active'>It is demonstrated that the methods previously described in the literature belong to the derived set.</segment> <segment id='4' features='rhetorical_moves' state='active'>By properly selecting the common-mode voltage, the entire converter voltage synthesis capability can be achieved under any fault condition.</segment> <segment id='5' features='rhetorical_moves' state='active'>The proposed modulation approach has been applied for both symmetrical and asymmetrical cascaded multilevel converters.</segment> <segment id='6' features='rhetorical_moves' state='active'>Simulation and experimental results show the effectiveness of the proposed modulation approach and validate the theoretical analysis.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

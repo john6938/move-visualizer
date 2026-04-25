@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_070.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article considers the neuroendocrine factors leading to systematic differences in trait verbal aggression (VA).</segment> <segment id='2' features='rhetorical_moves' state='active'>Verbally aggressive people produce messages that attack the self-concept of another (D. A. Infante &amp; C. J. Wigley, 1986).</segment> <segment id='3' features='rhetorical_moves' state='active'>A neuroendocrine factor, prenatal androgen exposure (PNAE), was proposed as a possible predictor of VA.</segment> <segment id='4' features='rhetorical_moves' state='active'>To explore this possibility, the relationship between the ratio between the length of the second digit and fourth digit (2D:4D), an indicator of PNAE, and VA was examined across 2 studies.</segment> <segment id='5' features='rhetorical_moves' state='active'>Specifically, it was predicted that variance in PNAE would be correlated with variance in trait VA.</segment> <segment id='6' features='rhetorical_moves' state='active'>Results from the 2 studies indicated that 2D:4D is correlated with VA as predicted, even with the influence of sex removed.</segment>    </body>
+</document>

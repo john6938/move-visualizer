@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_051.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To develop a transparent and reproducible measure for hospitals that can indicate when deaths in hospital or within 30 days of discharge are high relative to other hospitals, given the characteristics of the patients in that hospital, and to investigate those factors that have the greatest effect in changing the rank of a hospital, whether interactions exist between those factors, and the stability of the measure over time.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective cross sectional study of admissions to English hospitals.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Hospital episode statistics for England from 1 April 2005 to 30 September 2010, with linked mortality data from the Office for National Statistics.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 36.5 million completed hospital admissions in 146 general and 72 specialist trusts.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Deaths within hospital or within 30 days of discharge from hospital.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The predictors that were used in the final model comprised admission diagnosis, age, sex, type of admission, and comorbidity.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The percentage of people admitted who died in hospital or within 30 days of discharge was 4.2% for males and 4.5% for females.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Emergency admissions comprised 75% of all admissions and 5.5% died, in contrast to 0.8% who died after an elective admission.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The percentage who died with a Charlson comorbidity score of 0 was 2% in contrast with 15% who died with a score greater than 5.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Given these variables, the relative standardised mortality rates of the hospitals were not noticeably changed by adjusting for the area level deprivation and number of previous emergency visits to hospital.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>There was little evidence that including interaction terms changed the relative values by any great amount.</segment> <segment id='12' features='rhetorical_moves;result;methodasproduct' state='active'>Using these predictors the summary hospital mortality index (SHMI) was derived.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>For 2007/8 the model had a C statistic of 0.911 and accounted for 81% of the variability of between hospital mortality.</segment> <segment id='14' features='rhetorical_moves;result;methodasproduct' state='active'>A random effects funnel plot was used to identify outlying hospitals.</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>The outliers from the SHMI over the period 2005-10 have previously been identified using other mortality indicators.</segment>
+
+<segment id='16' features='rhetorical_moves;discussion' state='active'>Conclusion The SHMI is a relatively simple tool that can be used in conjunction with other information to identify hospitals that may need further investigation.</segment>    </body>
+</document>

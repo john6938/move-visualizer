@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_10.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This Letter proposes a mechanism to combine multiuser diversity (MUD) and incremental relaying in a multiuser two-way relaying system, where one end-source exchanges messages with one out of N available end-sources by using a half-duplex amplify-and-forward (AF) relay.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Outage analysis for the proposed scheme is carried out and, compared with the time division broadcast (TDBC) protocol, reveals that it not only realizes full diversity order (N+1) but also achieves improved expected spectral efficiency.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Also, it is indicated that the expected spectral efficiency of the proposed scheme approaches that of the analog network coding (ANC) protocol in high signal-to-noise ratio (SNR) regime.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore, the finite-SNR diversity-multiplexing tradeoff (DMT) is examined, from which the superiority of the proposed scheme to TDBC is confirmed as well.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>Other insightful comparisons in terms of the outage performance are presented that show the practical usefulness of our multiuser two-way relaying framework.</segment>    </body>
+</document>

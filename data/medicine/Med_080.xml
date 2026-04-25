@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_080.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether cognitive therapy is effective in preventing the worsening of emerging psychotic symptoms experienced by help seeking young people deemed to be at risk for serious conditions such as schizophrenia.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Multisite single blind randomised controlled trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Diverse services at five UK sites.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 288 participants aged 14-35 years (mean 20.74, SD 4.34 years) at high risk of psychosis: 144 were assigned to cognitive therapy plus monitoring of mental state and 144 to monitoring of mental state only.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Participants were followed-up for a minimum of 12 months and a maximum of 24 months.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Intervention Cognitive therapy (up to 26 (mean 9.1) sessions over six months) plus monitoring of mental state compared with monitoring of mental state only.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Primary outcome was scores on the comprehensive assessment of at risk mental states (CAARMS), which provides a dichotomous transition to psychosis score and ordinal scores for severity of psychotic symptoms and distress.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Secondary outcomes included emotional dysfunction and quality of life.</segment>
+
+<segment id='9' features='rhetorical_moves;method' state='active'>Results Transition to psychosis based on intention to treat was analysed using discrete time survival models.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, the prevalence of transition was lower than expected (23/288; 8%), with no significant difference between the two groups (proportional odds ratio 0.73, 95% confidence interval 0.32 to 1.68).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Changes in severity of symptoms and distress, as well as secondary outcomes, were analysed using random effects regression (analysis of covariance) adjusted for site and baseline symptoms.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Distress from psychotic symptoms did not differ (estimated difference at 12 months -3.00, 95% confidence interval -6.95 to 0.94) but their severity was significantly reduced in the group assigned to cognitive therapy (estimated between group effect size at 12 months -3.67, -6.71 to -0.64, P=0.018).</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions Cognitive therapy plus monitoring did not significantly reduce transition to psychosis or symptom related distress but reduced the severity of psychotic symptoms in young people at high risk.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Most participants in both groups improved over time.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>The results have important implications for the at risk mental state concept.</segment>    </body>
+</document>

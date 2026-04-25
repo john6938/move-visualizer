@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_52.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Two novel differential normalization factors, depending on the severity of carrier frequency offset, are proposed for autocorrelation based coarse timing scheme.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with the conventional normalization factor based on signal energy, they improve the robustness of the timing metric to signal-to-noise ratio (SNR), improve the mainlobe sharpness of the timing metric and reduce both missed detection and false alarm probabilities.</segment>    </body>
+</document>

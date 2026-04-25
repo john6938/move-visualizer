@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_010.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The matrix converter is an array of controlled bi-directional semi-conductor switches that allows direct ac-ac conversion without an intermediate dc link.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This converter has several attractive features that have been investigated in the last two decades.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Multilevel converter technology has become increasingly popular in recent years due to high power quality, high-voltage capability, low switching losses and low EMI issues.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>This paper is concerned with applying multilevel techniques to direct ac-ac power converters and concentrates on developing the concepts of space vector modulation for a multilevel matrix converter.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Results from a small-scale experimental prototype are presented to validate the theoretical findings.</segment>    </body>
+</document>

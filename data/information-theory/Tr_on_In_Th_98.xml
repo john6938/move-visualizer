@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_98.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Necessary and sufficient conditions for approximation of a general channel by a general source are proved.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>For the special case of a deterministic channel input, which corresponds to source simulation, we prove a stronger necessary condition.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>As the approximation criteria, vanishing variational distance between the original and the approximated quantity is used for both of the problems.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Both necessary and sufficient conditions for the two problems are based on some individual properties of the sources and the channel and are relatively easy to evaluate.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>In particular, unlike prior results for this problem, our results do not require solving an optimization problem to test simulatability.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>The results are illustrated with several nonergodic examples.</segment>    </body>
+</document>

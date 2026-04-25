@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_049.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>The preparation of materials characterized by three types of porosity could be prepared by a continuous chemical gas-phase method.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The multistep formation mechanism involves a critical temperature gradient and occurs within seconds.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The resulting hollow aerogel materials show superior properties as gas sensors in comparison to materials constructed from compact nanoparticles.</segment>    </body>
+</document>

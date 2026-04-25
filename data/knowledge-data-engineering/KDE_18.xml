@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_18.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Functional and inclusion dependency discovery is important to knowledge discovery, database semantics analysis, database design, and data quality assessment.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>Motivated by the importance of dependency discovery, this paper reviews the methods for functional dependency, conditional functional dependency, approximate functional dependency, and inclusion dependency discovery in relational databases and a method for discovering XML functional dependencies.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_034.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper investigates the buck-boost dc-dc converter and the energy transmission techniques in this kind of converter.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In this paper, the critical inductance between the continuous conduction and discontinuous conduction modes are determined.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In addition, the critical inductance equation between the complete inductor supply mode and incomplete inductor supply mode are calculated.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The energy transmission technique and the output voltage ripple (OVR) of a buck-boost converter are analyzed in a specific range of the load and input voltage.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The relations between the maximum OVR (MOVR) and the converter component parameters are deduced, and the minimum inductance value is calculated to ensure the MOVR minimization.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental and simulation results are used to prove the validity of the presented theoretical subjects.</segment>     </body>
+</document>

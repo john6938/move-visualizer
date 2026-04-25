@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_6.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We describe a new algorithm WFG for calculating hypervolume exactly.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>WFG is based on the recently-described observation that the exclusive hypervolume of a point p relative to a set S is equal to the difference between the inclusive hypervolume of p and the hypervolume of S with each point limited by the objective values in p.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>WFG applies this technique iteratively over a set to calculate its hypervolume.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments show that WFG is substantially faster (in five or more objectives) than all previously-described algorithms that calculate hypervolume exactly.</segment>    </body>
+</document>

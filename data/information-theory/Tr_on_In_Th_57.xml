@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_57.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper studies the asymptotic outage performance of incremental redundancy automatic-repeat-request (INR-ARQ) transmission over multiple-input multiple-output (MIMO) block-fading channels with discrete input constellations.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We first show that transmission with random codes using a discrete signal constellation across all transmit antennas achieves the optimal outage diversity given by the Singleton bound.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The optimal SNR-exponent and outage diversity of INR-ARQ transmission over the MIMO block-fading channel are then analysed.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We show that a significant gain in outage diversity is obtained by providing more than one bit feedback at each ARQ round.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>Thus, the outage performance of INR-ARQ transmission can be remarkably improved with minimal additional overhead.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>A practical feedback-and-power-adaptation rule is proposed for MIMO INR-ARQ, demonstrating the benefits provided by multibit feedback.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>Although the rule is sub-optimal in terms of outage performance, it achieves the optimal outage diversity.</segment>    </body>
+</document>

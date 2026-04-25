@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_92.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>In this letter, the problem of resources allocation in decode-and-forward (DF) relayed OFDM based cognitive system is considered.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The dual decomposition technique is adopted to obtain an asymptotically optimal subcarrier pairing, relay selection, and power allocation.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The resources are optimized under the individual power constraints in source and relays so that the sum rate is maximized while the interference induced to the primary system is kept below a pre-specified interference temperature limit.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Moreover, a sub-optimal scheme is presented to avoid the high computational complexity of the optimal scheme.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The sub-optimal algorithm allocates jointly the different resources taking into account the channel qualities, the DF-relaying strategy, the interference induced to the primary system, and the individual power budgets.</segment> <segment id='6' features='rhetorical_moves;introduction;overview' state='active'>The performance of the different schemes and the impact of the constraints values are discussed through the numerical simulation results.</segment>    </body>
+</document>

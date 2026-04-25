@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_60.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Substantial effort has been invested on secure location verification in hope to enable mobile wireless systems to optimize system performance or securely confer rights based on the participants&apos; locations.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>However, most previous studies do not address the impact of, and are often susceptible to, collusion attacks in which adversaries share their private keys.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a secure multilateration scheme.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Given the same processing delay, detection threshold, and assuming zero synchronization error between verifiers, our proposed scheme achieves the highest rate of false-location detection by any verification system based solely on time-of-flight measurements.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We also show that our scheme is resilient to collusion attacks if the verification system can detect the distance enlargement attack.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We propose using other physical measurements to mitigate the distance enlargement, and thus also the collusion, attacks.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>To the best of our knowledge, this is the first attempt to prevent collusion attacks by mitigating the distance enlargement attack.</segment>    </body>
+</document>

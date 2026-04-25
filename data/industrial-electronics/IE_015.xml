@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_015.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The matrix converter can be used in a wide range of applications.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Nevertheless, it does not yet represent a sufficiently mature option for industrialization.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In order to resolve this problem, this paper examines the hardware of the matrix converter and identifies all the circuits that should be included in this.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>It also quantifies the operating conditions and provides practical guidelines for the step-by-step design of a matrix converter.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>These considerations are validated with experimental results.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>In this way, it can be said that this paper represents a step forward toward the development of reliable matrix converters for real applications.</segment>    </body>
+</document>

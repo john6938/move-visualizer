@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_008.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This small-scale study investigates variation in the use of general extenders (e.g. and everything, or something, and all that) in the speech of a group of British children aged 7 to 11 years.</segment> <segment id='2' features='rhetorical_moves' state='active'>The overarching aims of the study are to investigate whether preadolescents’ use of general extenders is socially motivated, and to explore whether competing general extender variants may be situated on a cline of grammaticalization, as determined by a set of grammaticalization indices targeting the structural properties and the semantic-pragmatic functions of these constructions.</segment> <segment id='3' features='rhetorical_moves' state='active'>The results of the investigation reveal gender-differentiated patterns in general extender use, and indicate that productive variants are differentially affected by processes collectively associated with grammaticalization.</segment> <segment id='4' features='rhetorical_moves' state='active'>The findings corroborate children&apos;s participation in contemporary patterns of general extender variation, and contribute more generally to empirical characterizations of children&apos;s acquisition of discourse-pragmatic variation.</segment>    </body>
+</document>

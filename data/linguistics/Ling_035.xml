@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_035.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Two studies examined how disposition theory-based morality subcultures predict the acceptance and appeal of violence.</segment> <segment id='2' features='rhetorical_moves' state='active'>Study 1 used groups formed by median splits of individual difference variables (religiosity, aggression, and sex) thought to be trait correlates of morality subcultures in three 2 × 2 × 2 designs varying trait, perpetrator disposition (positive, negative), and motive (justified, unjustified) to predict the acceptance of violence in story resolutions for a scenario.</segment> <segment id='3' features='rhetorical_moves' state='active'>Study 2 extended this design using domain-specific dimensions of morality from moral foundations theory (MFT) to predict perceptions of violent content and its appeal.</segment> <segment id='4' features='rhetorical_moves' state='active'>The results suggest that morality subcultures predict response to violent drama and that dimensions of morality based on MFT offer a framework for defining morality subcultures.</segment>    </body>
+</document>

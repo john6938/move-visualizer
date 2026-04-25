@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_042.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study examines the framing of Egypt&apos;s January 2011 uprising in the country&apos;s state-run, independent and social media using a unique dataset of Arabic language content from newspapers and key social media posts collected during the peak of protests.</segment> <segment id='2' features='rhetorical_moves' state='active'>Semiofficial (governmental) newspapers framed the event as “a conspiracy on the Egyptian state,” warning of economic consequence and attributing blame and responsibility for the chaos on others.</segment> <segment id='3' features='rhetorical_moves' state='active'>Social media posts used a human interest frame defining protests as “a revolution for freedom and social justice” and independent newspapers used a combination of these frames.</segment> <segment id='4' features='rhetorical_moves' state='active'>Findings point toward the potential roles that news media will play in shaping public opinion and demonstrate why social media have wide appeal in times of political crisis.</segment>    </body>
+</document>

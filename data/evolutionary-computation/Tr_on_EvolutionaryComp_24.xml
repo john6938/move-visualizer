@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_24.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper investigates the issue of evolutionary design of open-ended plants for hybrid dynamical systems, i.e., both their topologies and parameters.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Hybrid bond graphs (HBGs) are used to represent dynamical systems involving both continuous and discrete system dynamics.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Genetic programming, with some special mechanisms incorporated, is used as a search tool to explore the open-ended design space of hybrid bond graphs.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Combination of these two tools, i.e., HBGs and genetic programming, leads to an approach called HBGGP that can automatically generate viable design candidates of hybrid dynamical systems that fulfill predefined design specifications.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>A comprehensive investigation of a case study of DC-DC converter design demonstrates the feasibility and effectiveness of the HBGGP approach.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>Important characteristics of the approach are also discussed, with some future research directions pointed out.</segment>    </body>
+</document>

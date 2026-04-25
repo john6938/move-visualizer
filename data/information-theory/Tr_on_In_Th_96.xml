@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_96.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>We explain how the classical notions of Fisher information of a random variable and Fisher information matrix of a random vector can be extended to a much broader setting.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We also show that Stam&apos;s inequality for Fisher information and Shannon entropy, as well as the more generalized versions proved earlier by the authors, are all special cases of more general sharp inequalities satisfied by random vectors.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The extremal random vectors, which we call generalized Gaussians, contain Gaussians as a limiting case but are noteworthy because they are heavy-tailed.</segment>    </body>
+</document>

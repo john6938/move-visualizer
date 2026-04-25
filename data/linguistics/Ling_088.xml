@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_088.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Drawing from the literature on expectancy violations (A. H. Eagly, W. Wood, &amp; S. Chaiken, 1978) and recent work on stereotypes (J. T. Crawford, L. Jussim, S. Madon, T. R. Cain, &amp; S. T. Stevens, 2011), we predict that party labels influence attitudes when they provide unexpected information.</segment> <segment id='2' features='rhetorical_moves' state='active'>We predict that party labels will increase support for the relevant policy when attached to unexpected policies and will have no effect when attached to policies already associated with the party.</segment> <segment id='3' features='rhetorical_moves' state='active'>Party labels operate as hypothesized by prior work, increasing support among identifiers of the party endorsing the policy and decreasing support among members of the opposite party, when there are no expectations about the party&apos;s position on the policy.</segment> <segment id='4' features='rhetorical_moves' state='active'>In a series of 3 experiments, we find empirical support for each these predictions.</segment>    </body>
+</document>

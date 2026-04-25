@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_077.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper proposes a novel single-stage ac-to-dc light-emitting-diode (LED) driver circuit.</segment> <segment id='2' features='rhetorical_moves' state='active'>A buck-boost power factor (PF) corrector is integrated with a flyback converter.</segment> <segment id='3' features='rhetorical_moves' state='active'>A recycling path is built to recover the inductive leakage energy.</segment> <segment id='4' features='rhetorical_moves' state='active'>In this way, the presented circuit can provide not only high PF and low total harmonic distortion but also high conversion efficiency and low switching voltage spikes.</segment> <segment id='5' features='rhetorical_moves' state='active'>Above 0.95 PF and 90% efficiency are obtained from an 8-W LED lamp driver prototype.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

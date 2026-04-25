@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_037.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess risks of mortality associated with use of individual antipsychotic drugs in elderly residents in nursing homes.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Population based cohort study with linked data from Medicaid, Medicare, the Minimum Data Set, the National Death Index, and a national assessment of nursing home quality.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Nursing homes in the United States.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 75?445 new users of antipsychotic drugs (haloperidol, aripiprazole, olanzapine, quetiapine, risperidone, ziprasidone).</segment> <segment id='5' features='rhetorical_moves;method' state='active'>All participants were aged =65, were eligible for Medicaid, and lived in a nursing home in 2001-5.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Cox proportional hazards models were used to compare 180 day risks of all cause and cause specific mortality by individual drug, with propensity score adjustment to control for potential confounders.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Compared with risperidone, users of haloperidol had an increased risk of mortality (hazard ratio 2.07, 95% confidence interval 1.89 to 2.26) and users of quetiapine a decreased risk (0.81, 0.75 to 0.88).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The effects were strongest shortly after the start of treatment, remained after adjustment for dose, and were seen for all causes of death examined.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>No clinically meaningful differences were observed for the other drugs.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>There was no evidence that the effect measure modification in those with dementia or behavioural disturbances.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>There was a dose-response relation for all drugs except quetiapine.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Though these findings cannot prove causality, and we cannot rule out the possibility of residual confounding, they provide more evidence of the risk of using these drugs in older patients, reinforcing the concept that they should not be used in the absence of clear need.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The data suggest that the risk of mortality with these drugs is generally increased with higher doses and seems to be highest for haloperidol and least for quetiapine.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_87.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>This paper identifies a Markov process for the multihop connectivity along two parallel roads through inter-vehicle communication.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Vehicles are assumed to follow two Poisson processes on both roads.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Exact mean, variance and probability distribution of the instantaneous propagation distance are derived.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>A closed form approximation for the expected distance is also proposed.</segment>    </body>
+</document>

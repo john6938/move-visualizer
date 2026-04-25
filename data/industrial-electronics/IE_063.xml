@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_063.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The authors are very much thankful for the comments.</segment> <segment id='2' features='rhetorical_moves' state='active'>The original paper [1] was organized and written according to the patent [2] invented by Wu et al., and the function of the patent was verified in Jan&apos;s Master&apos;s thesis [3].</segment> <segment id='3' features='rhetorical_moves' state='active'>The authors have checked the original simulation files and schematic circuit of the developed automatic voltage regulator (AVR).</segment> <segment id='4' features='rhetorical_moves' state='active'>Errors were found in drawing the circuit configuration of the original paper.</segment> <segment id='5' features='rhetorical_moves' state='active'>However, the components, control principle, and experimental results of the proposed AVR are accurate.</segment> <segment id='6' features='rhetorical_moves' state='active'>The mistakes occurred in the rearranged process.</segment> <segment id='7' features='rhetorical_moves' state='active'>The corrections of the original paper are as follows.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

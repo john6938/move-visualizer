@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_20.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>A new formulation of active contours based on explicit functions has been recently suggested.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This novel framework allows real-time 3-D segmentation since it reduces the dimensionality of the segmentation problem.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a B-spline formulation of this approach, which further improves the computational efficiency of the algorithm.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We also show that this framework allows evolving the active contour using local region-based terms, thereby overcoming the limitations of the original method while preserving computational speed.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active' comment='method embedded as participle phrase'>The feasibility of real-time 3-D segmentation is demonstrated using simulated and medical data such as liver computer tomography and cardiac ultrasound images.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_029.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study examines how media system differences in the form of news change or stay the same as newspapers in the United States (liberal), Denmark (democratic corporatist), and France (polarized pluralist) move from print to online.</segment> <segment id='2' features='rhetorical_moves' state='active'>Internet technological affordances are posited to move online news toward more advertising and information (liberal model) and more opinion and deliberation (polarized pluralist model).</segment> <segment id='3' features='rhetorical_moves' state='active'>In the liberal direction, advertising and more localized, light news increase; toward polarized pluralism, news as a whole declines while deliberation, opinion, and nonjournalistic voices increase slightly.</segment> <segment id='4' features='rhetorical_moves' state='active'>A lesser degree of change in France may be due to greater state insulation from market pressures; some contradictory tendencies in Denmark indicate that technological influences are shaped by contextual national factors.</segment>    </body>
+</document>

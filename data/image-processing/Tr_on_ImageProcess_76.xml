@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_76.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Data-level fusion is believed to have the potential for enhancing human face recognition.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, due to a number of challenges, current techniques have failed to achieve its full potential.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>We propose spatially optimized data/pixel-level fusion of 3-D shape and texture for face recognition.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Fusion functions are objectively optimized to model expression and illumination variations in linear subspaces for invariant face recognition.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Parameters of adjacent functions are constrained to smoothly vary for effective numerical regularization.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>In addition to spatial optimization, multiple nonlinear fusion models are combined to enhance their learning capabilities.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments on the FRGC v2 data set show that spatial optimization, higher order fusion functions, and the combination of multiple such functions systematically improve performance, which is, for the first time, higher than score-level fusion in a similar experimental setup.</segment>    </body>
+</document>

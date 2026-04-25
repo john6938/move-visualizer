@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_18.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We propose two novel distributed resource allocation (RA) schemes for the uplink of a cellular multi-carrier multi-format system based on the message passing (MP) technique.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In the proposed approaches each transmitter iteratively sends and receives information messages to/from the base station with the goal of achieving an optimal RA strategy.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active' comment='subject solution with problem as predicate'>The exchanged messages are the solution of small distributed allocation problems.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Hence, despite the NP-hardness of the original RA problem, they distribute the computational effort in the cell among all the transmitters and the base station.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Specifically, the first algorithm combines MP with a dynamic programming formula solved at each step, while the second method initially solves to optimality a simplified single-format RA via MP, and eventually performs format allocation to satisfy the rate constraints.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Compared to alternatives, numerical results assess the validity of MP-based schemes both in terms of efficiency and complexity.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_085.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The direct torque control (DTC) technique of permanent-magnet synchronous motors (PMSMs) receives increasing attention due to its advantages in eliminating the current controllers and quicker dynamic response, compared with other motor control algorithms.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, high torque and stator flux ripples remain in the system when using DTC technologies.</segment> <segment id='3' features='rhetorical_moves' state='active'>This means large stator voltage and current harmonic contents exist in the PM motors.</segment> <segment id='4' features='rhetorical_moves' state='active'>Since the variation of motor electromagnetic torque is related to the voltages that are applied to the motor, by analyzing the relationships between stator flux, torque, and voltages, a PMSM torque predictive control scheme is proposed in this paper.</segment> <segment id='5' features='rhetorical_moves' state='active'>In each digital signal processor cycle, the optimized voltage is utilized to reduce torque ripple, and the voltage vector angle is determined by the output of torque and flux hysteresis controllers.</segment> <segment id='6' features='rhetorical_moves' state='active'>The proposed scheme is simulated and experimentally verified.</segment> <segment id='7' features='rhetorical_moves' state='active'>Both simulation and experimental results have shown that low torque ripple and reduced stator current harmonics are achieved by using the proposed scheme.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

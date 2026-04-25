@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_097.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper proposes a unique standalone hybrid power generation system, applying advanced power control techniques, fed by four power sources: wind power, solar power, storage battery, and diesel engine generator, and which is not connected to a commercial power system.</segment> <segment id='2' features='rhetorical_moves' state='active'>Considerable effort was put into the development of active-reactive power and dump power controls.</segment> <segment id='3' features='rhetorical_moves' state='active'>The result of laboratory experiments revealed that amplitudes and phases of ac output voltage were well regulated in the proposed hybrid system.</segment> <segment id='4' features='rhetorical_moves' state='active'>Different power sources can be interconnected anywhere on the same power line, leading to flexible system expansion.</segment> <segment id='5' features='rhetorical_moves' state='active'>It is anticipated that this hybrid power generation system, into which natural energy is incorporated, will contribute to global environmental protection on isolated islands and in rural locations without any dependence on commercial power systems.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_098.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Organometallic Gratings: The ionic self-assembly of metal-containing block-copolymer polyelectrolytes and azobenzene chromophores is exploited for the efficient production of stable photo-induced surface-relief gratings.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We show that feature sizes can be tuned using simple redox chemistry, and that the chromophores can be removed during plasma treatment to yield ceramic-based optical materials.</segment>    </body>
+</document>

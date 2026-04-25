@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_039.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The main contribution of this paper is the proposal of new modulation techniques for three-phase transformerless neutral point clamped inverters to eliminate leakage currents in photovoltaic systems without requiring any modification on the multilevel inverter or any additional hardware.</segment> <segment id='2' features='rhetorical_moves' state='active'>The modulation techniques are capable of reducing the leakage currents in photovoltaic systems by applying three medium vectors or using only two medium vectors and one specific zero vector to compose the reference vector.</segment> <segment id='3' features='rhetorical_moves' state='active'>In addition, to increase the system utilization, the three-phase neutral point clamped inverter can be designed to also provide functions of active filter using the p-q theory.</segment> <segment id='4' features='rhetorical_moves' state='active'>The proposed system provides maximum power point tracking and compensation of current harmonics and reactive power.</segment> <segment id='5' features='rhetorical_moves' state='active'>To validate the simulation models, an experimental three-phase inverter is used to evaluate leakage currents and the dc link voltage control.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

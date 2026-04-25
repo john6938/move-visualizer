@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_75.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Frequency-dependent modeling of devices and systems is a common practice in several fields, such as power systems, microwave systems, and electronics systems.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The modeling process usually involves converting the tabulated frequency-response data into a compact equivalent circuit model.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>The main drawback of the currently existing methods such as vector fitting is that the obtained model is often nonpassive, leading to unstable simulations.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>In order to overcome this problem, this paper proposes a genetic programming (GP) approach to generate equivalent circuits with guaranteed passivity.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The proposed method starts with a nonoptimal initial equivalent circuit.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Both the elements and the topology of this circuit are then evolved by the proposed GP-based method, and an accurate equivalent circuit is obtained.</segment> <segment id='7' features='rhetorical_moves;introduction;overview' state='active'>Key ideas and detailed algorithms are presented in this paper.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Finally, the performance of the proposed method is verified by using different case studies.</segment>    </body>
+</document>

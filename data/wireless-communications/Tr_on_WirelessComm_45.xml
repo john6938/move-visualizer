@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_45.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Taking the effect of pulse overlap into account, we address the pre/post-rake technique using rake structure at both transmitter and receiver.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Firstly, we propose a single-stream (SS) pre/post-rake, in which the pair of pre-rake and post-rake weighting vectors is optimally derived through generalized eigenvalue decomposition (GEVD).</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Secondly, by judiciously designing multiple pairs of weighting vectors, we derive multiple-stream (MS) pre/post-rake, which enables parallel subchannel transmission while not requiring multiple antennas at the transmitter or receiver.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active' comment='verification simulations'>Finally, we conduct simulations to verify the advantages of the SS pre/post-rake and the MS pre/post-rake over existing rakes.</segment>    </body>
+</document>

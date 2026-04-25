@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_023.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Millenniums-old natural dye indigo - a “new” ambipolar organic semiconductor.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Indigo shows balanced electron and hole mobilities of 1 × 10-2 cm2 V-1 s-1 and good stability against degradation in air.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Inverters with gains of 105 in the first and 110 in the third quadrant are demonstrated.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Fabricated entirely from natural and biodegradable compounds, these devices show the large potential of such materials for green organic electronics.</segment>    </body>
+</document>

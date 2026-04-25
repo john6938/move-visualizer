@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_78.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we describe a study of the evolution of consensus, a cooperative behavior in which members in both homogeneous and heterogeneous groups, must agree on information sensed in their environment.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We conducted the study using digital evolution, a form of evolutionary computation where a population of computer programs (digital organisms) exists in a user-defined computational environment and is subject to instruction-level mutations and natural selection.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We placed these digital organisms into groups whose fitness relied upon their ability to perform consensus.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We then tested different degrees and types of genetic variation present in the population, based on biologically inspired models of gene flow, including mutation, sexual recombination, migration, and horizontal gene transfer.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Our experimental treatments examined the effect of these processes on genetic variation and groups&apos; ability to reach consensus.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The results of these experiments demonstrate that while genetic heterogeneity within groups increases the difficulty of the consensus task, a surprising number of groups were able to overcome these obstacles and evolve this cooperative behavior.</segment>    </body>
+</document>

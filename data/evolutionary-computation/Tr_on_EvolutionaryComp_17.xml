@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_17.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The degree-constrained minimum spanning tree (DCMST) problem is the problem of finding the minimum cost spanning tree in an edge weighted complete graph such that each vertex in the spanning tree has degree ? d for some d ? 2.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>The DCMST problem is known to be NP-hard.</segment> <segment id='5' features='rhetorical_moves;purpose' state='active'>This paper presents an ant-based algorithm to find low cost degree-constrained spanning trees (DCST).</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The algorithm employs a set of ants which traverse the graph and identify a set of candidate edges, from which a DCST is constructed.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Local optimization algorithms are then used to further improve the DCST.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Extensive experiments using 612 problem instances show many improvements over existing algorithms.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_052.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To evaluate the clinical effectiveness of group art therapy for people with schizophrenia and to test whether any benefits exceed those of an active control treatment.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Three arm, rater blinded, pragmatic, randomised controlled trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Secondary care services across 15 sites in the United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 417 people aged 18 or over, who had a diagnosis of schizophrenia and provided written informed consent to take part in the study.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Participants, stratified by site, were randomised to 12 months of weekly group art therapy plus standard care, 12 months of weekly activity groups plus standard care, or standard care alone.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Art therapy and activity groups had up to eight members and lasted for 90 minutes.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>In art therapy, members were given access to a range of art materials and encouraged to use these to express themselves freely.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Members of activity groups were offered various activities that did not involve use of art or craft materials and were encouraged to collectively select those they wanted to pursue.</segment>
+
+<segment id='9' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcomes were global functioning, measured using the global assessment of functioning scale, and mental health symptoms, measured using the positive and negative syndrome scale, 24 months after randomisation.</segment> <segment id='10' features='rhetorical_moves;method' state='active'>Main secondary outcomes were levels of group attendance, social functioning, and satisfaction with care at 12 and 24 months.</segment>
+
+<segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Results 417 participants were assigned to either art therapy (n=140), activity groups (n=140), or standard care alone (n=137).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Primary outcomes between the three study arms did not differ.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>The adjusted mean difference between art therapy and standard care at 24 months on the global assessment of functioning scale was -0.9 (95% confidence interval -3.8 to 2.1), and on the positive and negative syndrome scale was 0.7 (-3.1 to 4.6).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>Secondary outcomes did not differ between those referred to art therapy or those referred to standard care at 12 or 24 months.</segment>
+
+<segment id='15' features='rhetorical_moves;discussion' state='active'>Conclusions Referring people with established schizophrenia to group art therapy as delivered in this trial did not improve global functioning, mental health, or other health related outcomes.</segment>    </body>
+</document>

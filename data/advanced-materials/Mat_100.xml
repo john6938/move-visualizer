@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_100.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>WO3–x@Au@MnO2 core–shell nanowires (NWs) are synthesized on a flexible carbon fabric and show outstanding electrochemical performance in supercapacitors such as high specific capacitance, good cyclic stability, high energy density, and high power density.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>These results suggest that the WO3–x@Au@MnO2 NWs have promising potential for use in high-performance flexible supercapacitors.</segment>    </body>
+</document>

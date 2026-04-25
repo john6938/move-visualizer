@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_023.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper examines the processes through which learners interact with a corpus system and microgenetic development emerges from the interaction.</segment> <segment id='2' features='rhetorical_moves' state='active'>The corpus system described in this paper is capable of retrieving highly relevant textual examples tailored to individual needs.</segment> <segment id='3' features='rhetorical_moves' state='active'>Data were collected from an undergraduate ESL composition course in North America for one semester while students interacted with the system.</segment> <segment id='4' features='rhetorical_moves' state='active'>Using exploratory techniques that triangulate on real-time screen recordings, corpus queries, and oral/written reflections, this paper documents these interactions as evidencing each learner’s efforts to resolve issues by retrieving, evaluating, and appropriating the corpus search results.</segment> <segment id='5' features='rhetorical_moves' state='active'>The findings show that the learner’s achievements depend both on their ability to interpret and exploit the search results and on the corpus system’s ability to respond to the learner’s particular needs.</segment> <segment id='6' features='rhetorical_moves' state='active'>Based on these findings, this paper suggests that corpus-based research should focus on maximizing the learner’s developmental potential by developing more advanced corpus systems and enhancing the learner’s textual awareness and analytical ability.</segment>    </body>
+</document>

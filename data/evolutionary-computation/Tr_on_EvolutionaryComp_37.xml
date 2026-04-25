@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_37.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a neighborhood mutation strategy is proposed and integrated with various niching differential evolution (DE) algorithms to solve multimodal optimization problems.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>Although variants of DE are highly effective in locating a single global optimum, no DE variant performs competitively when solving multi-optima problems.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In the proposed neighborhood based differential evolution, the mutation is performed within each Euclidean neighborhood.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The neighborhood mutation is able to maintain the multiple optima found during the evolution and evolve toward the respective global/local optimum.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>To test the performance of the proposed neighborhood mutation DE, a total of 29 problem instances are used.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The proposed algorithms are compared with a number of state-of-the-art multimodal optimization approaches and the experimental results suggest that although the idea of neighborhood mutation is simple, it is able to provide better and more consistent performance over the state-of-the-art multimodal algorithms.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>In addition, a comparative survey on niching algorithms and their applications are also presented.</segment>    </body>
+</document>

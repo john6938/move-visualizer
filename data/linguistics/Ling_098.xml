@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_098.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The number reduction task (NRT) allows us to study the transition from implicit knowledge of hidden task regularities to explicit insight into these regularities.</segment> <segment id='2' features='rhetorical_moves' state='active'>To identify sleep-associated neurophysiological indicators of this restructuring of knowledge representations, we measured frequency-specific power of EEG while participants slept during the night between two sessions of the NRT.</segment> <segment id='3' features='rhetorical_moves' state='active'>Alpha (8–12 Hz) EEG power during slow wave sleep (SWS) emerged as a specific marker of the transformation of presleep implicit knowledge to postsleep explicit knowledge (ExK).</segment> <segment id='4' features='rhetorical_moves' state='active'>Beta power during SWS was increased whenever ExK was attained after sleep, irrespective of presleep knowledge.</segment> <segment id='5' features='rhetorical_moves' state='active'>No such EEG predictors of insight were found during Sleep Stage 2 and rapid eye movement sleep.</segment> <segment id='6' features='rhetorical_moves' state='active'>These results support the view that it is neuronal memory reprocessing during sleep, in particular during SWS, that lays the foundations for restructuring those task-related representations in the brain that are necessary for promoting the gain of ExK.</segment>    </body>
+</document>

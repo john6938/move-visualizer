@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_50.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Power allocations in an interference-limited wireless network for global maximization of the weighted sum throughput or global optimization of the minimum weighted rate among network links are not only important but also very hard optimization problems due to their nonconvexity nature.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Recently developed methods are either unable to locate the global optimal solutions or prohibitively complex for practical applications.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>This paper exploits the d.c. (difference of two convex functions/sets) structure of either the objective function or constraints of these global optimization problems to develop efficient iterative algorithms with very low complexity.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Numerical results demonstrate that the developed algorithms are able to locate the global optimal solutions by only a few iterations and they are superior to the previously-proposed methods in both performance and computation complexity.</segment>    </body>
+</document>

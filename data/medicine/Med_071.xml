@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_071.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether mobile phone based monitoring improves asthma control compared with standard paper based monitoring strategies.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Multicentre randomised controlled trial with cost effectiveness analysis.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting UK primary care.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 288 adolescents and adults with poorly controlled asthma (asthma control questionnaire (ACQ) score =1.5) from 32 practices.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Participants were centrally randomised to twice daily recording and mobile phone based transmission of symptoms, drug use, and peak flow with immediate feedback prompting action according to an agreed plan or paper based monitoring.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Changes in scores on asthma control questionnaire and self efficacy (knowledge, attitude, and self efficacy asthma questionnaire (KASE-AQ)) at six months after randomisation.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Assessment of outcomes was blinded.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Analysis was on an intention to treat basis.</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Results There was no significant difference in the change in asthma control or self efficacy between the two groups (ACQ: mean change 0.75 in mobile group v 0.73 in paper group, mean difference in change -0.02 (95% confidence interval -0.23 to 0.19); KASE-AQ score: mean change -4.4 v -2.4, mean difference 2.0 (-0.3 to 4.2)).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>The numbers of patients who had acute exacerbations, steroid courses, and unscheduled consultations were similar in both groups, with similar healthcare costs.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, the mobile phone service was more expensive because of the expenses of telemonitoring.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Mobile technology does not improve asthma control or increase self efficacy compared with paper based monitoring when both groups received clinical care to guidelines standards.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The mobile technology was not cost effective.</segment>    </body>
+</document>

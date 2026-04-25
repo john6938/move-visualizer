@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_48.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This article focuses on the performance of a relay system in spectrum-sharing context.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We consider that a secondary user (SU) is allowed to share the spectrum band with a primary user (PU) as long as it meets predefined interference constraints set by the PU.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We suppose that the SU&apos;s transmitter and receiver are unable to communicate directly and, thus, are helped by a set of intermediate terminal nodes to deliver the data from the source to the destination.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The relay nodes function using amplify-and-forward (AF) and a single &quot;best&quot; intermediate node is selected among a cluster by means of partial relay selection (PRS) technique to relay the information to the destination.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Statistics for the end-to-end signal-to-noise ratio (SNR), namely, the probability density function (PDF) and the moment generating function (MGF), are derived and used next to evaluate the bit error rate (BER) of several modulation schemes.</segment> <segment id='6' features='rhetorical_moves;introduction;overview' state='active'>Numerical results and interpretations complete the study.</segment>    </body>
+</document>

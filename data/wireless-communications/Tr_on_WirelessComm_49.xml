@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_49.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Wireless communication networks use link adaptation to select physical layer parameters that optimize the transmission strategy as a function of the wireless channel realization.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>In the vehicle-to-vehicle (V2V) networks considered in this letter, the short coherence time of the wireless channel makes link adaptation based on the impulse response challenging.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Consequently, link adaptation in V2V wireless networks may instead exploit the large-scale characteristics of the wireless channel (i.e. path loss) since they evolve slowly and enable less frequent feedback.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>Large-scale channel information may be captured through channel or position/motion measurements.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We show, through the definition of new large-scale coherence expressions, that channel measurements render large-scale coherence as a function of time-change while the position/motion measurements render coherence as a function of velocity-change.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>This letter is concluded with highway simulations of modeled and measured channels to demonstrate the advantage of position/motion information for feedback reduction in V2V link adaptation.</segment>    </body>
+</document>

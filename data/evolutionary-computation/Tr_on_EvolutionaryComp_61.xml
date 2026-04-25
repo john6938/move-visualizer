@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_61.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We propose replacing the division operator used in genetic programming with an analytic quotient (AQ) operator.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active' comment='method as prepositional phrase with embedded projected &quot;that&quot; clause'>We demonstrate that this AQ operator systematically yields lower mean squared errors over a range of regression tasks, due principally to removing the discontinuities or singularities that can often result from using either protected or unprotected division.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Further, the AQ operator is differentiable.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We also show that the new AQ operator stabilizes the variance of the intermediate quantities in the tree.</segment>    </body>
+</document>

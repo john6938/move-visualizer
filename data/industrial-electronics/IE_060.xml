@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_060.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Wide- (WF) and high-frequency (HF) small-signal models are presented for pulsewidth-modulated dc-dc buck converter power stage.</segment> <segment id='2' features='rhetorical_moves' state='active'>An exact duty-ratio-to-inductor-current transfer function is derived using the WF model and compared to an approximate transfer function derived using the HF model for the buck converter power stage in continuous conduction mode.</segment> <segment id='3' features='rhetorical_moves' state='active'>The theoretical results are validated using experimental results.</segment> <segment id='4' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

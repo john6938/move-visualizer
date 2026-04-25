@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_064.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Air-stable dimers of sandwich compounds including rhodocene and (pentamethylcyclopentadienyl)(arene)ruthenium and iron derivatives can be used for n-doping electron-transport materials with electron affinities as small as 2.8 eV.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>A p-i-n homojunction diode based on copper phthalocyanine and using rhodocene dimer as n-dopant shows a rectification ratio of greater than 106 at 4 V.</segment>    </body>
+</document>

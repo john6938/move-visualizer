@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_77.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The performance of Orthogonal Frequency Division Multiplexing (OFDM) systems is highly impacted by clipping distortions caused by non-linear amplifiers.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>One approach known as Tone Reservation (TR) method is to allocate/use a small number of sub-carriers to generate more suited signals and reduce the impact of these non-linear distortions.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Traditionally, existing TR algorithms attempt to minimize the Peak-to-Average Power Ratio (PAPR).</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, we show that maximization of the Signal-to-Distortion Ratio (SDR) is a better criterion which achieves a better symbol error rate performance.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Our results reveal that the proposed approach outperforms in terms of error probability rate for the same transmit power and same order of computational cost.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Interestingly, the PAPR value for the proposed algorithm is not better than the state of the art algorithm in which directly optimizes the PAPR.</segment>    </body>
+</document>

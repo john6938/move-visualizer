@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_022.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper describes a novel fault-tolerant matrix converter motor drive system which requires an appropriate control strategy and the application of an effective fault detection technique.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Two types of fault-tolerant matrix converter, a direct matrix converter and an indirect matrix converter, are proposed for a permanent magnet synchronous motor drive against open-circuit faults in safety-critical applications.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>A fault-tolerant control strategy is developed in order to maintain the continuous operation of the drive system with satisfactory performance.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>A high-speed fault detection strategy for detecting and identifying the faulty open-circuited switches located in the fault-tolerant four-phase direct matrix converter is also proposed.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation and experimental results are shown to demonstrate the effectiveness of the proposed fault-tolerant matrix converters and the developed fault detection strategy applied to the motor drive system under faulty operating conditions.</segment>     </body>
+</document>

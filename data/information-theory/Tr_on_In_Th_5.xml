@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_5.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Conditionally cycle-free graphical models (i.e., cyclic graphical models which become cycle-free after conditioning on a subset of the hidden variables) are constructed for coset codes.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Following the description of a general construction procedure, examples of a number of families of codes-including first-order Reed-Muller (RM) and the Delsarte-Goethals codes - are provided for which the proposed procedure yields optimal soft-in soft-out (SISO) decoding algorithms that are less complex than the best known trellis-based algorithms.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In the case of the first-order RM codes, which have a recursive coset construction, the optimal SISO decoding algorithm that results when the proposed construction is applied repeatedly is denoted recursive coset representation (RCR) decoding.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Connections are made between RCR decoding and existing algorithms that exploit fast Hadamard transforms.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Finally, the utility of the proposed decoding algorithms are supported by a practically motivated application: the construction of serially concatenated codes that have high rates and low error floors.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>Extended Hamming codes are proposed as outer codes in such constructions with efficient decoding employing the SISO algorithms developed herein.</segment>    </body>
+</document>

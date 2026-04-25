@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_6.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this letter, we aim to present a near-maximum-likelihood (ML) decoding algorithm with low-complexity for wider ranges of SNR and system dimension in multiple-input-multiple-output (MIMO) systems.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Based on the proposed radius design criterion, we introduce the effective radius (ER) which is determined using the statistics of path metric under correct and incorrect decoding cases.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Since the constraint established by the ER maintains tightness during most search procedure, the proposed scheme further improves the complexity, and its performance loss is still negligible by properly selecting design probabilities.</segment>    </body>
+</document>

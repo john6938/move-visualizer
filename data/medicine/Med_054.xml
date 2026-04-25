@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_054.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the effectiveness of self monitoring blood glucose levels in people with non-insulin treated type 2 diabetes compared with clinical management without self monitoring, and to explore the effects in specific patient groups.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Meta-analysis based on individual participant data.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Medline, Embase, and a recent systematic review of trials on self monitoring of blood glucose.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Chief investigators of trials published since 2000 were approached for additional information and individual patient data.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Inclusion criteria Randomised controlled trials in patients with non-insulin treated type 2 diabetes comparing an intervention using self monitoring of blood glucose with clinical management not using self monitoring.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Trials published from 2000 with at least 80 participants were included.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Data collection Individual patient data were collected from electronic files and checked for integrity.</segment>
+
+<segment id='8' features='rhetorical_moves;method' state='active'>Analysis All randomised participants were analysed using the intention to treat principle.</segment> <segment id='9' features='rhetorical_moves;method' state='active'>A random effects model of complete cases was used to assess efficacy, a sensitivity analysis comprised imputed data, and prespecified subgroup analyses were carried out for age, sex, previous use of self monitoring, duration of diabetes, and levels of glycated haemoglobin (HbA1c) at baseline.</segment>
+
+<segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results 2552 patients were randomised in the six included trials.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>A mean reduction in HbA1c level of -2.7 mmol/mol (95% confidence interval -3.9 to -1.6; 0.25%) was observed for those using self monitoring of blood glucose levels compared with no self monitoring at six months.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The mean reduction in HbA1c level between groups was 2.0 mmol/mol (3.2 to 0.8; 0.25%) at three months (five trials) and 2.5 mmol/mol (4.1 to 0.9; 0.35%) at 12 months (three trials).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>These estimates were unchanged after imputing missing data, and estimates of effect in trials with higher loss to follow-up or a possibility of co-intervention compared with those with lower loss to follow-up and no co-intervention did not differ significantly (P=0.21).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>The difference in HbA1c levels between groups was consistent across age, baseline HbA1c level, sex, and duration of diabetes, although the numbers of older and younger people and those with HbA1c levels &gt;86 mmol/mol (10%) were insufficient for interpretation.</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>No changes occurred in systolic blood pressure (-0.2 mm Hg, 95% confidence interval -1.4 to 1.0), diastolic blood pressure (-0.1 mm Hg, -0.9 to 0.6), or total cholesterol level (-0.1 mol/L, 95% confidence interval -0.2 to 0.1).</segment>
+
+<segment id='16' features='rhetorical_moves;discussion' state='active'>Conclusions Evidence from this meta-analysis of individual patient data was not convincing for a clinically meaningful effect of clinical management of non-insulin treated type 2 diabetes by self monitoring of blood glucose levels compared with management without self monitoring, although the difference in HbA1c level between groups was statistically significant.</segment> <segment id='17' features='rhetorical_moves;discussion' state='active'>The difference in levels was consistent across subgroups defined by personal and clinical characteristics.</segment>    </body>
+</document>

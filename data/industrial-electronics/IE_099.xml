@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_099.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents a phase-modulated high-frequency isolated dc/ac converter as the grid interface in a distributed generation system.</segment> <segment id='2' features='rhetorical_moves' state='active'>The converter includes two full-bridge HF LCL-type resonant inverters working at fixed duty cycle.</segment> <segment id='3' features='rhetorical_moves' state='active'>The power control is realized by means of the phase-shift between the two bridges.</segment> <segment id='4' features='rhetorical_moves' state='active'>Using the LCL-type resonant tank, zero-voltage-switching is achieved for all switches for the whole power range.</segment> <segment id='5' features='rhetorical_moves' state='active'>With the phase-shift modulated sinusoidally, a full-wave rectified output current synchronized with the utility line is obtained, which is unfolded and fed to the single-phase utility line.</segment> <segment id='6' features='rhetorical_moves' state='active'>The analysis is verified with computer simulation results.</segment> <segment id='7' features='rhetorical_moves' state='active'>Experimental data based on a 500-W prototype circuit is included for validation purpose.</segment> 
+    </body>
+</document>

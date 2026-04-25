@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_28.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>This paper addresses the very low resolution (VLR) problem in face recognition in which the resolution of the face image to be recognized is lower than 16 ~ 16.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>With the increasing demand of surveillance camera-based applications, the VLR problem happens in many face application systems.</segment> <segment id='3' features='rhetorical_moves;introduction;gap' state='active'>Existing face recognition algorithms are not able to give satisfactory performance on the VLR face image.</segment> <segment id='4' features='rhetorical_moves;introduction;problem' state='active'>While face super-resolution (SR) methods can be employed to enhance the resolution of the images, the existing learning-based face SR methods do not perform well on such a VLR face image.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>To overcome this problem, this paper proposes a novel approach to learn the relationship between the high-resolution image space and the VLR image space for face SR.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Based on this new approach, two constraints, namely, new data and discriminative constraints, are designed for good visuality and face recognition applications under the VLR problem, respectively.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show that the proposed SR algorithm based on relationship learning outperforms the existing algorithms in public face databases.</segment>    </body>
+</document>

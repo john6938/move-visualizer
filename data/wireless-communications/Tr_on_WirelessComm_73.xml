@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_73.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Accurate expressions for sequence acquisition in a chaos-based spread-spectrum system are derived using the statistical properties of the chaos-based spreading sequences.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The expressions are validated by comparing the analytical predictions of the acquisition performance with the simulation results for three channel scenarios.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Additive white Gaussian noise and Rayleigh fading channels are considered in the first two scenarios.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>As the third scenario a blind chip interleaving serial search algorithm is proposed and system performance is shown to improve.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The simulation results show excellent agreement with the theoretical results for all three scenarios considered.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>This is significant as previous examinations of the same have only yielded upper-bounds.</segment>    </body>
+</document>

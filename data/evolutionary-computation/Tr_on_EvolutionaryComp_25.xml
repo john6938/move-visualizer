@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_25.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Genetic programming approaches have been employed in the literature to automatically design constructive heuristics for cutting and packing problems.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>These heuristics obtain results superior to human-created constructive heuristics, but they do not generally obtain results of the same quality as local search heuristics, which start from an initial solution and iteratively improve it.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>If local search heuristics can be successfully designed through evolution, in addition to a constructive heuristic which initializes the solution, then the quality of results which can be obtained by automatically generated algorithms can be significantly improved.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a grammatical evolution methodology which automatically designs good quality local search heuristics that maintain their performance on new problem instances.</segment>    </body>
+</document>

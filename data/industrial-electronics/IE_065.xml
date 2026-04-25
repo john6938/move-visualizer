@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_065.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A novel three-phase hybrid multilevel converter is proposed for medium-voltage applications.</segment> <segment id='2' features='rhetorical_moves' state='active'>The converter employs a conventional three-phase voltage source inverter (VSI) linking series connected half-bridge modules at each phase.</segment> <segment id='3' features='rhetorical_moves' state='active'>With the proposed connection, a large portion of energy can be processed by the VSI by employing a single multi-pulse rectifier, while smaller power shares are processed within the half-bridge modules.</segment> <segment id='4' features='rhetorical_moves' state='active'>Thus, the requirements for galvanically insulated dc sources are reduced.</segment> <segment id='5' features='rhetorical_moves' state='active'>Modularity is naturally achieved.</segment> <segment id='6' features='rhetorical_moves' state='active'>A modulation scheme for a four-level version is proposed and analyzed in detail.</segment> <segment id='7' features='rhetorical_moves' state='active'>This scheme allows unidirectional power flow in all dc sources and, consequently, enables diode bridges to be employed in the rectification input stage for unidirectional applications.</segment> 
+    </body>
+</document>

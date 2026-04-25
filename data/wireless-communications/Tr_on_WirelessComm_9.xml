@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_9.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Seamless handover over multiple access points is highly desirable to mobile nodes, but ensuring security and efficiency of this process is challenging.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>This paper shows that prior handover authentication schemes incur high communication and computation costs, and are subject to a few security attacks.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Further, a novel handover authentication protocol named PairHand is proposed.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>PairHand uses pairing-based cryptography to secure handover process and to achieve high efficiency.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Also, an efficient batch signature verification scheme is incorporated into PairHand.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments using our implementation on laptop PCs show that PairHand is feasible in real applications.</segment>    </body>
+</document>

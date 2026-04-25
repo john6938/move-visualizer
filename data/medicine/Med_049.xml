@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_049.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether detection of invasive cervical cancer by screening results in better prognosis or merely increases the lead time until death.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Nationwide population based cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Sweden.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants All 1230 women with cervical cancer diagnosed during 1999-2001 in Sweden prospectively followed up for an average of 8.5 years.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Cure proportions and five year relative survival ratios, stratified by screening history, mode of detection, age, histopathological type, and FIGO (International Federation of Gynecology and Obstetrics) stage.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results In the screening ages, the cure proportion for women with screen detected invasive cancer was 92% (95% confidence interval 75% to 98%) and for symptomatic women was 66% (62% to 70%), a statistically significant difference in cure of 26% (16% to 36%).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Among symptomatic women, the cure proportion was significantly higher for those who had been screened according to recommendations (interval cancers) than among those overdue for screening: difference in cure 14% (95% confidence interval 6% to 23%).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Cure proportions were similar for all histopathological types except small cell carcinomas and were closely related to FIGO stage.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>A significantly higher cure proportion for screen detected cancers remained after adjustment for stage at diagnosis (difference 15%, 7% to 22%).</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Screening is associated with improved cure of cervical cancer.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>Confounding cannot be ruled out, but the effect was not attributable to lead time bias and was larger than what is reflected by down-staging.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Evaluations of screening programmes should consider the assessment of cure proportions.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_89.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Unlike database tables, B+-tree indexes are hierarchical and their structures change over time by node splitting operations, which may propagate changes from one node to another.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>The node splitting operation is difficult for the basic In-Page Logging (IPL) scheme to deal with, because it involves more than one node that may be stored separately in different flash blocks.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose Dynamic IPL B+-tree (d-IPL B+-tree in short) as a variant of the IPL scheme tailored for flash-based B+-tree indexes.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The d-IPL B+-tree addresses the problem of frequent log overflow by allocating a log area in a flash block dynamically.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>It also avoids a page evaporation problem, imposed by the contemporary NAND flash chips, by introducing ghost nodes to d-IPL B+-tree.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>This simple but elegant design of the d-IPL B+-tree provides significant performance improvement over existing approaches.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>For a random insertion workload, the d-IPL B+-tree outperformed a B+-tree with the plain IPL scheme by more than a factor of two in terms of page write and block erase operations.</segment>    </body>
+</document>

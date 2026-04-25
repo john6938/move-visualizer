@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_004.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper extends the Z-source concept to matrix converters and explores a family of Z-source matrix converters.</segment> <segment id='2' features='rhetorical_moves;introduction;overview' state='active'>Their principles and characteristics are analyzed, and a simplified voltage-fed Z-source matrix converter is used as an example to demonstrate its operation, voltage gain versus modulation index, PWM method, boost control, and implementation of the control.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Both simulation and experimental results verify operation of the proposed Z-source matrix converter, analytical results, and control method.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The Z-source converters can achieve buck and boost operation with reduced number of switches needed, therefore achieving low cost, high efficiency, and reliability, compared to the traditional matrix converters.</segment>    </body>
+</document>

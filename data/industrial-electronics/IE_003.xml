@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_003.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>This paper proposes a novel family of cascade three-level (TL) ac-ac direct converters based on ac switch cells, which transfer unsteady high ac voltage with distortion into regulated sinusoidal voltage with low total harmonic distortion (THD).</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The topological family includes buck TL-boost, buck-boost TL, and buck TL-boost TL modes.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In order to achieve a reliable TL ac-ac conversion, a double transient voltage feedback control strategy of the output voltage and the voltage across the flying capacitor is introduced in this paper.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>A 500-VA 220-V ±10% 50-Hz ac/220-V 50-Hz ac prototype is presented with the experimental results to prove that the converters have four improved advantages simultaneously, including lower voltage across power switches, bidirectional power flow, low THD of output voltage, and higher input power factor.</segment>    </body>
+</document>

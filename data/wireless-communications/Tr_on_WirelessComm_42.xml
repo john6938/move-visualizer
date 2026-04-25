@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_42.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper deals with impulse-radio ultra wide-band systems with multiple receive antennas.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>For binary PPM modulations, we propose various combining/detection schemes derived by the generalized likelihood ratio criterion.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>These schemes first combine delayed versions of the waveforms received at the different antennas and then compute the energies of the resulting signal over intervals smaller than half the symbol period.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The decision statistic is finally obtained by a linear combination of these energies.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>The proposed algorithms can be implemented using currently available technology.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>They outperform a detection scheme that simply combines the decision statistics obtained (at each antenna) by means of a conventional energy-based detector.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Their advantage increases with the number of antennas.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_88.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we consider quantum error correction over depolarizing channels with nonbinary low-density parity-check codes defined over Galois field of size 2p.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The proposed quantum error correcting codes are based on the binary quasi-cyclic Calderbank, Shor, and Steane (CSS) codes.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The resulting quantum codes outperform the best known quantum codes and surpass the performance limit of the bounded distance decoder.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active' comment='embedded method'>By increasing the size of the underlying Galois field, i.e., 2p, the error floors are considerably improved.</segment>    </body>
+</document>

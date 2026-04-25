@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_18.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In the LMM for hyperspectral images, all the image spectra lie on a high-dimensional simplex with corners called endmembers.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Given a set of endmembers, the standard calculation of fractional abundances with constrained least squares typically identifies the spectra as combinations of most, if not all, endmembers.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We assume instead that pixels are combinations of only a few endmembers, yielding abundance vectors that are sparse.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We introduce sparse demixing (SD), which is a method that is similar to orthogonal matching pursuit, for calculating these sparse abundances.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We demonstrate that SD outperforms an existing L1 demixing algorithm, which we prove to depend adversely on the angles between endmembers.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We combine SD with dictionary learning methods to calculate automatically endmembers for a provided set of spectra.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Applying it to an airborne visible/infrared imaging spectrometer image of Cuprite, NV, yields endmembers that compare favorably with signatures from the USGS spectral library.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_020.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article focuses on the proficiency level of texts in Computer Learner Corpora (CLCs).</segment> <segment id='2' features='rhetorical_moves' state='active'>A claim is made that proficiency levels are often poorly defined in CLC design, and that the methods used for level assignment of corpus texts are not always adequate.</segment> <segment id='3' features='rhetorical_moves' state='active'>Proficiency level can therefore, best be described as a fuzzy variable in CLCs, representing a potential source of error in CLC-based research.</segment> <segment id='4' features='rhetorical_moves' state='active'>The article starts with a review of some of the most commonly used methods of proficiency-level assignment of texts in CLCs and a discussion of strengths and weaknesses of the different methods.</segment> <segment id='5' features='rhetorical_moves' state='active'>A pioneer project to link a learner corpus of Norwegian (ASK) to the Common European Framework of Reference for Languages (CEFR) is presented to illustrate that a reliable assignment of corpus texts is viable by applying insights and practice from the professional field of language testing and assessment.</segment> <segment id='6' features='rhetorical_moves' state='active'>Finally, some advantages of a learner corpus reliably linked to the CEFR are discussed in relation to SLA research, to language test development, and to a validation of the CEFR-level descriptions.</segment>    </body>
+</document>

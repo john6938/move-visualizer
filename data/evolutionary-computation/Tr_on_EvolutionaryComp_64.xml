@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_64.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>A key problem in genomics is the classification and annotation of sequences in a genome.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>A major challenge is identifying good sequence features.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Evolutionary algorithms have the potential to search a large space of features and automatically generate useful ones.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>This paper proposes a two-stage method that generates features using multiple replicates of a genetic algorithm operating on an augmented finite state machine, called a side effect machine (SEM), and then selects a small diverse feature set using several methods, including a novel method called dissimilarity clustering.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We apply our method to three problems related to transposable elements and compare the results to those using $k$-mer features.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We are able to produce a small set of interesting and comprehensible features that create random forest classifiers more accurate and less prone to overfitting than those created using $k$-mer features.</segment> <segment id='7' features='rhetorical_moves;method' state='active' comment='discussion included as second coordinating clause after &quot;and&quot;'>We analyze the SEM fitness landscapes and discuss the use of different fitness functions.</segment>    </body>
+</document>

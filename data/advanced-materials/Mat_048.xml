@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_048.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A highly crystalline and low bandgap donor polymer, EI-PFDTBT, is developed by inserting ethylene bridging units to ensure a coplanar configuration between the side chains and the main chain.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Polymer solar cells based on the EI-PFDTBT and PC71BM blends spincoated at elevated temperatures exhibit a power conversion efficiency of 5.1%.</segment>    </body>
+</document>

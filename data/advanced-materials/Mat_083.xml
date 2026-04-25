@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_083.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Aligned oblique nanowire arrays (AONWAs; top image) with controllable obliquity, NW diameter, length, and density are produced by a novel method.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>A mechanism of array formation is proposed and it is demonstrated that the surface structure of AONWAs can be utilized to transport objects ranging from a polystyrene microsphere to a macroscopic PET sheet (lower figures).</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Unidirectional wetting of the surface and the relation between the anisotropy of the wetting and the NWs&apos; obliquity are described.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Potential applications of the AONWAs include fluidic diodes, drug delivery systems, and self-cleaning without a liquid.</segment>    </body>
+</document>

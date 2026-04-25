@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_034.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Some of the most compelling characters are morally ambiguous, but little research has examined these characters.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study (N = 313) empirically tests the effects of good, bad, and morally ambiguous characters (MACs) on audience responses.</segment> <segment id='3' features='rhetorical_moves' state='active'>Findings of an experiment reveal that different character types are appealing for different reasons.</segment> <segment id='4' features='rhetorical_moves' state='active'>Specifically, good characters are enjoyed because they are well liked; bad characters are liked the least, but they are equally as transporting, suspenseful, and thus cognitively engaging as other characters.</segment> <segment id='5' features='rhetorical_moves' state='active'>MACs, on the other hand, are liked less than good characters, but they are nevertheless equally as transporting, suspenseful, cognitively engaging, and thereby enjoyable as good characters.</segment> <segment id='6' features='rhetorical_moves' state='active'>The implications of these findings on various media effects theories are discussed.</segment>    </body>
+</document>

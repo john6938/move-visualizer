@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_013.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Matrix Converters (MCs) have some advantages when compared to conventional back-to-back PWM voltage source converters.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The converter may be considered more reliable and it can be smaller because the bulky dc capacitors are eliminated from the topology.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>For ac to ac power conversion, the size and weight of the whole generation system can be much reduced when back-to-back converters are replaced by MCs.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>To supply electrical energy to an unbalanced 3F stand-alone load, a fourth leg is required to provide a path for the zero-sequence load current.</segment> <segment id='5' features='rhetorical_moves;introduction;background' state='active'>To regulate the load voltage, closed-loop control is required.</segment> <segment id='6' features='rhetorical_moves;purpose' state='active'>In this paper, the application of d -q controllers and resonant controllers to four-leg MCs is addressed.</segment> <segment id='7' features='rhetorical_moves;introduction;overview' state='active'>The design and performance issues of the controllers, for operation with balanced, highly unbalanced loads and nonlinear loads are discussed in this paper.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results obtained from a small prototype are presented and analysed in detail.</segment>    </body>
+</document>

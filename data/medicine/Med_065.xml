@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_065.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate the credibility of authors’ claims of subgroup effects using a representative sample of recently published randomised controlled trials.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data source Core clinical journals, as defined by the National Library of Medicine, in Medline.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Study selection Randomised controlled trials published in 2007.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Using prespecified criteria, teams of trained reviewers independently judged whether authors claimed subgroup effects and the strength of their claims.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Reviewers assessed each of these claims against 10 predefined criteria, developed through a search of existing criteria and a consensus process.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Of 207 randomised controlled trials reporting subgroup analyses, 64 (31%) made claims for the primary outcome.</segment> <segment id='8' features='rhetorical_moves;purpose' state='active'>Of those, 20 were strong claims and 28 claims of a likely effect.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Authors included subgroup variables measured at baseline in 60 (94%) trials, used subgroup variable as a stratification factor at randomisation in 13 (20%), clearly prespecified their hypotheses in 26 (41%), correctly prespecified direction in 4 (6%), tested a small number of hypotheses in 28 (44%), carried out a test of interaction that proved statistically significant in 6 (9%), documented replication of a subgroup effect with previous related studies in 21 (33%), identified consistency of a subgroup effect across related outcomes in 19 (30%), and provided a compelling indirect evidence for the effect in 14 (22%).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>In the 19 trials making more than one claim, only one (5%) checked the independence of the interaction.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Of the 64 claims, 54 (84%) met four or fewer of the 10 criteria.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>For strong claims, more than 50% failed each of the individual criteria, and only three (15%) met more than five criteria.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion Authors often claim subgroup effects in their trial report.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>However, the credibility of subgroup effects, even when claims are strong, is usually low.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Users of the information should treat claims that fail to meet most criteria with scepticism.</segment> <segment id='16' features='rhetorical_moves;discussion' state='active'>Trial researchers should report the conduct of subgroup analyses and provide sufficient evidence when claiming a subgroup effect or suggesting a possible effect.</segment>    </body>
+</document>

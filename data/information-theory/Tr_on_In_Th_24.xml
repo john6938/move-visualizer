@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_24.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A lower bound on the minimum error probability for multihypothesis testing is established.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The bound, which is expressed in terms of the cumulative distribution function of the tilted posterior hypothesis distribution given the observation with tilting parameter , generalizes an earlier bound due the Poor and Verdu? (1995).</segment> <segment id='4' features='rhetorical_moves;method' state='active'>A sufficient condition is established under which the new bound (minus a multiplicative factor) provides the exact error probability asymptotically in .</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>Examples illustrating the new bound are also provided.</segment>    </body>
+</document>

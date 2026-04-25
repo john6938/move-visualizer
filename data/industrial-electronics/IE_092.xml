@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_092.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Permanent magnet synchronous machines (PMSM) are widely used in industrial applications.</segment> <segment id='2' features='rhetorical_moves' state='active'>Partial demagnetization and static eccentricity are among common faults in PMSM.</segment> <segment id='3' features='rhetorical_moves' state='active'>These faults will alter the acoustic behavior and torque pulsation by a significant margin.</segment> <segment id='4' features='rhetorical_moves' state='active'>In this paper, results of a thorough investigation on the impact of these faults on the force distribution, vibration, and acoustic behavior of the PMSM is presented.</segment> <segment id='5' features='rhetorical_moves' state='active'>Our force analysis is based on the field reconstruction method which is a very efficient technique for multi-physics field problems in electromechanical energy converters.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_058.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Even though many researchers devoted considerable attention to political discussion and its individual-level antecedents and outcomes, insights are based on single-country studies.</segment> <segment id='2' features='rhetorical_moves' state='active'>Cross-national variations were either never studied or implicitly equated to the U.S. context.</segment> <segment id='3' features='rhetorical_moves' state='active'>This study integrates explanations from communication and comparative politics to test whether political system features (e.g., electoral competitiveness and multiple parties) affect the macrosupply of political information, and thus either amplify or diminish the effects of individual characteristics on discussion.</segment> <segment id='4' features='rhetorical_moves' state='active'>Analyses of cross-national data show system features correlate with greater discussion frequency and moderate the contribution of individual differences to discussion.</segment> <segment id='5' features='rhetorical_moves' state='active'>The potential of systems to narrow gaps in mass public discussion and implications for future research are considered in conclusion.</segment>    </body>
+</document>

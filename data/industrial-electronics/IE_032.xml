@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_032.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A strategy based on internal model control (IMC) is proposed for a matrix converter-based permanent magnet synchronous machine (PMSM) drive system to reduce the adverse impact on drive performance caused by nonlinear output characteristics of matrix converter in the case of input voltage disturbance.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Based on the duty-cycle space vectors and small-signal model, the relationship between output and input disturbances is obtained in the synchronous reference frame.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Output characteristics of matrix converter are analyzed, and practical considerations are discussed for the purpose of controller design.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>A general design procedure of the robust IMC controller is described, and parameters of the controller are determined.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Numerical simulations and experiments with a 10-kW prototype are carried out.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The results show that good dynamic and steady-state performance on PMSM speed regulation is achieved under the unbalanced and distorted input voltage conditions, and the immunity of the drive system is verified to be improved.</segment>     </body>
+</document>

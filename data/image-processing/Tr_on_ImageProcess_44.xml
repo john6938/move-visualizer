@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_44.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The neighbor-embedding (NE) algorithm for single-image super-resolution (SR) reconstruction assumes that the feature spaces of low-resolution (LR) and high-resolution (HR) patches are locally isometric.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, this is not true for SR because of one-to-many mappings between LR and HR patches.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>To overcome or at least to reduce the problem for NE-based SR reconstruction, we apply a joint learning technique to train two projection matrices simultaneously and to map the original LR and HR feature spaces onto a unified feature subspace.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Subsequently, the k -nearest neighbor selection of the input LR image patches is conducted in the unified feature subspace to estimate the reconstruction weights.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>To handle a large number of samples, joint learning locally exploits a coupled constraint by linking the LR-HR counterparts together with the K-nearest grouping patch pairs.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>In order to refine further the initial SR estimate, we impose a global reconstruction constraint on the SR outcome based on the maximum a posteriori framework.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Preliminary experiments suggest that the proposed algorithm outperforms NE-related baselines.</segment>    </body>
+</document>

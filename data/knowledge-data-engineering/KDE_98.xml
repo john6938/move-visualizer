@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_98.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;gap' state='active'>If past versions of XML documents are retained, what of the various integrity constraints defined in XML Schema on those documents?</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>This paper describes how to interpret such constraints as sequenced constraints, applicable at each point in time.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>We also consider how to add new variants that apply across time, so-called nonsequenced constraints.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Our approach supports temporal documents that vary over both valid and transaction time, whose schema can vary over transaction time.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We do this by replacing the schema with a (possibly time-varying) temporal schema and replacing the document with a temporal document, both of which are upward compatible with conventional XML and with conventional tools like XMLLINT, which we have extended to support the temporal constraints introduced here.</segment>    </body>
+</document>

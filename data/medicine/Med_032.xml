@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_032.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To develop and validate a delirium prediction model for adult intensive care patients and determine its additional value compared with prediction by caregivers.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Observational multicentre study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Five intensive care units in the Netherlands (two university hospitals and three university affiliated teaching hospitals).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 3056 intensive care patients aged 18 years or over.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure Development of delirium (defined as at least one positive delirium screening) during patients’ stay in intensive care.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The model was developed using 1613 consecutive intensive care patients in one hospital and temporally validated using 549 patients from the same hospital.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>For external validation, data were collected from 894 patients in four other hospitals.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The prediction (PRE-DELIRIC) model contains 10 risk factors—age, APACHE-II score, admission group, coma, infection, metabolic acidosis, use of sedatives and morphine, urea concentration, and urgent admission.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The model had an area under the receiver operating characteristics curve of 0.87 (95% confidence interval 0.85 to 0.89) and 0.86 after bootstrapping.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Temporal validation and external validation resulted in areas under the curve of 0.89 (0.86 to 0.92) and 0.84 (0.82 to 0.87).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The pooled area under the receiver operating characteristics curve (n=3056) was 0.85 (0.84 to 0.87).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The area under the curve for nurses’ and physicians’ predictions (n=124) was significantly lower at 0.59 (0.49 to 0.70) for both.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion The PRE-DELIRIC model for intensive care patients consists of 10 risk factors that are readily available within 24 hours after intensive care admission and has a high predictive value.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Clinical prediction by nurses and physicians performed significantly worse.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>The model allows for early prediction of delirium and initiation of preventive measures.</segment>    </body>
+</document>

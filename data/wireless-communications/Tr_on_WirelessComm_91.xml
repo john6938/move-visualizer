@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_91.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We consider multiple relay selection for proactive relaying with diverse mean channel gains on different links.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We consider a variable rate system where the transmission rate is maximized based on an end-to-end (e2e) channel gain.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We consider two relay selection methods and provide an efficient algorithm for selecting an optimal set of active relay nodes, with a cardinality constraint on the set.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>An approximation to the statistical behavior of the e2e performance for the two relay selection methods is derived.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Our results show benefits from using multiple relays when different links exhibit different mean channel gains.</segment>    </body>
+</document>

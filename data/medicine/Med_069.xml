@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_069.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To relate cancer since entry into the Framingham Heart Study with the risk of incident Alzheimer’s disease and to estimate the risk of incident cancer among participants with and without Alzheimer’s disease.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Community based prospective cohort study; nested age and sex matched case-control study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Framingham Heart Study, USA.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 1278 participants with and without a history of cancer who were aged 65 or more and free of dementia at baseline (1986-90).</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Hazard ratios and 95% confidence intervals for the risks of Alzheimer’s disease and cancer.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Over a mean follow-up of 10 years, 221 cases of probable Alzheimer’s disease were diagnosed.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Cancer survivors had a lower risk of probable Alzheimer’s disease (hazard ratio 0.67, 95% confidence interval 0.47 to 0.97), adjusted for age, sex, and smoking.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The risk was lower among survivors of smoking related cancers (0.26, 0.08 to 0.82) than among survivors of non-smoking related cancers (0.82, 0.57 to 1.19).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>In contrast with their decreased risk of Alzheimer’s disease, survivors of smoking related cancer had a substantially increased risk of stroke (2.18, 1.29 to 3.68).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>In the nested case-control analysis, participants with probable Alzheimer’s disease had a lower risk of subsequent cancer (0.39, 0.26 to 0.58) than reference participants, as did participants with any Alzheimer’s disease (0.38) and any dementia (0.44).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Cancer survivors had a lower risk of Alzheimer’s disease than those without cancer, and patients with Alzheimer’s disease had a lower risk of incident cancer.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>The risk of Alzheimer’s disease was lowest in survivors of smoking related cancers, and was not primarily explained by survival bias.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>This pattern for cancer is similar to that seen in Parkinson’s disease and suggests an inverse association between cancer and neurodegeneration.</segment>    </body>
+</document>

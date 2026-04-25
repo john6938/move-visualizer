@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_005.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To review patterns of publication of clinical trials funded by US National Institutes of Health (NIH) in peer reviewed biomedical journals indexed by Medline.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cross sectional analysis.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Clinical trials funded by NIH and registered within ClinicalTrials.gov (clinicaltrials.gov), a trial registry and results database maintained by the US National Library of Medicine, after 30 September 2005 and updated as having been completed by 31 December 2008, allowing at least 30 months for publication after completion of the trial.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Main outcome measures Publication and time to publication in the biomedical literature, as determined through Medline searches, the last of which was performed in June 2011.</segment>
+
+<segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Results Among 635 clinical trials completed by 31 December 2008, 294 (46%) were published in a peer reviewed biomedical journal, indexed by Medline, within 30 months of trial completion.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The median period of follow-up after trial completion was 51 months (25th-75th centiles 40-68 months), and 432 (68%) were published overall.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Among published trials, the median time to publication was 23 months (14-36 months).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Trials completed in either 2007 or 2008 were more likely to be published within 30 months of study completion compared with trials completed before 2007 (54% (196/366) v 36% (98/269); P&lt;0.001).</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Conclusions Despite recent improvement in timely publication, fewer than half of trials funded by NIH are published in a peer reviewed biomedical journal indexed by Medline within 30 months of trial completion.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, after a median of 51 months after trial completion, a third of trials remained unpublished.</segment>    </body>
+</document>

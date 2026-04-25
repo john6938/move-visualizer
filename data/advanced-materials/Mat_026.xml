@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_026.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>An optimized 3D inkjet printing process is demonstrated for structuring alginate into a tissue-like microvasculature capable of supporting physiological flow rates.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Optimizing the reaction at the single-droplet level enables wet hydrogel droplets to be stacked, thus overcoming their natural tendancy to spread and coalesce.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>Live cells can be patterned using this process and it can be extended to a range of other hydrogels.</segment>    </body>
+</document>

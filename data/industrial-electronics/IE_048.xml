@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_048.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper investigates the problem of vehicle active suspension control with frequency band constraints and actuator input delay.</segment> <segment id='2' features='rhetorical_moves' state='active'>First, the mathematical model of suspension systems is established, and the problem of suspension control with finite-frequency constraints is formulated to match the characteristics of the human body.</segment> <segment id='3' features='rhetorical_moves' state='active'>Then, the finite-frequency method is developed to deal with the problem of suspension control with actuator input delay, based on the generalized Kalman-Yakubovich-Popov lemma.</segment> <segment id='4' features='rhetorical_moves' state='active'>Compared with the traditional entire-frequency approach for active suspension systems, the finite-frequency approach proposed in this paper achieves better disturbance attenuation performance for the chosen frequency range while the constraints required by real situation are guaranteed in the controller design.</segment> <segment id='5' features='rhetorical_moves' state='active'>The effectiveness and merits of the proposed method are verified by a number of simulations with several types of road disturbances.</segment> 
+    </body>
+</document>

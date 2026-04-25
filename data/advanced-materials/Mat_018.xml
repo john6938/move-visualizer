@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_018.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Supercapacitor electrode materials: Carbon nanocages are conveniently produced by an in situ MgO template method and demonstrate high specific capacitance over a wide range of charging– discharging rates with high stability, superior to the most carbonaceous supercapacitor electrode materials to date.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The large specific surface area, good mesoporosity, and regular structure are responsible for the excellent performance.</segment>    </body>
+</document>

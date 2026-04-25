@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_36.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper describes the algorithm&apos;s engineering of a covariance matrix self-adaptation evolution strategy (CMSA-ES) for solving a mixed linear/nonlinear constrained optimization problem arising in portfolio optimization.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>While the feasible solution space is defined by the (probabilistic) simplex, the nonlinearity comes in by a cardinality constraint bounding the number of linear inequalities violated.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>This gives rise to a nonconvex optimization problem.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The design is based on the CMSA-ES and relies on three specific techniques to fulfill the different constraints.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The resulting algorithm is then thoroughly tested on a data set derived from time series data of the Dow Jones Index.</segment>    </body>
+</document>

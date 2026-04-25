@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_47.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Motivated by the needs such as group relationship analysis, this paper introduces a new operation on graphs, named top-k path join, which discovers the top-k simple shortest paths between two given node sets.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Rather than discovering the top-k simple paths between each node pair, this paper proposes a holistic join method which answers the top-k path join by finding constrained top-k simple shortest paths between two nodes, and then devises an efficient method to handle the latter problem.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Specifically, we transform the graph by encoding the precomputed shortest paths to the target node, and use the transformed graph in the candidate path searching.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We show that the candidate path searching on the transformed graph not only has the same result as that on the original graph but also can be terminated much earlier with the aid of precomputed results.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>We also discuss two other optimization strategies, including considering the join constraint in the candidate path generation as early as possible, and pruning search space in each candidate path generation with an adaptively determined threshold.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The final extensive experimental results also show that our method offers a significant performance improvement over existing ones.</segment>    </body>
+</document>

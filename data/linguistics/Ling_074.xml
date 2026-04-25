@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_074.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Past research has found that tailoring increases the persuasive effectiveness of a message.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, the observed effect has been small and the explanatory mechanism remains unknown.</segment> <segment id='3' features='rhetorical_moves' state='active'>To address these shortcomings, a tailoring software program was created that personalized breast cancer screening pamphlets according to risk, health belief model constructs, and visual preference.</segment> <segment id='4' features='rhetorical_moves' state='active'>Women aged 40 and older (N?=?119) participated in a 2 (Tailored vs. Stock Message)?×?2 (Charts/Graphs vs. Illustrated Visuals)?×?3 (Nested Replications of the Visuals) experiment.</segment> <segment id='5' features='rhetorical_moves' state='active'>Participants provided with tailored illustrated pamphlets expressed greater breast cancer screening intentions than those provided with other pamphlets.</segment> <segment id='6' features='rhetorical_moves' state='active'>In a test of 10 different mediators, perceived message relevance was found to fully mediate the Tailoring?×?Visual interaction.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_053.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Although numerous media literacy interventions have been developed and delivered over the past 3 decades, a comprehensive meta-analytic assessment of their effects has not been available.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study investigates the average effect size and moderators of 51 media literacy interventions.</segment> <segment id='3' features='rhetorical_moves' state='active'>Media literacy interventions had positive effects (d = .37) on outcomes including media knowledge, criticism, perceived realism, influence, behavioral beliefs, attitudes, self-efficacy, and behavior.</segment> <segment id='4' features='rhetorical_moves' state='active'>Moderator analyses indicated that interventions with more sessions were more effective, but those with more components were less effective.</segment> <segment id='5' features='rhetorical_moves' state='active'>Intervention effects did not vary by the agent, target age, the setting, audience involvement, the topic, the country, or publication status.</segment>    </body>
+</document>

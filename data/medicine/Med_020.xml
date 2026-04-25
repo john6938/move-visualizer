@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_020.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To examine how much of the observed rapid decrease in mortality from coronary heart disease in Poland after the political, social, and economic transformation in the early 1990s could be explained by the use of medical and surgical treatments and how much by changes in cardiovascular risk factors.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design A modelling study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Sources of data included controlled trials and meta-analyses, national surveys, and official statistics.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Population of adults aged 25-74 in Poland in 1991-2005.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Number of deaths prevented or postponed in 2005 attributable to specific treatments for coronary heart disease and changes in risk factors.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>A previously validated epidemiological model for coronary heart disease was used to combine and analyse data on the uptake and effectiveness of specific cardiac treatments and changes in risk factors.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>The observed fall in deaths from coronary heart disease from 1991 to 2005 was then partitioned among specific treatments and risk factor changes.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results From 1991 to 2005, the death rate from coronary heart disease in Poland halved, resulting in 26?200 fewer coronary deaths in 2005 in people aged 25-74.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>About 37% (minimum estimate 13%, maximum estimate 77%) of this decrease was attributable to treatments, including treatments for heart failure (12%), initial treatments for acute coronary syndrome (9%), secondary prevention treatments after myocardial infarction or revascularisation (7%), chronic angina treatments (3%), and other treatments (6%).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>About 54% of the fall was attributed to changes in risk factors (minimum estimate 41%, maximum estimate 65%), mainly reductions in total cholesterol concentration (39%) and an increase in leisuretime physical activity (10%); however, these were partially offset by increases in body mass index (-4%) and prevalence of diabetes (-2%).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Blood pressure fell in women, explaining about 29% of their decrease in mortality, but rose in men generating a negative influence (-8%).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>About 15% of the observed decrease in mortality was attributable to reduced smoking in men but was negligible in women.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions Over half of the recent fall in mortality from coronary heart disease in Poland can be attributed to reductions in major risk factors and about one third to evidence based medical treatments.</segment>    </body>
+</document>

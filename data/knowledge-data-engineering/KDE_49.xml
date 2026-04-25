@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_49.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Peer-to-Peer multikeyword searching requires distributed intersection/union operations across wide area networks, raising a large amount of traffic cost.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Existing schemes commonly utilize Bloom Filters (BFs) encoding to effectively reduce the traffic cost during the intersection/union operations.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, we address the problem of optimizing the settings of a BF.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We show, through mathematical proof, that the optimal setting of BF in terms of traffic cost is determined by the statistical information of the involved inverted lists, not the minimized false positive rate as claimed by previous studies.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Through numerical analysis, we demonstrate how to obtain optimal settings.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>To better evaluate the performance of this design, we conduct comprehensive simulations on TREC WT10G test collection and query logs of a major commercial web search engine.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results show that our design significantly reduces the search traffic and latency of the existing approaches.</segment>    </body>
+</document>

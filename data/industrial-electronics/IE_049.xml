@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_049.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper addresses the performance degradation of multiple-input multiple-output (MIMO) communication systems due to MIMO wireless transceiver radio frequency integrated circuits (RFIC) imperfections.</segment> <segment id='2' features='rhetorical_moves' state='active'>The effects of signal coupling in RF front-end, frequency synthesizer phase noise, and the gain imbalance between different radio paths are investigated.</segment> <segment id='3' features='rhetorical_moves' state='active'>These issues are explored by analytical derivations and results are verified by Monte Carlo simulations.</segment> <segment id='4' features='rhetorical_moves' state='active'>The analytical model achieves a good agreement with the simulation results.</segment> <segment id='5' features='rhetorical_moves' state='active'>The conclusion can serve as a useful reference for MIMO RFIC designers.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

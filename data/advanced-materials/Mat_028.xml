@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_028.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Multilevel non-volatile memory for high-density date storage is achieved by using the deterministic control of ferroelectric polarization.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In a real ferroelectric thin-film system, eight stable and reproducible polarization states are realized (i.e., 3-bit data storage) by adjusting the displacement current.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>This approach can be used to triple or quadruple the memory density, even at existing feature scales.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_038.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To determine the incidence of any and referable diabetic retinopathy in people with type 2 diabetes mellitus attending an annual screening service for retinopathy and whose first screening episode indicated no evidence of retinopathy.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective four year analysis.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Screenings at the community based Diabetic Retinopathy Screening Service for Wales, United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 57?199 people with type 2 diabetes mellitus, who were diagnosed at age 30 years or older and who had no evidence of diabetic retinopathy at their first screening event between 2005 and 2009.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>49?763 (87%) had at least one further screening event within the study period and were included in the analysis.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Annual incidence and cumulative incidence after four years of any and referable diabetic retinopathy.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Relations between available putative risk factors and the onset and progression of retinopathy.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Cumulative incidence of any and referable retinopathy at four years was 360.27 and 11.64 per 1000 people, respectively.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>From the first to fourth year, the annual incidence of any retinopathy fell from 124.94 to 66.59 per 1000 people, compared with referable retinopathy, which increased slightly from 2.02 to 3.54 per 1000 people.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Incidence of referable retinopathy was independently associated with known duration of diabetes, age at diagnosis, and use of insulin treatment.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>For participants needing insulin treatment with a duration of diabetes of 10 years or more, cumulative incidence of referable retinopathy at one and four years was 9.61 and 30.99 per 1000 people, respectively.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Our analysis supports the extension of the screening interval for people with type 2 diabetes mellitus beyond the currently recommended 12 months, with the possible exception of those with diabetes duration of 10 years or more and on insulin treatment.</segment>    </body>
+</document>

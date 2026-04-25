@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_086.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A novel switched-capacitor inverter is proposed.</segment> <segment id='2' features='rhetorical_moves' state='active'>The proposed inverter outputs larger voltage than the input voltage by switching the capacitors in series and in parallel.</segment> <segment id='3' features='rhetorical_moves' state='active'>The maximum output voltage is determined by the number of the capacitors.</segment> <segment id='4' features='rhetorical_moves' state='active'>The proposed inverter, which does not need any inductors, can be smaller than a conventional two-stage unit which consists of a boost converter and an inverter bridge.</segment> <segment id='5' features='rhetorical_moves' state='active'>Its output harmonics are reduced compared to a conventional voltage source single phase full bridge inverter.</segment> <segment id='6' features='rhetorical_moves' state='active'>In this paper, the circuit configuration, the theoretical operation, the simulation results with MATLAB/SIMULINK, and the experimental results are shown.</segment> <segment id='7' features='rhetorical_moves' state='active'>The experimental results accorded with the theoretical calculation and the simulation results.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

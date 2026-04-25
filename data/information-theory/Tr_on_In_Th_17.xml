@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_17.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper investigates a channel model describing optical communication based on intensity modulation.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>It is assumed that the main distortion is caused by additive Gaussian noise, however, with a noise variance depending on the current signal strength.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Both the high-power and low-power asymptotic capacities under simultaneously both a peak-power and an average-power constraint are derived.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The high-power results are based on a new firm (nonasymptotic) lower bound and a new asymptotic upper bound.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The upper bound relies on a dual expression for channel capacity and the notion of capacity-achieving input distributions that escape to infinity.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The lower bound is based on a new lower bound on the differential entropy of the channel output in terms of the differential entropy of the channel input.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>The low-power results make use of a theorem by Prelov and van der Meulen.</segment>    </body>
+</document>

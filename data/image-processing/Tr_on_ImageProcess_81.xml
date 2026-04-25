@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_81.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>As a newly developed 2-D extension of the wavelet transform using multiscale and directional filter banks, the contourlet transform can effectively capture the intrinsic geometric structures and smooth contours of a texture image that are the dominant features for texture classification.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a novel Bayesian texture classifier based on the adaptive model-selection learning of Poisson mixtures on the contourlet features of texture images.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The adaptive model-selection learning of Poisson mixtures is carried out by the recently established adaptive gradient Bayesian Ying-Yang harmony learning algorithm for Poisson mixtures.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>It is demonstrated by the experiments that our proposed Bayesian classifier significantly improves the texture classification accuracy in comparison with several current state-of-the-art texture classification approaches.</segment>    </body>
+</document>

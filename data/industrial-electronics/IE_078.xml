@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_078.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Electric vehicles make use of permanent-magnet (PM) synchronous traction motors for their high torque density and efficiency.</segment> <segment id='2' features='rhetorical_moves' state='active'>A comparison between interior PM and surface-mounted PM (SPM) motors is carried out, in terms of performance at given inverter ratings.</segment> <segment id='3' features='rhetorical_moves' state='active'>The results of the analysis, based on a simplified analytical model and confirmed by finite element (FE) analysis, show that the two motors have similar rated power but that the SPM motor has barely no overload capability, independently of the available inverter current.</segment> <segment id='4' features='rhetorical_moves' state='active'>Moreover, the loss behavior of the two motors is rather different in the various operating ranges with the SPM one better at low speed due to short end connections but penalized at high speed by the need of a significant deexcitation current.</segment> <segment id='5' features='rhetorical_moves' state='active'>The analysis is validated through FE simulation of two actual motor designs.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

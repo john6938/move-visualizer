@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_097.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The dorsal striatum plays a key role in the learning and expression of instrumental reward associations that are acquired through direct experience.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, not all learning about instrumental actions require direct experience.</segment> <segment id='3' features='rhetorical_moves' state='active'>Instead, humans and other animals are also capable of acquiring instrumental actions by observing the experiences of others.</segment> <segment id='4' features='rhetorical_moves' state='active'>In this study, we investigated the extent to which human dorsal striatum is involved in observational as well as experiential instrumental reward learning.</segment> <segment id='5' features='rhetorical_moves' state='active'>Human participants were scanned with fMRI while they observed a confederate over a live video performing an instrumental conditioning task to obtain liquid juice rewards.</segment> <segment id='6' features='rhetorical_moves' state='active'>Participants also performed a similar instrumental task for their own rewards.</segment> <segment id='7' features='rhetorical_moves' state='active'>Using a computational model-based analysis, we found reward prediction errors in the dorsal striatum not only during the experiential learning condition but also during observational learning.</segment> <segment id='8' features='rhetorical_moves' state='active'>These results suggest a key role for the dorsal striatum in learning instrumental associations, even when those associations are acquired purely by observing others.</segment>    </body>
+</document>

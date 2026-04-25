@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_063.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the relation between troponin concentration, assay precision, and clinical outcomes in patients with suspected acute coronary syndrome.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Tertiary centre in Scotland.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 2092 consecutive patients admitted with suspected acute coronary syndrome were stratified with a sensitive troponin I assay into three groups (&lt;0.012, 0.012-0.049, and =0.050 µg/L) based on the 99th centile for troponin concentration (0.012 µg/L; coefficient of variation 20.8%) and the diagnostic threshold (0.050 µg/L; 7.2%).</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure One year survival without events (recurrent myocardial infarction, death) in patients grouped by troponin concentration.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Troponin I concentrations were &lt;0.012 µg/L in 988 patients (47%), 0.012-0.049 µg/L in 352 patients (17%), and =0.050 µg/L in 752 patients (36%).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Adoption of the 99th centile would increase the number of people receiving a diagnosis of myocardial infarction from 752 to 1104: a relative increase of 47%.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>At one year, patients with troponin concentrations of 0.012-0.049 µg/L were more likely to be dead or readmitted with recurrent myocardial infarction than those with troponin concentrations &lt;0.012 µg/L (13% v 3%, P&lt;0.001; odds ratio 4.7, 95% confidence interval 2.9 to 7.9).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with troponin =0.050 µg/L, patients with troponin 0.012-0.049 µg/L had a higher risk profile but were less likely to have a diagnosis of, or be investigated and treated for, acute coronary syndrome.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusion Lowering the diagnostic threshold to the 99th centile and accepting greater assay imprecision would identify more patients with acute coronary syndrome at risk of recurrent myocardial infarction and death but would increase the diagnosis of myocardial infarction by 47%.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>It remains to be established whether reclassification of these patients and treatment for myocardial infarction would improve outcome.</segment>    </body>
+</document>

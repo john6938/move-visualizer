@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_27.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Simulcasting involves transmitting the same signal simultaneously over several antennas on the same carrier frequency.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We derive the optimal grouping condition for simulcasting over a massively distributed antenna system (DAS) employing orthogonal space-time block coding (STBC), where the order of the STBC coding matrix n_o is smaller than the number of remote antenna units (RAUs).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>While the optimum grouping minimizes the average bit error rate (BER) in the coverage area, we further propose two heuristic grouping rules and derive the corresponding stream-balanced grouping schemes in three DAS topologies, namely, linear, hexagonal and square lattice, to achieve low average BER across the area covered by the DAS.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results for the different topologies confirm the superiority of the proposed grouping schemes compared with the other grouping methods.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Also, when either n_o or the RAU density increases, the average BER decreases.</segment>    </body>
+</document>

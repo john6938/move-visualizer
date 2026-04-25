@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_061.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Novel dye-terminated, hyperbranched polytruxenes and polytruxene-block-polythiophene multiblock copolymers have been synthesized in a simple “AB2 + A” approach.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Photoexcitation into the higher energy polytruxene absorption band results in an efficient excitation energy transfer to the peripheral dye or polythiophene blocks.</segment>    </body>
+</document>

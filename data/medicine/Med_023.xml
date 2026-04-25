@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_023.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the effectiveness of an adjuvanted monovalent vaccine against pandemic influenza A/H1N1 among people with underlying chronic diseases.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Historical cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Mandatory national reporting systems, 2 November 2009 to 31 January 2010, Denmark.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 388?069 people under 65 years of age with a diagnosis in the past five years of at least one underlying disease expected to increase the risk of severe illness after influenza.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Laboratory confirmed H1N1 infection and influenza related hospital admission with laboratory confirmed H1N1 infection.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Estimates of vaccine effectiveness were adjusted for age and underlying disease.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results The effectiveness of pandemic vaccine against confirmed H1N1 infection 14 days after one dose of vaccine was 49% (95% confidence interval 10% to 71%).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The effectiveness of vaccine against admission to hospital for confirmed H1N1 infection was 44% (-19% to 73%).</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions The adjuvanted monovalent vaccine against pandemic influenza A/H1N1 was offered late in the 2009-10 influenza season.</segment> <segment id='10' features='rhetorical_moves;discussion' state='active'>Among chronically ill people, this vaccine offered protection against laboratory confirmed H1N1 infection but only offered non-significant protection against influenza related hospital admissions confirmed as H1N1 infection.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>This finding is of public health relevance because the population of chronically ill people is a major target group for pandemic vaccinations and because of the delayed availability of pandemic vaccines in a forthcoming pandemic.</segment>    </body>
+</document>

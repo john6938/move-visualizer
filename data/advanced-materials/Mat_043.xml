@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_043.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Plan-view and cross-sectional transmission electron microscopy images show the microstructural properties of GaN thin films grown on graphene layers, including dislocation types and density, crystalline orientation and grain boundaries.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The roles of ZnO nanowalls and GaN intermediate layers in the heteroepitaxial growth of GaN on graphene, revealed by cross-sectional transmission electron microscopy, are also discussed.</segment>    </body>
+</document>

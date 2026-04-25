@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_062.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Some errors in the three-arm automatic voltage regulator in the paper “Three-Arm AC Automatic Voltage Regulator” by Wu (IEEE Trans.</segment> <segment id='2' features='rhetorical_moves' state='active'>Ind.</segment> <segment id='3' features='rhetorical_moves' state='active'>Electron, vol.</segment> <segment id='4' features='rhetorical_moves' state='active'>58, no.</segment> <segment id='5' features='rhetorical_moves' state='active'>2, pp.</segment> <segment id='6' features='rhetorical_moves' state='active'>567-575, Feb. 2011) are pointed out, and a technique for correcting these errors is given.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

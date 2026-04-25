@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_096.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To investigate whether there is an association between use of angiotensin receptor blockers and risk of cancer.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cohort study of risk of cancer in people treated with angiotensin receptor blockers compared with angiotensin converting enzyme (ACE) inhibitors.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Effects were explored with time updated covariates in Cox models adjusted for age, sex, body mass index (BMI), diabetes and metformin/insulin use, hypertension, heart failure, statin use, socioeconomic status, alcohol, smoking, and calendar year.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Absolute changes in risk were predicted from a Poisson model incorporating the strongest determinants of risk from the main analysis.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Setting UK primary care practices contributing to the General Practice Research Database.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Participants 377?649 new users of angiotensin receptor blockers or ACE inhibitors with at least one year of initial treatment.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Adjusted hazard ratios for all cancer and major site specific cancers (breast, lung, colon, prostate) by exposure to angiotensin receptor blockers and by cumulative duration of use.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Follow-up ended a median of 4.6 years after the start of treatment; 20?203 cancers were observed.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>There was no evidence of any increase in overall risk of cancer among those ever exposed to angiotensin receptor blockers (adjusted hazard ratio 1.03, 95% confidence interval 0.99 to 1.06, P=0.10).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>For specific cancers, there was some evidence of an increased risk of breast and prostate cancer (1.11, 1.01 to 1.21, P=0.02; and 1.10, 1.00 to 1.20, P=0.04; respectively), which in absolute terms corresponded to an estimated 0.5 and 1.1 extra cases, respectively, per 1000 person years of follow-up among those with the highest baseline risk.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Longer duration of treatment did not seem to be associated with higher risk (P&gt;0.15 in each case).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>There was a decreased risk of lung cancer (0.84, 0.75 to 0.94), but no effect on colon cancer (1.02, 0.91 to 1.16).</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions Use of angiotensin receptor blockers was not associated with an increased risk of cancer overall.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Observed increased risks for breast and prostate cancer were small in absolute terms, and the lack of association with duration of treatment meant that non-causal explanations could not be excluded.</segment>    </body>
+</document>

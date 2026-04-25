@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_18.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>The capacity region of the -sender Gaussian multiple access channel with feedback is not known in general.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>This paper studies the class of linear-feedback codes that includes (nonlinear) nonfeedback codes at one extreme and the linear-feedback codes by Schalkwijk and Kailath, Ozarow, and Kramer at the other extreme.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The linear-feedback sum-capacity under symmetric power constraints is characterized, the maximum sum-rate achieved by linear-feedback codes when each sender has the equal block power constraint .</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In particular, it is shown that Kramer&apos;s code achieves this linear-feedback sum-capacity.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The proof involves the dependence balance condition introduced by Hekstra and Willems and extended by Kramer and Gastpar, and the analysis of the resulting nonconvex optimization problem via a Lagrange dual formulation.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Finally, an observation is presented based on the properties of the conditional maximal correlation-an extension of the Hirschfeld-Gebelein-Re?nyi maximal correlation-which reinforces the conjecture that Kramer&apos;s code achieves not only the linear-feedback sum-capacity, but also the sum-capacity itself (the maximum sum-rate achieved by arbitrary feedback codes).</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_95.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Long term evolution (LTE) is considered to be a key technology for the next generation of cellular telecommunications.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In LTE systems, each user equipment (UE) detects the surrounding cells by searching their identities (IDs) in the synchronization channels of the received waveform.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Searching and tracking neighboring cells is important for cellular network management, such as handover and base station cooperation.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, we establish a general framework for neighboring cell search (NCS) in LTE systems.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>In particular, we derive sufficient signal metrics (SSMs) for NCS under various channel conditions, and develop NCS algorithms based on the SSMs, which optimally combine multiple observations over space and/or time.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>Moreover, we develop a statistical model for NCS using probability analysis.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The performance of NCS algorithms is characterized in terms of the number of detected cells and the cell detection probability, and simulation results validate the effectiveness of the proposed algorithms.</segment>    </body>
+</document>

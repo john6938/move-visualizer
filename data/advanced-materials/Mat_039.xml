@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_039.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Spray layer-by-layer assembly is used to create hemostatic films containing thrombin and tannic acid.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>The spray assembly technique enables coating of porous and absorbent commercial gelatin sponges with these films.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Coated sponges are able to promote instantaneous hemostasis in a porcine spleen bleeding model.</segment>    </body>
+</document>

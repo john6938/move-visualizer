@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_014.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether vitamin A supplementation administered in the preschool years can lower the risk of hearing loss in adolescence and adulthood.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Follow-up study of adolescents and young adults who, as preschool aged children in 1989, were enrolled into a cluster randomised, double blinded, placebo controlled trial of vitamin A supplementation.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting South central, rural Nepal.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 2378 adolescents and young adults aged 14 to 23, representing 51% of those who finished the original trial and 71% of those living in the study area in 2006.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Every four months for 16 months preschool children were visited at home, given an oral 200?000 IU dose of vitamin A (half dose at age 1-11 months, quarter dose at &lt;1 month) or placebo and the parents were queried about any childhood illnesses in the previous week, including purulent discharge from the ears.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Prevalence of mild or worse hearing loss (=30 dB) in the most affected ear and tympanometric measures of middle ear function (peak height, ear canal volume, and gradient).</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results During the original trial, the prevalence of middle ear infection during the preschool years did not differ between the supplement groups.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>By adolescence and early adulthood, a non-significant 17% reduction in hearing loss occurred among those who had periodically received vitamin A compared with placebo as preschool aged children (odds ratio 0.83, 95% confidence interval 0.62 to 1.12).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Among participants with any ear discharge in early childhood, vitamin A supplementation was associated with a reduced risk of hearing loss, by 42% (0.58, 0.37 to 0.92) compared with controls, after adjusting the confidence interval for the design effect of the original trial.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Abnormal tympanometric peak height of the middle ear system was less likely among participants supplemented with vitamin A in childhood.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusion In undernourished settings, periodic, high dose vitamin A supplementation may reduce the risk of hearing loss associated with purulent ear infections in early childhood.</segment>    </body>
+</document>

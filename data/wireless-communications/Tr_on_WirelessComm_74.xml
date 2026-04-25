@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_74.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a practical implementation of the Dynamic Decode and Forward (DDF) protocol based on rateless codes and HARQ.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We define the macro diversity order of a transmission from several intermittent sources to a single destination.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Considering finite symbol alphabet used by the different sources, upper bounds on the achievable macro diversity order are derived.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We analyse the diversity behavior of several relaying schemes for the DDF protocol, and we propose the Patching technique to increase both the macro and the micro diversity orders.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The coverage gain for the open-loop transmission case and the spectral efficiency gain for the closed loop transmission case are illustrated by simulation results.</segment>    </body>
+</document>

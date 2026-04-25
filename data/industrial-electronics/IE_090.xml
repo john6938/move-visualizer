@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_090.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this paper, a new family of zero-voltage-transition bidirectional converters using coupled inductors is introduced.</segment> <segment id='2' features='rhetorical_moves' state='active'>By applying two auxiliary switches and coupled inductors, soft-switching condition is achieved for all semiconductor elements regardless of the power flow direction.</segment> <segment id='3' features='rhetorical_moves' state='active'>Moreover, the presence of coupled inductors provides significant reduction in the converter volume, since all the converter inductors are implemented on a single core.</segment> <segment id='4' features='rhetorical_moves' state='active'>Also, all semiconductor elements benefit from soft-switching condition in full duty cycle range, and thus, high efficiency is achieved for full line voltage range.</segment> <segment id='5' features='rhetorical_moves' state='active'>No extra voltage and current stresses on the main switches and the ease of control are the other properties of the proposed converters.</segment> <segment id='6' features='rhetorical_moves' state='active'>The proposed bidirectional buck and boost converter is fully analyzed for both buck and boost operating modes.</segment> <segment id='7' features='rhetorical_moves' state='active'>The validity of the theoretical analysis is justified using the experimental results of a 240-W 50-100-V prototype converter.</segment> 
+    </body>
+</document>

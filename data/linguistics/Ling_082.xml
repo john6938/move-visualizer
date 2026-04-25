@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_082.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A content analysis was conducted to examine the portrayal of social aggression in the 50 most popular television programs among 2- to 11-year-old children.</segment> <segment id='2' features='rhetorical_moves' state='active'>Results revealed that 92% of the programs in the sample contained some social aggression.</segment> <segment id='3' features='rhetorical_moves' state='active'>On average, there were 14 different incidents of social aggression per hour in these shows, or one every 4 minutes.</segment> <segment id='4' features='rhetorical_moves' state='active'>Compared to the portrayals of physical aggression, social aggression was more likely to be enacted by an attractive perpetrator, to be featured in a humorous context, and neither rewarded or punished.</segment> <segment id='5' features='rhetorical_moves' state='active'>In these ways, social aggression on television poses more of a risk for imitation and learning than do portrayals of physical aggression.</segment> <segment id='6' features='rhetorical_moves' state='active'>Findings are discussed in terms of social cognitive theory.</segment>    </body>
+</document>

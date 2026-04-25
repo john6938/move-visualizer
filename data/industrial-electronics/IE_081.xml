@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_081.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents a new configuration for switched reluctance motor (SRM) which can be proposed as a suitable candidate for high-torque and low-flux-leakage SRMs.</segment> <segment id='2' features='rhetorical_moves' state='active'>Unlike the conventional SRMs, this configuration has no direct windings wrapped on the stator poles.</segment> <segment id='3' features='rhetorical_moves' state='active'>This motor consists of three different sets, and each set has one concentric independent winding, two layers of the stator poles, and three layers of the rotor poles in which the middle rotor layer acts as a core for phase winding.</segment> <segment id='4' features='rhetorical_moves' state='active'>To evaluate the motor performance, two types of analysis, namely, numerical technique and experimental study, have been utilized.</segment> <segment id='5' features='rhetorical_moves' state='active'>In the numerical analysis, the 3-D finite-element method is employed, whereas in the experimental study, a prototype motor has been fabricated and tested in the laboratory.</segment> <segment id='6' features='rhetorical_moves' state='active'>Finally, experimental results are compared to conventional SRM to verify the advantages of the proposed motor and show its applicability.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

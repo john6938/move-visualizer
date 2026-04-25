@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_34.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>For economic reasons, most digital cameras use color filter arrays instead of beam splitters to capture image data.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>As a result of this, only one of the required three color samples becomes available at each pixel location and the other two need to be interpolated.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>This process is called Color Filter Array (CFA) interpolation or demosaicing.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>Many demosaicing algorithms have been introduced over the years to improve subjective and objective interpolation quality.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We propose an orientation-free edge strength filter and apply it to the demosaicing problem.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Edge strength filter output is utilized both to improve the initial green channel interpolation and to apply the constant color difference rule adaptively.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>This simple edge directed method yields visually pleasing results with high CPSNR.</segment>    </body>
+</document>

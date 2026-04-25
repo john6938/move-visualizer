@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_028.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To examine the association between chronic use of proton pump inhibitors (PPIs) and risk of hip fracture.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Nurses’ Health Study, which originally recruited from the 11 most populous states in the US.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 79?899 postmenopausal women enrolled in the Nurses’ Health Study who provided data on the use of PPIs and other risk factors biennially since 2000 and were followed up to 1 June 2008.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure Incident hip fracture</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results During 565?786 person years of follow-up, we documented 893 incident hip fractures.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The absolute risk of hip fracture among regular users of PPIs was 2.02 events per 1000 person years, compared with 1.51 events per 1000 person years among non-users.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with non-users, the risk of hip fracture among women who regularly used PPIs for at least two years was 35% higher (age adjusted hazard ratio 1.35 (95% confidence interval 1.13 to 1.62)), with longer use associated with increasing risk (Ptrend&lt;0.01).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Adjustment for risk factors, including body mass index, physical activity, and intake of calcium did not materially alter this association (hazard ratio 1.36 (1.13 to 1.63)).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>These associations were also not changed after accounting for reasons for PPI use.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The relation between PPI use and fracture differed by smoking history (Pinteraction=0.03).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Among current and former smokers, PPI use was associated with greater than 50% increase in risk of fracture, with a multivariate hazard ratio for fracture of 1.51 (1.20 to 1.91).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>In contrast, among women who never smoked there was no association (multivariate hazard ratio 1.06 (0.77 to 1.46)).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>In a meta-analysis of these results with 10 prior studies, the pooled odds ratio of hip fracture associated with PPI use was 1.30 (1.25 to 1.36).</segment>
+
+<segment id='15' features='rhetorical_moves;discussion' state='active'>Conclusion Chronic use of PPIs is associated with increased risk of hip fracture, particularly among women with a history of smoking.</segment>    </body>
+</document>

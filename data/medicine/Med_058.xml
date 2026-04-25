@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_058.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the temporal trends in occupation specific all causes and cause specific mortality in Japan between 1980 and 2005.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Longitudinal analysis of individual death certificates by last occupation before death.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Data on population by age and occupation were derived from the population census.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Setting Government records, Japan.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Participants Men aged 30-59.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Age standardised mortality rate for all causes, all cancers, cerebrovascular disease, ischaemic heart disease, unintentional injuries, and suicide.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Age standardised mortality rates for all causes and for the four leading causes of death (cancers, ischaemic heart disease, cerebrovascular disease, and unintentional injuries) steadily decreased from 1980 to 2005 among all occupations except for management and professional workers, for whom rates began to rise in the late 1990s (P&lt;0.001).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>During the study period, the mortality rate was lowest in other occupations such as production/labour, clerical, and sales workers, although overall variability of the age standardised mortality rate across occupations widened.</segment> <segment id='9' features='rhetorical_moves;discussion' state='active'>The rate for suicide rapidly increased since the late 1990s, with the greatest increase being among management and professional workers.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Occupational patterns in cause specific mortality changed dramatically in Japan during the period of its economic stagnation and resulted in the reversal of occupational patterns in mortality that have been well established in western countries.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>A significant negative effect on the health of management and professional workers rather than clerks and blue collar workers could be because of increased job demands and more stressful work environments and could have eliminated or even reversed the health inequality across occupations that had existed previously.</segment>    </body>
+</document>

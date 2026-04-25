@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_033.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To characterise symptoms experienced by women during the transition into natural menopause, to classify women into distinct symptom profiles or trajectories, and to relate these profiles to sociodemographic factors and health behaviours.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Nationally representative cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting England, Scotland, and Wales.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 695 women followed-up since birth in 1946 and annually from age 47 to 54 who experienced natural menopause and reported on 20 common health symptoms.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure Longitudinal profiles for reported bothersome symptoms.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Of 20 individual symptoms, 18 formed into four stable symptom groups: psychological, somatic, vasomotor, and sexual discomfort.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Using latent class analyses, all except the somatic group of symptoms showed a clear relation with the timing of menopause for some women.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>A small proportion of women (10%, n=63) had a severe psychological symptom profile that peaked at or in the year after menopause.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>For vasomotor symptoms, 14% of women (n=83) had the early severe profile that also peaked around early postmenopause and then declined noticeably; 11% (n=67) had the late severe profile of bothersome symptoms that increased rapidly in perimenopause and remained high for four years or more after menopause.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Women were less likely to have a profile for severe vasomotor symptoms if they were from a non-manual social class (odds ratio 0.79, 95% confidence interval 0.57 to 1.01) or had degree level qualifications (0.37, 0.18 to 0.77).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The 14% of women (n=85) who had the late severe profile for sexual discomfort showed a similar increase in symptoms until menopause, with symptoms persisting after menopause.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Married women were more likely to have the late severe or late moderate profile than women of other marital status (2.40, 1.30 to 4.41).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Four profiles each were identified for somatic symptoms (mild, moderate, severe, and very severe), although these did not vary by chronological age or age at menopause.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusion Profiles for psychological, vasomotor, and sexual discomfort symptoms relative to age at menopause could help health professionals to tailor their advice for women with natural menopause.</segment>    </body>
+</document>

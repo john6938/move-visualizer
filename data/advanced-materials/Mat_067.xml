@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_067.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>The use of an ITO-free MoO3/Ag/MoO3 anode to control the photon harvesting in PCDTBT:PC70BM solar cells is proposed.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>At first sight, the fact that these anodes possess reduced far-field transmission compared to ITO may seem to be a disadvantage.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>But, despite this, we show that by carefully tuning the resonant optical cavity we can enhance the external quantum efficiency close to the band edge of PCDTBT, resulting in high photocurrent and power conversion efficiency on par with ITO.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_089.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To investigate the association between opium use and subsequent risk of death.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting The Golestan Cohort Study in north-eastern Iran collected detailed validated data on opium use and other exposures at baseline.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Participants were enrolled between January 2004 and June 2008 and were followed to May 2011, with a follow-up success rate of over 99%.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Participants 50?045 participants aged 40-75 at baseline.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcomes Mortality, all cause and major subcategories.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results 17% (n=8487) of the participants reported opium use, with a mean duration of 12.7 years.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>During the follow-up period 2145 deaths were reported.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The adjusted hazard ratio for all cause mortality associated with ever use of opium was 1.86 (95% confidence interval 1.68 to 2.06).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Opium consumption was significantly associated with increased risks of deaths from several causes including circulatory diseases (hazard ratio 1.81) and cancer (1.61).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The strongest associations were seen with deaths from asthma, tuberculosis, and chronic obstructive pulmonary disease (11.0, 6.22, and 5.44, respectively).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>After exclusion of people who self prescribed opium after the onset of major chronic illnesses, the associations remained strong with a dose-response relation.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion Opium users have an increased risk of death from multiple causes compared with non-users.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Increased risks were also seen in people who used low amounts of opium for a long period and those who had no major illness before use.</segment>    </body>
+</document>

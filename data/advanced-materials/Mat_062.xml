@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_062.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The authors study at the density-functional theory level the modification of the electronic structure of the ITO surface upon self-assembly of a monolayer of t-butyl carbazole-substituted phosphonic acid molecules and subsequent p-doping.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The results of the calculations point to the existence of two channels for charge transfer.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>These channels can enhance hole injection between ITO and a hole-transport overlayer through the chemically-modified interface.</segment>    </body>
+</document>

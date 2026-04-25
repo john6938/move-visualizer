@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_014.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article argues for the relevance of poststructuralist approaches to the notion of a linguistic repertoire and introduces the notion of language portraits as a basis for empirical study of the way in which speakers conceive and represent their heteroglossic repertoires.</segment> <segment id='2' features='rhetorical_moves' state='active'>The first part of the article revisits Gumperz’s notion of a linguistic repertoire, and then considers the challenge to the concept represented by the conditions of super-diversity.</segment> <segment id='3' features='rhetorical_moves' state='active'>It then argues that poststructuralist approaches, exemplified in the work of Jacques Derrida and Judith Butler, add an exploration of previously neglected factors such as the power of categories or the significance of desire in language.</segment> <segment id='4' features='rhetorical_moves' state='active'>In the second part, this article considers a novel methodological approach to studying linguistic repertoires: a multimodal, biographical approach using a language portrait, which involves a close reading of the visual and verbal representation of linguistic experience and linguistic resources.</segment> <segment id='5' features='rhetorical_moves' state='active'>The final part of the article discusses how a poststructuralist approach can contribute to expanding the notion of ‘repertoire’.</segment>    </body>
+</document>

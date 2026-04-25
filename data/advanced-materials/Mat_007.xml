@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_007.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Replacing batteries by nanogenerators (NGs) in small consumer electronics is one of the goals in the emerging field of self-powered nanotechnology.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We show that the maximum measured output voltage of an NG optimized with pretreatments on the as-grown ZnO nanowire films reaches 20 V and the output current exceeds 6 µA, which corresponds to a power density of 0.2 W cm-3.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The NG is also demonstrated to replace a battery for driving a electronic watch.</segment>    </body>
+</document>

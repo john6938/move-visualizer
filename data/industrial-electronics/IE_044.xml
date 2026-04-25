@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_044.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents a novel two-level scheme for adaptive active visual servoing of a mobile robot equipped with a pan camera.</segment> <segment id='2' features='rhetorical_moves' state='active'>In the lower level, the pan platform carrying an onboard camera is controlled to keep the reference points lying around the center of the image plane.</segment> <segment id='3' features='rhetorical_moves' state='active'>On the higher level, a switched controller is utilized to drive the mobile robot to reach the desired configuration through image feature feedback.</segment> <segment id='4' features='rhetorical_moves' state='active'>The designed active visual servoing system presents such advantages as follows: 1) a satisfactory solution for the field-of-view problem; 2) global high servoing efficiency; and 3) free of any complex pose estimation algorithm usually required for visual servoing systems.</segment> <segment id='5' features='rhetorical_moves' state='active'>The performance of the active visual servoing system is proven by rigorous mathematical analysis.</segment> <segment id='6' features='rhetorical_moves' state='active'>Both simulation and experimental results are provided to validate the effectiveness of the proposed active visual servoing method.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

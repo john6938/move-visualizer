@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_034.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To examine variations in the registration of extremely low birthweight and early gestation births and to assess their effect on perinatal and infant mortality rankings of industrialised countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective population based study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Australia, Canada, European countries, and the United States for 2004; Australia, Canada, and New Zealand for 2007.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Population National data on live births and on fetal, neonatal, and infant deaths.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Reported proportions of live births with birth weight/gestational age of less than 500 g, less than 1000 g, less than 24 weeks, and less than 28 weeks; crude rates of fetal, neonatal, and infant mortality; mortality rates calculated after exclusion of births under 500 g, under 1000 g, less than 24 weeks, and less than 28 weeks.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The proportion of live births under 500 g varied widely from less than 1 per 10?000 live births in Belgium and Ireland to 10.8 per 10?000 live births in Canada and 16.9 in the United States.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Neonatal deaths under 500 g, as a proportion of all neonatal deaths, also ranged from less than 1% in countries such as Luxembourg and Malta to 29.6% in Canada and 31.1% in the United States.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Rankings of countries based on crude fetal, neonatal, and infant mortality rates differed substantially from rankings based on rates calculated after exclusion of births with a birth weight of less than 1000 g or a gestational age of less than 28 weeks.</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions International differences in reported rates of extremely low birthweight and very early gestation births probably reflect variations in registration of births and compromise the validity of international rankings of perinatal and infant mortality.</segment>    </body>
+</document>

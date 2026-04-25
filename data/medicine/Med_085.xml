@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_085.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To evaluate whether a new computerised cognitive behavioural therapy intervention (SPARX, Smart, Positive, Active, Realistic, X-factor thoughts) could reduce depressive symptoms in help seeking adolescents as much or more than treatment as usual.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Multicentre randomised controlled non-inferiority trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting 24 primary healthcare sites in New Zealand (youth clinics, general practices, and school based counselling services).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 187 adolescents aged 12-19, seeking help for depressive symptoms, with no major risk of self harm and deemed in need of treatment by their primary healthcare clinicians: 94 were allocated to SPARX and 93 to treatment as usual.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Computerised cognitive behavioural therapy (SPARX) comprising seven modules delivered over a period of between four and seven weeks, versus treatment as usual comprising primarily face to face counselling delivered by trained counsellors and clinical psychologists.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Outcomes The primary outcome was the change in score on the children’s depression rating scale-revised.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Secondary outcomes included response and remission on the children’s depression rating scale-revised, change scores on the Reynolds adolescent depression scale-second edition, the mood and feelings questionnaire, the Kazdin hopelessness scale for children, the Spence children’s anxiety scale, the paediatric quality of life enjoyment and satisfaction questionnaire, and overall satisfaction with treatment ratings.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results 94 participants were allocated to SPARX (mean age 15.6 years, 62.8% female) and 93 to treatment as usual (mean age 15.6 years, 68.8% female).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>170 adolescents (91%, SPARX n=85, treatment as usual n=85) were assessed after intervention and 168 (90%, SPARX n=83, treatment as usual n=85) were assessed at the three month follow-up point.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Per protocol analyses (n=143) showed that SPARX was not inferior to treatment as usual.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Post-intervention, there was a mean reduction of 10.32 in SPARX and 7.59 in treatment as usual in raw scores on the children’s depression rating scale-revised (between group difference 2.73, 95% confidence interval -0.31 to 5.77; P=0.079).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Remission rates were significantly higher in the SPARX arm (n=31, 43.7%) than in the treatment as usual arm (n=19, 26.4%) (difference 17.3%, 95% confidence interval 1.6% to 31.8%; P=0.030) and response rates did not differ significantly between the SPARX arm (66.2%, n=47) and treatment as usual arm (58.3%, n=42) (difference 7.9%, -7.9% to 24%; P=0.332).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>All secondary measures supported non-inferiority.</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>Intention to treat analyses confirmed these findings.</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>Improvements were maintained at follow-up.</segment> <segment id='16' features='rhetorical_moves;result;resultasproduct' state='active'>The frequency of adverse events classified as “possibly” or “probably” related to the intervention did not differ between groups (SPARX n=11; treatment as usual n=11).</segment>
+
+<segment id='17' features='rhetorical_moves;discussion' state='active'>Conclusions SPARX is a potential alternative to usual care for adolescents presenting with depressive symptoms in primary care settings and could be used to address some of the unmet demand for treatment.</segment>    </body>
+</document>

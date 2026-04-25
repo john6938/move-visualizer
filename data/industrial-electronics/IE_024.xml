@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_024.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In its broadest sense, passive filters have been a very potent technique for power system harmonic suppression because of their possible different frequency response characteristics that can achieve a certain required harmonic filtering target, also due to their simplicity and economical cost.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents an application of FORTRAN feasible sequential quadratic programming to find the optimal sizing of parameters of C-type passive filters for minimizing the total voltage harmonic distortion of nonlinear loads, where maintaining a given power factor at a specified range is desired.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The optimal design of the C-type passive filter as an alternative to the conventional passive filtering techniques is introduced, and a detailed comparison of the results between an uncompensated system and a C-type filter are discussed by means of different numerical examples, considering source and load nonlinearities, while taking into account compliance with the IEEE standards 519-1992 and 18-2002.</segment>     </body>
+</document>

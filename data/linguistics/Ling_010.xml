@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_010.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>There is little dispute that formulaic sequences form an important part of the lexicon, but to date there has been no principled way to prioritize the inclusion of such items in pedagogic materials, such as ESL/EFL textbooks or tests of vocabulary knowledge.</segment> <segment id='2' features='rhetorical_moves' state='active'>While wordlists have been used for decades, they have only provided information about individual word forms (e.g. the General Service List (West 1953) and the Academic Word List (Coxhead 2000)).</segment> <segment id='3' features='rhetorical_moves' state='active'>This article addresses this deficiency by presenting the PHRASal Expressions List (PHRASE List), a list of the 505 most frequent non-transparent multiword expressions in English, intended especially for receptive use.</segment> <segment id='4' features='rhetorical_moves' state='active'>The rationale and development of the list are discussed, as well as its compatibility with British National Corpus single-word frequency lists.</segment> <segment id='5' features='rhetorical_moves' state='active'>It is hoped that the PHRASE List will provide a basis for the systematic integration of multiword lexical items into teaching materials, vocabulary tests, and learning syllabuses.</segment>    </body>
+</document>

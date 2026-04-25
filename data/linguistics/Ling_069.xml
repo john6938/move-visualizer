@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_069.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study attempts to advance theorizing about narrative persuasion by explicating types of thoughts, beyond counterarguing, generated in response to a short narrative with persuasive intent.</segment> <segment id='2' features='rhetorical_moves' state='active'>We examine responses to four types of narratives (focus: individual vs. community; by sidedness: one- vs. two-sided) about causes and solutions for obesity in an attempt to increase support for policies to address the issue.</segment> <segment id='3' features='rhetorical_moves' state='active'>Using a randomized experiment (n?=?245), we show that narrative focus and sidedness interact to produce different patterns of thoughts, attributions, and policy support.</segment> <segment id='4' features='rhetorical_moves' state='active'>Simple elaboration, counterelaboration, and counterarguing predicted causal attributions and policy support, but only simple elaboration mediated message effects on intended persuasive outcomes.</segment> <segment id='5' features='rhetorical_moves' state='active'>We conclude by discussing the study&apos;s contributions to communication theory and practice.</segment>    </body>
+</document>

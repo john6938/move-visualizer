@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_86.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The role of input dimension d is studied in approximating, in various norms, target sets of d-variable functions using linear combinations of adjustable computational units.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Results from the literature, which emphasize the number n of terms in the linear combination, are reformulated, and in some cases improved, with particular attention to dependence on d .</segment> <segment id='3' features='rhetorical_moves;method' state='active'>For worst-case error, upper bounds are given in the factorized form ƒÌ(d)ƒÈ(n) , where ƒÈ is nonincreasing (typically ƒÈ(n) ~ n-1/2).</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Target sets of functions are described for which the function ƒÌ is a polynomial.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Some important cases are highlighted where ƒÌ decreases to zero as d ¨ ‡.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>For target functions, extent (e.g., the size of domains in Rd where they are defined), scale (e.g., maximum norms of target functions), and smoothness (e.g., the order of square-integrable partial derivatives) may depend on d , and the influence of such dimension-dependent parameters on model complexity is considered.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>Results are applied to approximation and solution of optimization problems by neural networks with perceptron and Gaussian radial computational units.</segment>    </body>
+</document>

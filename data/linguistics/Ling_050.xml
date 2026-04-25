@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_050.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Following Leary&apos;s (1995) impression management model, three experiments assessed factors that affect deceptive self-presentations of height and weight.</segment> <segment id='2' features='rhetorical_moves' state='active'>One experiment examined the role of biased cognitive processing.</segment> <segment id='3' features='rhetorical_moves' state='active'>It revealed interactions between biased scanning—focusing on one&apos;s own socially desirable characteristics—and participants&apos; sex that affected discrepancies between actual and self-reported height/weight.</segment> <segment id='4' features='rhetorical_moves' state='active'>Another investigated the effect of establishing ground truth prior to self-assessment.</segment> <segment id='5' features='rhetorical_moves' state='active'>It determined that exposure to one&apos;s actual measures (ground truth) prior to self-report reduced inaccuracy.</segment> <segment id='6' features='rhetorical_moves' state='active'>The third examined the role of perceived accountability.</segment> <segment id='7' features='rhetorical_moves' state='active'>It found that anticipation of being measured reduced discrepant self-reports.</segment> <segment id='8' features='rhetorical_moves' state='active'>Results suggest that psychological and social processes provide higher-order explanations for distorted self-presentations of the kind that other studies have attributed to specific goals and sociotechnological factors.</segment>    </body>
+</document>

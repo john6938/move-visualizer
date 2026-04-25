@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_094.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To describe the effect of multidisciplinary care on survival in women treated for breast cancer.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective, comparative, non-randomised, interventional cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting NHS hospitals, health boards in the west of Scotland, UK.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 14?358 patients diagnosed with symptomatic invasive breast cancer between 1990 and 2000, residing in health board areas in the west of Scotland.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>13?722 (95.6%) patients were eligible (excluding 16 diagnoses of inflammatory cancers and 620 diagnoses of breast cancer at death).</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Intervention In 1995, multidisciplinary team working was introduced in hospitals throughout one health board area (Greater Glasgow; intervention area), but not in other health board areas in the west of Scotland (non-intervention area).</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Breast cancer specific mortality and all cause mortality.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Before the introduction of multidisciplinary care (analysed time period January 1990 to September 1995), breast cancer mortality was 11% higher in the intervention area than in the non-intervention area (hazard ratio adjusted for year of incidence, age at diagnosis, and deprivation, 1.11; 95% confidence interval 1.00 to 1.20).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>After multidisciplinary care was introduced (time period October 1995 to December 2000), breast cancer mortality was 18% lower in the intervention area than in the non-intervention area (0.82, 0.74 to 0.91).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>All cause mortality did not differ significantly between populations in the earlier period, but was 11% lower in the intervention area than in the non-interventional area in the later period (0.89, 0.82 to 0.97).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Interrupted time series analyses showed a significant improvement in breast cancer survival in the intervention area in 1996, compared with the expected survival in the same year had the pre-intervention trend continued (P=0.004).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>This improvement was maintained after the intervention was introduced.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion Introduction of multidisciplinary care was associated with improved survival and reduced variation in survival among hospitals.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Further analysis of clinical audit data for multidisciplinary care could identify which aspects of care are most associated with survival benefits.</segment>    </body>
+</document>

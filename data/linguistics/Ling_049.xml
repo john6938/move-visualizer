@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_049.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The hostile media effect is a phenomenon in which partisans on both sides of an issue perceive neutral media reports to be biased against their side.</segment> <segment id='2' features='rhetorical_moves' state='active'>Three experiments were performed to test a self-categorization explanation.</segment> <segment id='3' features='rhetorical_moves' state='active'>In Experiment 1, the effect was amplified when partisan identity was salient and attenuated when a shared identity was salient.</segment> <segment id='4' features='rhetorical_moves' state='active'>In Experiment 2, the effect manifested when the media source was an outgroup, but not an ingroup.</segment> <segment id='5' features='rhetorical_moves' state='active'>In Experiment 3, an attack on Democrats was perceived as less biased when attributed to a Democrat than when attributed to a Republican.</segment> <segment id='6' features='rhetorical_moves' state='active'>The effects in Experiments 2 and 3 were amplified by partisanship.</segment> <segment id='7' features='rhetorical_moves' state='active'>The findings are consistent with self-categorization theory and difficult to reconcile with other explanations.</segment>    </body>
+</document>

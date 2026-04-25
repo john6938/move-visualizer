@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_025.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>English spoken by those who do not share their first language is increasingly referred to as English lingua franca (ELF).</segment> <segment id='2' features='rhetorical_moves' state='active'>For ELF speakers, it can be a challenge to express conflicting opinions, as a common language and/or cultural background cannot be taken for granted.</segment> <segment id='3' features='rhetorical_moves' state='active'>This is recognized by writers of business English textbooks, who provide advice concerning ways to express disagreement.</segment> <segment id='4' features='rhetorical_moves' state='active'>The present paper analyses this advice based on 13 textbooks aimed at the upper intermediate/advanced level business student and compares their recommendations with ELF usage among business students at this level of proficiency.</segment> <segment id='5' features='rhetorical_moves' state='active'>The ELF corpus used consists of 25 simulated negotiations, total time 6?h 38?min.</segment> <segment id='6' features='rhetorical_moves' state='active'>Six of the negotiations were carried out as a course activity and 19 as part of an oral exam.</segment> <segment id='7' features='rhetorical_moves' state='active'>My main finding is that there was little correspondence between the actual formulations recommended in the textbooks and ELF usage.</segment> <segment id='8' features='rhetorical_moves' state='active'>However, the strategic approach implicit in the textbook advice was predominantly one of mitigation, which was also the dominant approach used by the ELF speakers in my corpus.</segment>    </body>
+</document>

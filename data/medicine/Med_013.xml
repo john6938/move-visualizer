@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_013.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the association between surgeons’ experience and postoperative complications in thyroid surgery.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cross sectional multicentre study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting High volume referral centres in five academic hospitals in France.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants All patients who underwent a thyroidectomy undertaken by every surgeon in these hospitals from 1 April 2008 to 31 December 2009.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Presence of two permanent major complications (recurrent laryngeal nerve palsy or hypoparathyroidism), six months after thyroid surgery.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We used mixed effects logistic regression to determine the association between length of experience and postoperative complications.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results 28 surgeons completed 3574 thyroid procedures during a one year period.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Overall rates of recurrent laryngeal nerve palsy and hypoparathyroidism were 2.08% (95% confidence interval 1.53% to 2.67%) and 2.69% (2.10% to 3.31%), respectively.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>In a multivariate analysis, 20 years or more of practice was associated with increased probability of both recurrent laryngeal nerve palsy (odds ratio 3.06 (1.07 to 8.80), P=0.04) and hypoparathyroidism (7.56 (1.79 to 31.99), P=0.01).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Surgeons’ performance had a concave association with their length of experience (P=0.036) and age (P=0.035); surgeons aged 35 to 50 years had better outcomes than their younger and older colleagues.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Optimum individual performance in thyroid surgery cannot be passively achieved or maintained by accumulating experience.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Factors contributing to poor performance in very experienced surgeons should be explored further.</segment>    </body>
+</document>

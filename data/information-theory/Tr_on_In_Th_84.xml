@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_84.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a technique for constructing p-ary bent functions from plateaued functions is presented.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>This generalizes earlier techniques of constructing bent from near-bent functions.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The Fourier spectrum of quadratic monomials is analyzed, and examples of quadratic functions with highest possible absolute values in their Fourier spectrum are given.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Applying the construction of bent functions to the latter class of functions yields bent functions attaining upper bounds for the algebraic degree when p= 3,5.</segment> <segment id='5' features='rhetorical_moves;introduction;gap' state='active'>Until now, no construction of bent functions attaining these bounds was known.</segment>    </body>
+</document>

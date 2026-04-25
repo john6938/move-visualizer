@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_077.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the risk of adverse cardiovascular events in women who discontinue hormone replacement therapy after myocardial infarction compared with those who continue.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Nationwide register based cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting All hospitals in Denmark.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Population All 3322 women aged 40 years or over who survived 30 days after a myocardial infarction and were prescribed hormone replacement therapy at the time of myocardial infarction in the period 1997 to 2008.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Reinfarction, cardiovascular mortality, and all cause mortality 30 to 360 days after discharge.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results A total of 282 (8.5%) women had a reinfarction, 218 (6.6%) died of cardiovascular causes, and 357 (10.7%) died of any cause during follow-up.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Women who discontinued overall hormone replacement therapy in the first year after myocardial infarction did not have a significantly different risk of reinfarction (hazard ratio 0.90, 95% confidence interval 0.68 to 1.19), cardiovascular mortality (1.21, 0.90 to 1.62), or all cause mortality (1.22, 0.97 to 1.53) than women who continued use.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>However, discontinuation of vaginal oestrogen was associated with a lower risk of reinfarction (hazard ratio 0.54, 0.34 to 0.86).</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusion No certain conclusions can be drawn regarding increased or decreased risk of adverse cardiovascular events with continuing hormone replacement therapy after myocardial infarction.</segment> <segment id='10' features='rhetorical_moves;discussion' state='active'>The results rule out neither a modest benefit nor a worrisome increase in risk.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>These figures may be valuable when a possible cardiovascular risk of hormone replacement therapy needs to be balanced with menopausal symptoms for the individual patient.</segment>    </body>
+</document>

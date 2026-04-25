@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_043.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the relative costs, effects, and cost effectiveness of selected interventions to control cataract, trachoma, refractive error, hearing loss, meningitis and chronic otitis media.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis of or combined strategies for controlling vision and hearing loss by means of a lifetime population model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two World Health Organization sub-regions of the world where vision and hearing loss are major burdens: sub-Saharan Africa and South East Asia.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Biological and behavioural parameters from clinical and observational studies and population based surveys.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Intervention effects and resource inputs based on published reports, expert opinion, and the WHO-CHOICE database.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Cost per disability adjusted life year (DALY) averted, expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Treatment of chronic otitis media, extracapsular cataract surgery, trichiasis surgery, treatment for meningitis, and annual screening of schoolchildren for refractive error are among the most cost effective interventions to control hearing and vision impairment, with the cost per DALY averted &lt;$Int285 in both regions.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Screening of both schoolchildren (annually) and adults (every five years) for hearing loss costs around $Int1000 per DALY averted.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>These interventions can be considered highly cost effective.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Mass treatment with azithromycin to control trachoma can be considered cost effective in the African but not the South East Asian sub-region.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Vision and hearing impairment control interventions are generally cost effective.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>To decide whether substantial investments in these interventions is warranted, this finding should be considered in relation to the economic attractiveness of other, existing or new, interventions in health.</segment>    </body>
+</document>

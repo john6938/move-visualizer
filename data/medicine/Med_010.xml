@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_010.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess whether maternal use of selective serotonin reuptake inhibitors (SSRIs) increases the risk of persistent pulmonary hypertension in the newborn, and whether such an effect might differ between specific SSRIs.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Population based cohort study using data from the national health registers.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Denmark, Finland, Iceland, Norway, and Sweden, 1996-2007.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants More than 1.6 million infants born after gestational week 33.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Risks of persistent pulmonary hypertension of the newborn associated with early and late exposure to SSRIs during pregnancy and adjusted for important maternal and pregnancy characteristics.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Comparisons were made between infants exposed and not exposed to SSRIs.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Around 30?000 women had used SSRIs during pregnancy and 11?014 had been dispensed an SSRI later than gestational week 20.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Exposure to SSRIs in late pregnancy was associated with an increased risk of persistent pulmonary hypertension in the newborn: 33 of 11?014 exposed infants (absolute risk 3 per 1000 liveborn infants compared with the background incidence of 1.2 per 1000); adjusted odds ratio 2.1 (95% confidence interval 1.5 to 3.0).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The increased risks of persistent pulmonary hypertension in the newborn for each of the specific SSRIs (sertraline, citalopram, paroxetine, and fluoxetine) were of similar magnitude.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Filling a prescription with SSRIs before gestational week 8 yielded slightly increased risks: adjusted odds ratio 1.4 (95% confidence interval 1.0 to 2.0).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions The risk of persistent pulmonary hypertension of the newborn is low, but use of SSRIs in late pregnancy increases that risk more than twofold.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>The increased risk seems to be a class effect.</segment>    </body>
+</document>

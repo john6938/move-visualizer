@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_086.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this content analysis, we examined violence in Web-based entertainment.</segment> <segment id='2' features='rhetorical_moves' state='active'>YouTube videos (N?=?2,520) were collected in 3 different categories: most viewed, top rated, and random, with additional comparisons between amateur and professional content.</segment> <segment id='3' features='rhetorical_moves' state='active'>Frequencies of violent acts and the context of violence (e.g., characteristics of perpetrator and victim, justification, consequences) were compared both between these categories of YouTube videos and with existing research on television violence.</segment> <segment id='4' features='rhetorical_moves' state='active'>The results showed far less violence as a percentage of programming on YouTube than there is on television.</segment> <segment id='5' features='rhetorical_moves' state='active'>Moreover, the violence that was present showed more realistic consequences and more negative context than television violence.</segment> <segment id='6' features='rhetorical_moves' state='active'>Post hoc comparisons illustrated several differences in the presentation of violence between make and category of video.</segment>    </body>
+</document>

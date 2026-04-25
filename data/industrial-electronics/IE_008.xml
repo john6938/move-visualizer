@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_008.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper proposes a unified PWM method for matrix converters so as to establish a common platform which can generate various types of PWM methods in real time by adjusting the free parameters in the modulation algorithm.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>As a foundation for unification, the general form of the modulation functions for matrix converters is derived using geometric transformation approach.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>All eligible direct modulation matrices are shown to be of indirect form and are expressed in terms of instantaneous phase quantities.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>This paper also presents a new viewpoint to consider a matrix converter as a generalized three-level inverter and to apply the double-carrier-based dipolar modulation technique of the three-level inverter to the matrix converter.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>Several concepts of the two-level PWM inverters are then generalized to the matrix converters for better visualization and understanding of the modulation process.</segment>    </body>
+</document>

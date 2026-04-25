@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_054.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents a baseband noise reduction method in the receiver for UHF RFID readers.</segment> <segment id='2' features='rhetorical_moves' state='active'>The signal captured from the transmitter after passing through the main delay components is fed as an LO signal into the down-converter in the receiver.</segment> <segment id='3' features='rhetorical_moves' state='active'>At the down-converter, the LO signal and the leakage signal from the transmitter to the receiver are mixed with each other.</segment> <segment id='4' features='rhetorical_moves' state='active'>The matching of the delay between the two correlated signals virtually eleminates the additional baseband noise included in the phase noises after their mixing.</segment> <segment id='5' features='rhetorical_moves' state='active'>Lowering the baseband noise improves the sensitivity of the receiver, thus allowing the RFID tags to be read further away from the reader.</segment> <segment id='6' features='rhetorical_moves' state='active'>The proposed method was applied to a portable UHF RFID reader for its validation.</segment> <segment id='7' features='rhetorical_moves' state='active'>Compared to the conventional configuration, the simulated baseband noise level of more than 26 dB was reduced by the proposed method.</segment> <segment id='8' features='rhetorical_moves' state='active'>The measured sensitivity of about 19 dB was also improved.</segment> <segment id='9' features='rhetorical_moves' state='active'>As a result, the reading distance was extended by 1.9 m from 2.02 to 3.92 m.</segment> <segment id='10' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

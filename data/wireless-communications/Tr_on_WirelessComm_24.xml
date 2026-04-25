@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_24.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we investigate the performance of selection cooperation in the presence of imperfect channel estimation.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In particular, we consider a cooperative scenario with multiple relays and amplify-and-forward protocol over frequency flat fading channels.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In the selection scheme, only the &quot;best&quot; relay which maximizes the effective signal-to-noise ratio (SNR) at the receiver end is selected.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We present lower and upper bounds on the effective SNR and further we provide closed-form expressions for the bounds on average symbol error rate (ASER), outage probability and average capacity per bandwidth of the received signal in the presence of channel estimation errors.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>A simulation study is presented to corroborate the analytical results and to demonstrate the performance of relay selection with imperfect channel estimation.</segment>    </body>
+</document>

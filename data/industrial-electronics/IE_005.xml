@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_005.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Power converters consisting of naturally commutated thyristors such as cycloconverters and current source inverters were the first to be used in driving electrical motors with variable speed, but now, due to their inferior performance compared to forced commutated converters, their use is restricted in the high voltage/high power range where the performance and cost of forced commutated switching devices are not yet competitive.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Hybrid cycloconverters proposed recently are capable of improving the performance of cycloconverters by adding an auxiliary forced commutated inverter with reduced installed power.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>It will be shown that the new topology is not only able to improve the quality of the output voltage but is also able to enhance the control over the circulating current and, therefore, for some of the cycloconverter arrangements, to improve the input power quality.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>This paper evaluates the performance of a few standard and hybrid cycloconverter arrangements using both simulation and experimental results.</segment>    </body>
+</document>

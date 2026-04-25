@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_095.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the safety of using single complete compression ultrasonography in pregnant and postpartum women to rule out deep vein thrombosis.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective outcome study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two tertiary care centres and 18 private practices specialising in vascular medicine in France and Switzerland.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 226 pregnant and postpartum women referred for suspected deep vein thrombosis.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Methods A single proximal and distal compression ultrasonography was performed.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>All women with a negative complete compression ultrasonography result did not receive anticoagulant therapy and were followed up for a three month period.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Symptoms of venous thromboembolism, second compression ultrasonography or chest imaging, a thromboembolic event, and anticoagulant treatment.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results 16 women were excluded, mainly because of associated suspected pulmonary embolism.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Deep vein thrombosis was diagnosed in 22 out of the 210 included women (10.5%).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>10 patients received full dose anticoagulation despite a negative test result during follow-up.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Of the 177 patients without deep vein thrombosis and who did not receive full dose anticoagulant therapy, two (1.1%, 95% confidence interval 0.3% to 4.0%) had an objectively confirmed deep vein thrombosis during follow-up.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions The rate of venous thromboembolic events after single complete compression ultrasonography in pregnant and postpartum women seems to be within the range of that observed in studies in the non-pregnant population.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>These data suggest that a negative single complete compression ultrasonography result may safely exclude the diagnosis of deep vein thrombosis in this setting.</segment>    </body>
+</document>

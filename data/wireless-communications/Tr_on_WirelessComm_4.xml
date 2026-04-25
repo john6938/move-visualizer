@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_4.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>In a system employing physical-layer network coding, the superimposed constellation at the relay may have ambiguity where one received signal is associated with more than one possible combination of users&apos; data.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We find the necessary and sufficient condition on a user bit mapping which removes this ambiguity for phase shift keying modulation.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Further, we introduce the concept of semi-Gray mapping which improves the system BER performance and achievable rate.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>The necessary and sufficient condition of having a semi-Gray mapping is also found.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Interestingly, the widely used binary reflected Gray mapping does not satisfy the semi-Gray mapping condition resulting in a poorer performance compared to our proposed semi-Gray scheme.</segment>    </body>
+</document>

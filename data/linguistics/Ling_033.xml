@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_033.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Scholars of computer-mediated communication have long been interested in the way in which interpersonal impressions form among computer users.</segment> <segment id='2' features='rhetorical_moves' state='active'>Early Internet research explored how people used text-based social information to form impressions of others.</segment> <segment id='3' features='rhetorical_moves' state='active'>However, sociotechnological systems now allow users to present themselves in a variety of forms.</segment> <segment id='4' features='rhetorical_moves' state='active'>The first study found that when textual and photographic cues were presented alone, the principle of textual primacy predicted results; however, Study 2 found when cues were presented together in the context of a Facebook profile, the data were consistent with a visual primacy—negativity perspective such that photographs more strongly influenced judgments of social orientation, and textual cues influenced social orientation judgments when accompanied by an introverted photograph.</segment>    </body>
+</document>

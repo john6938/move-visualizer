@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_26.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>A multiobjective genetic algorithm to uncover community structure in complex network is proposed.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The algorithm optimizes two objective functions able to identify densely connected groups of nodes having sparse inter-connections.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The method generates a set of network divisions at different hierarchical levels in which solutions at deeper levels, consisting of a higher number of modules, are contained in solutions having a lower number of communities.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The number of modules is automatically determined by the better tradeoff values of the objective functions.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments on synthetic and real life networks show that the algorithm successfully detects the network structure and it is competitive with state-of-the-art approaches.</segment>    </body>
+</document>

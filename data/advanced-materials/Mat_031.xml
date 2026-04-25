@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_031.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Ultrahigh-mobility organic field-effect transistors (OFETs) based on a CDT-BTZ donor-acceptor copolymer are realized by reaching high molecular order and pronounced alignment in single fibers within a short OFET channel via solution processing.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The macromolecules directionally self-assemble in a quasi crystal-like order in the fibers providing in this way an unhindered charge carrier pathway with mobilities as high as 5.5 cm2 V-1 s-1.</segment>    </body>
+</document>

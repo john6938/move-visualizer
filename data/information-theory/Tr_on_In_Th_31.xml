@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_31.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we study spatial degree-of-freedom (DOF) for two mutually interfering broadcast channels (IBC).</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>As the demand for space-division multiple access (SDMA) increases, the IBC where each link has a single transmit node and multiple receive nodes becomes important.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>This paper presents the results of the lower and upper bounds on the DOF of the IBC.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>From the derived results, it is shown that for most cases, zero-forcing (ZF) beamforming can achieve the optimal DOF of the IBC except for some special cases.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Also, we identify a condition that disabling receive cooperation in the multiple-input multiple-output interference channels causes no DOF loss.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>It is confirmed that we cannot expect a DOF improvement by enabling in-cell receive cooperation if in at least one of two BSs, the number of antennas is greater than or equal to that of users per cell.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore, we observe a positive result that as the number of users goes to infinity, the total DOF of the IBC converges to the interference-free DOF, which is the maximum achievable DOF in the absence of the inter-cell interference.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_85.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper we analyze a constant multiple-input multiple-output interference channel where a set of active users are cooperating through interference alignment while a set of secondary users desire access to the channel.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We find the minimum number of secondary transmit antennas required so that a secondary user can use the channel without affecting the sum rate of the active users, under a zero-forcing equalization assumption.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>When the secondary users have enough antennas, we derive several secondary user precoders that approximately maximize the secondary users&apos; sum rate without changing the sum rate of the active users.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>When the secondary users do not have enough antennas, we perform numerical optimization to find secondary user precoders that cause minimum degradation to the sum rate of the active users.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Through simulations, we confirm that i) with enough antennas at the secondary users, gains equivalent to the case of all the users cooperating through interference alignment is obtainable, and ii) when the secondary users do not have enough antennas, large rate losses at the active users can be avoided.channels</segment>    </body>
+</document>

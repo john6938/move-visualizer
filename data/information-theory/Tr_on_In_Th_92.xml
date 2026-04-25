@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_92.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>A wiretap protocol is a pair of randomized encoding and decoding functions such that knowledge of a bounded fraction of the encoding of a message reveals essentially no information about the message, while knowledge of the entire encoding reveals the message using the decoder.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, the notion of efficiently invertible extractors is studied and it is shown that a wiretap protocol can be constructed from such an extractor.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Then, invertible extractors for symbol-fixing, affine, and general sources are constructed and used to create wiretap protocols with asymptotically optimal trade-offs between their rate (ratio of the length of the message versus its encoding) and resilience (ratio of the observed positions of the encoding and the length of the encoding).</segment> <segment id='4' features='rhetorical_moves;discussion' state='active' comment='application of resultant method'>The results are further applied to create wiretap protocols for challenging communication problems, such as active intruders who change portions of the encoding, network coding, and intruders observing arbitrary Boolean functions of the encoding.</segment>    </body>
+</document>

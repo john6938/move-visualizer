@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_69.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Modulation type is one of the most important characteristics used in signal waveform identification and classification.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Spatial correlation is a crucial factor for practical multiple-input multiple-output (MIMO) systems.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active' comment='problem mentioned'>This paper addresses the problem of blind digital modulation identification in spatially-correlated MIMO systems.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed algorithm is verified using higher order statistical moments and cumulants of the received signal.</segment> <segment id='5' features='rhetorical_moves;purpose' state='active'>The purpose is to discriminate among different M-ary shift keying linear modulation schemes without any priori signal information.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>This study employs several MIMO techniques to identify the modulation with and without channel state information (CSI).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed classifier shows a high identification performance in acceptable signal-to-noise ratio (SNR) range.</segment>    </body>
+</document>

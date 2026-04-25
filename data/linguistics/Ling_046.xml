@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_046.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The diffusion of digital media does not always have democratic consequences.</segment> <segment id='2' features='rhetorical_moves' state='active'>This mixed-methods study examines how the government of Azerbaijan dissuaded Internet users from political activism.</segment> <segment id='3' features='rhetorical_moves' state='active'>We examine how digital media were used for networked authoritarianism, a form of Internet control common in former Soviet states where manipulation over digitally mediated social networks is used more than outright censorship.</segment> <segment id='4' features='rhetorical_moves' state='active'>Through a content analysis of 3 years of Azerbaijani media, a 2-year structural equation model of the relationship between Internet use and attitudes toward protest, and interviews with Azerbaijani online activists, we find that the government has successfully dissuaded frequent Internet users from supporting protest and average Internet users from using social media for political purposes.</segment>    </body>
+</document>

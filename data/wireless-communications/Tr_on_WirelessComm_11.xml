@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_11.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Multi-user diversity (MUD) is considered when the number of users in the system is random.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Average throughput of a MUD system is shown to have a completely monotone derivative with respect to (deterministic) number of users.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Following this, randomization of number of users is shown to give degraded throughput averaged across the number of users distribution.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Using stochastic ordering theory, a framework for comparison of performance for different user distributions is provided.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>For Poisson distributed number of users communicating over Rayleigh faded channels, long-term average throughput is shown to scale as a double logarithmic function of average number of users.</segment>    </body>
+</document>

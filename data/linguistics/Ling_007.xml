@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_007.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study analyses intermediate and advanced learner–learner and learner–native speaker (NS) interaction looking for collaborative dialogue.</segment> <segment id='2' features='rhetorical_moves' state='active'>It investigates how the presence of a NS interlocutor affects the frequency and nature of lexical language-related episodes (LREs) spontaneously generated during task-based interaction.</segment> <segment id='3' features='rhetorical_moves' state='active'>Twenty-four learners of English as a foreign language and eight English NSs participated in the study.</segment> <segment id='4' features='rhetorical_moves' state='active'>The results obtained confirm that lexical LREs tend to be more frequent and more likely to be successfully resolved in learner–NS than in learner–learner interaction.</segment> <segment id='5' features='rhetorical_moves' state='active'>However, the analysis of the patterns of interaction of two selected dyads reveals that not all NSs can be expected to provide the same kind of linguistic assistance to the learner.</segment> <segment id='6' features='rhetorical_moves' state='active'>The participants’ collaborative or non-collaborative orientation to the activity, shaped by their goals and level of involvement in the task, seems to have a stronger effect on the nature of the interaction and the opportunities this offers for LREs and learning than the overall proficiency of the dyad.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_91.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Super-resolution technology provides an effective way to increase image resolution by incorporating additional information from successive input images or training samples.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Various super-resolution algorithms have been proposed based on different assumptions, and their relative performances can differ in regions of different characteristics within a single image.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Based on this observation, an adaptive algorithm is proposed in this paper to integrate a higher level image classification task and a lower level super-resolution process, in which we incorporate reconstruction-based super-resolution algorithms, single-image enhancement, and image/video classification into a single comprehensive framework.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The target high-resolution image plane is divided into adaptive-sized blocks, and different suitable super-resolution algorithms are automatically selected for the blocks.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Then, a deblocking process is applied to reduce block edge artifacts.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>A new benchmark is also utilized to measure the performance of super-resolution algorithms.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results with real-life videos indicate encouraging improvements with our method.</segment>    </body>
+</document>

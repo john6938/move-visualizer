@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_075.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Traditionally, Sicilian blood oranges (Citrus sinensis) have been associated with cardiovascular health, and consumption has been shown to prevent obesity in mice fed a high-fat diet.</segment> <segment id='2' features='rhetorical_moves' state='active'>Despite increasing consumer interest in these health-promoting attributes, production of blood oranges remains unreliable due largely to a dependency on cold for full color formation.</segment> <segment id='3' features='rhetorical_moves' state='active'>We show that Sicilian blood orange arose by insertion of a Copia-like retrotransposon adjacent to a gene encoding Ruby, a MYB transcriptional activator of anthocyanin production.</segment> <segment id='4' features='rhetorical_moves' state='active'>The retrotransposon controls Ruby expression, and cold dependency reflects the induction of the retroelement by stress.</segment> <segment id='5' features='rhetorical_moves' state='active'>A blood orange of Chinese origin results from an independent insertion of a similar retrotransposon, and color formation in its fruit is also cold dependent.</segment> <segment id='6' features='rhetorical_moves' state='active'>Our results suggest that transposition and recombination of retroelements are likely important sources of variation in Citrus.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_052.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A simple and sensitive readout electronics for planar fluxgate sensors is presented.</segment> <segment id='2' features='rhetorical_moves' state='active'>The system exploits the sense coils to directly generate the compensation static field avoiding the additional coil/s required in standard closed loop configuration, thus providing clear advantages in terms of size and cost.</segment> <segment id='3' features='rhetorical_moves' state='active'>Moreover, feedback configurations are known to provide better linearity and stability of the system.</segment> <segment id='4' features='rhetorical_moves' state='active'>The sensitivity of the developed demonstration system can be easily set from 13.3 to 104.9 mV/µT with nonlinearity ranging from 0.17% to 0.38% of the measuring interval, whereas the corresponding measuring intervals vary from ±301 to ±38 µT.</segment> <segment id='5' features='rhetorical_moves' state='active'>The measuring uncertainty, the noise field spectral density, and the system bandwidth have been estimated in 12.2 nT, ˜ 10&amp;nbsp;nT/v{Hz}, and ˜1.5 Hz, respectively.</segment> <segment id='6' features='rhetorical_moves' state='active'>The proposed measuring instrument is extremely easy to use and versatile.</segment> <segment id='7' features='rhetorical_moves' state='active'>Moreover, due to the use of commercially available ferromagnetic material and the simple and via-less design, the proposed fluxgate sensor results in a very low cost and reliable device.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

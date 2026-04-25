@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_65.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>We perform a minimum distance analysis of a class of two-dimensional intersymbol interference (ISI) channels applicable to multitrack magnetic recording and orthogonal frequency division multiplex transmission systems.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Exact minimum distance for a wide class of ISI responses is derived.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The fundamental analytical technique is to transform the channel into an equivalent minimum phase channel.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The results improve upon the prior work of Soljanin and Georghiades.</segment>    </body>
+</document>

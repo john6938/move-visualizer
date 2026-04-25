@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_087.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents the three-phase version of the isolated dc-dc Weinberg converter.</segment> <segment id='2' features='rhetorical_moves' state='active'>The main characteristics of the proposed converter are as follows: small volume, low weight, reduced number of components, buck operation for a duty cycle of less than 1/3, and input and output current ripple cancellation for a duty cycle of 1/3 or 2/3.</segment> <segment id='3' features='rhetorical_moves' state='active'>Typical applications include telecommunication, electric vehicles, renewable energy conversion systems, and batteries.</segment> <segment id='4' features='rhetorical_moves' state='active'>This paper gives theoretical analysis, design example, and experimental data on a 735-W 120-Vdc-input 75-Vdc-output 42-kHz switching frequency laboratory prototype.</segment> <segment id='5' features='rhetorical_moves' state='active'>The prototype performance shows good agreement with the theoretical predictions.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

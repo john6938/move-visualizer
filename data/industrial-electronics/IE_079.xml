@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_079.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents a comparative study between field-oriented control (FOC) and Predictive Torque Control (PTC) applied to induction machines.</segment> <segment id='2' features='rhetorical_moves' state='active'>Both strategies are implemented on the same experimental bench and similar tests are performed.</segment> <segment id='3' features='rhetorical_moves' state='active'>Furthermore, they were previously adjusted to get an equivalent switching frequency at a specific operation point, achieving the fairest possible comparison at steady state.</segment> <segment id='4' features='rhetorical_moves' state='active'>Experimental results verify that PTC can achieve results similar to FOC, possibly even improving performance in transient conditions.</segment> <segment id='5' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

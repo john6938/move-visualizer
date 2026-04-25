@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_60.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, the diversity-multiplexing gain tradeoff (DMT) of single-source, single-sink (ss-ss), multihop relay networks having slow-fading links is studied.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In particular, the two end-points of the DMT of ss-ss full-duplex networks are determined, by showing that the maximum achievable diversity gain is equal to the min-cut and that the maximum multiplexing gain is equal to the min-cut rank, the latter by using an operational connection to a deterministic network.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Also included in the paper, are several results that aid in the computation of the DMT of networks operating under amplify-and-forward (AF) protocols.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>In particular, it is shown that the colored noise encountered in amplify-and-forward protocols can be treated as white for the purpose of DMT computation, lower bounds on the DMT of lower-triangular channel matrices are derived and the DMT of parallel MIMO channels is computed.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>All protocols appearing in the paper are explicit and rely only upon AF relaying.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>Half-duplex networks and explicit coding schemes are studied in a companion paper.</segment>    </body>
+</document>

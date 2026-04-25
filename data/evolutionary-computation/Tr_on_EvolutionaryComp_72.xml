@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_72.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In estimation of distribution algorithms (EDAs), probability models hold accumulating evidence on the location of an optimum.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>Stochastic sampling drift has been heavily researched in EDA optimization but not in EDAs applied to genetic programming (EDA-GP).</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We show that, for EDA-GPs using probabilistic prototype tree models, stochastic drift in sampling and selection is a serious problem, inhibiting scaling to complex problems.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Problems requiring deep dependence in their probability structure see such rapid stochastic drift that the usual methods for controlling drift are unable to compensate.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We propose a new alternative, analogous to likelihood weighting of evidence.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>We demonstrate in a small-scale experiment that it does counteract the drift, sufficiently to leave EDA-GP systems subject to similar levels of stochastic drift to other EDAs.</segment>    </body>
+</document>

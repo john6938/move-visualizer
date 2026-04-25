@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_6.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>We exhibit explicit bases for BCH codes of designed distance 5.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>While BCH codes are some of the most studied families of codes, only recently Kaufman and Litsyn (FOCS, 2005) showed that they admit bases of small weight codewords.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Fur thermore, Grigorescu, Kaufman, and Sudan (RANDOM, 2009) and Kaufman and Lovett (FOCS, 2011) proved that, in fact, BCH codes can admit very structured bases of small weight codewords (i.e., bases that can be fully specified by a single codeword and its orbit under the affine group).</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>The existence of such structured bases has applications in property testing, and motivates our search for a fully explicit description of low weight codewords and, in particular, of codewords that generate a basis for BCH codes.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, we describe the support of basis-generating codewords under affine transformations of the domain for the very specific case of binary (extended) BCH(2, n).</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>We believe that extending these findings to general BCH codes merits further investigation.</segment>    </body>
+</document>

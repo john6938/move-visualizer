@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_62.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Ink-jet print attributes such as color gamut, grain, and cost are consequences of the materials and printing technology used and of choices made during color management, color separation, and halftoning operation.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Traditionally, color separation determines what amounts of the available inks to use for each reproducible color, and halftoning deals with the spatial distribution of inks that also results in the nature of their overprinting.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>However, using an ink space as a means of communication between color separation and halftoning gives access only to some of the printed patterns that a printing system is capable of and, therefore, only to a reduced range of print attributes.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Here, a method, i.e., Halftone Area Neugebauer Separation, is proposed to gain access to all possible printable patterns by specifying relative area coverages of a printing system&apos;s Neugebauer primaries instead of only ink amounts.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This results in delivering prints with more optimal attributes (e.g., using less ink and giving rise to a larger color gamut) than is possible using current methods.</segment>    </body>
+</document>

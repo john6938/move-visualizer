@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_025.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>MicroRNAs (miRNAs) and other endogenous small RNAs act as sequence-specific regulators of the genome, transcriptome, and proteome in eukaryotes.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The interrogation of small RNA functions requires an effective, widely applicable method to specifically block small RNA function.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>Here, we report the development of a highly effective technology that targets specific endogenous miRNAs or small interfering RNAs for destruction in Arabidopsis thaliana.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We show that the expression of a short tandem target mimic (STTM), which is composed of two short sequences mimicking small RNA target sites, separated by a linker of an empirically determined optimal size, leads to the degradation of targeted small RNAs by small RNA degrading nucleases.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The efficacy of the technology was demonstrated by the strong and specific developmental defects triggered by STTMs targeting three miRNAs and an endogenous siRNA.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>In summary, we developed an effective approach for the destruction of endogenous small RNAs, thereby providing a powerful tool for functional genomics of small RNA molecules in plants and potentially animals.</segment>    </body>
+</document>

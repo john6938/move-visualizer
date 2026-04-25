@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_4.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;gap' state='active'>There is a growing need for systems that react automatically to events.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>While some events are generated externally and deliver data across distributed systems, others need to be derived by the system itself based on available information.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>Event derivation is hampered by uncertainty attributed to causes such as unreliable data sources or the inability to determine with certainty whether an event has actually occurred, given available information.</segment> <segment id='4' features='rhetorical_moves;introduction;problem' state='active'>Two main challenges exist when designing a solution for event derivation under uncertainty.</segment> <segment id='5' features='rhetorical_moves;introduction;problem' state='active'>First, event derivation should scale under heavy loads of incoming events.</segment> <segment id='6' features='rhetorical_moves;introduction;problem' state='active'>Second, the associated probabilities must be correctly captured and represented.</segment> <segment id='7' features='rhetorical_moves;result;methodasproduct' state='active'>We present a solution to both problems by introducing a novel generic and formal mechanism and framework for managing event derivation under uncertainty.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>We also provide empirical evidence demonstrating the scalability and accuracy of our approach.</segment>    </body>
+</document>

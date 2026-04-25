@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_051.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Little is known about whether deliberative experiences are affected by participants&apos; perceptions of disagreement or by what is expressed during deliberation.</segment> <segment id='2' features='rhetorical_moves' state='active'>Drawing on participants in online deliberations, we find that (a) it is perceived disagreement that is strongly related to experiences such as interest/enjoyment, (b) medium levels of objective disagreement attenuate confusion, and (c) these associations depend on the topic discussed and are subject to some critical thresholds.</segment> <segment id='3' features='rhetorical_moves' state='active'>These results have both theoretical and practical implications.</segment> <segment id='4' features='rhetorical_moves' state='active'>They suggest that (a) perceptions of disagreement, although not clearly indicative of what transpires in deliberation, are consequential, (b) objective disagreement exerts nuanced effects that do not always parallel those of perceived disagreement, and (c) disagreement should be assessed in an issue-specific manner.</segment>    </body>
+</document>

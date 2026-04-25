@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_50.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents an abstract, tunable model by which to explore aspects of artificial genetic regulatory networks and their design by simulated evolution.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The random Boolean network formalism is combined with the NK and NKCS models of fitness landscapes.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>This enables the systematic study of the interactions between the underlying genetic machinery and elements of the phenotype produced.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Previously reported results from the models individually are explored within this context, using both synchronous and asynchronous updating.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The evolution of network size is then explored in particular under varying conditions.</segment>    </body>
+</document>

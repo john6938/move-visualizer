@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_023.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a new diagnostic technique for the diagnosis of open-circuit faults in matrix converters operating with an Optimum Alesina-Venturini modulation scheme.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Compared to previous diagnostic techniques developed for matrix converters, the technique proposed in this paper has the major advantage of not requiring the installation of any additional sensors in the converter besides the ones already present for control purposes.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Hence, it can be easily integrated into the control platform of the converter at no additional cost.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>In addition to the diagnostic approach, a new fault-tolerant switching strategy is also presented so that after the appearance of an open-circuit fault, the matrix converter can continue to run although with degraded performance, until a repair action can be taken.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Several simulation and experimental results are presented, demonstrating the effectiveness and applicability of the developed techniques.</segment>     </body>
+</document>

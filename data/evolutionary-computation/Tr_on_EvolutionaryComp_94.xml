@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_94.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>The primary objective of this research is to propose and investigate a novel ant colony optimization-based classification rule discovery algorithm and its variants.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The main feature of this algorithm is a new heuristic function based on the correlation between attributes of a dataset.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Several aspects and parameters of the proposed algorithm are investigated by experimentation on a number of benchmark datasets.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We study the performance of our proposed approach and compare it with several state-of-the art commonly used classification algorithms.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results indicate that the proposed approach builds more accurate models than the compared algorithms.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The high accuracy supplemented by the comprehensibility of the discovered rule sets is the main advantage of this method.</segment>    </body>
+</document>

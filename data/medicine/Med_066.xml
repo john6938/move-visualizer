@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_066.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To evaluate the effectiveness of a peer led parenting intervention delivered to socially disadvantaged families.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Randomised controlled trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Schools and children’s centres in a socially deprived borough of inner London.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Parental caregivers seeking help with managing the problem behaviours of 116 index children, aged 2-11 years; 59 families were randomised to the intervention and 57 to a waitlist control condition.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Empowering parents, empowering communities is an eight week (two hours each week), manualised programme delivered to groups of parents by trained peer facilitators from the local community.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Child problems (number and severity), parental stress, and parenting competencies were assessed before and after the intervention using standardised parent reported measures.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Significantly greater improvements in positive parenting practices and child problems were observed in the intervention group compared with the waitlist group, with no difference in parental stress between the groups.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>An intention to treat analysis for the primary outcome measure, the intensity subscale of the Eyberg child behaviour inventory, showed an intervention effect size of 0.38 (95% confidence interval 0.01 to 0.75, P=0.01).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The intervention group had high rates of treatment retention (91.5%) and user satisfaction.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusion The peer led parenting intervention significantly reduced child behaviour problems and improved parenting competencies.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>This is a promising method for providing effective and acceptable parenting support to families considered hard to reach by mainstream services.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_001.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active'>A new class of super polarization membrane is described.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In terms of fundamental properties, the membrane exhibits the largest polarization, reasonable polarization retention, and high ionic conductivity.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>In practice, the membrane is immediately applicable in energy storage, and the associated technology is not only inexpensive, but also massive scalable and environment-friendly.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>The energy-storage membrane has wide applications in the energy efficiency and management of solar panels, wind turbines, and hybrid/electric vehicles.</segment>    </body>
+</document>

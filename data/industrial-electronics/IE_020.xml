@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_020.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>A four-leg-based fault-tolerant matrix converter topology is proposed, along with switching function and space vector approaches for modulation schemes, to improve the reliability of matrix converter drives.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The four-leg-based fault-tolerant structure utilizes an additional redundant phase module.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Based on the reconfigured hardware topology, fault-tolerant modulation strategies with both switching function and space vector approaches are developed to provide the matrix converter drives with continuous and disturbance-free operation.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Pulsewidth-modulated algorithms with closed-form expressions, based on a switching function matrix, are presented to synthesize redefined output waveforms with reconfigured converter structures.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Furthermore, a space-vector-based scheme using the indirect equivalent circuit with the fictitious dc link is also developed for the fault-tolerant topology after failures.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show the feasibility of the proposed four-leg-based fault-remedial approach, along with the developed modulation techniques.</segment>     </body>
+</document>

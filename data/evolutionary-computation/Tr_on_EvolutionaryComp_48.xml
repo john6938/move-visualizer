@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_48.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The design of hybrid metaheuristics with ideas taken from the simulated annealing and evolutionary algorithms fields is a fruitful research line.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this paper, we first present an overview of the hybrid metaheuristics based on simulated annealing and evolutionary algorithms presented in the literature and classify them according to two well-known taxonomies of hybrid methods.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Second, we perform an empirical study comparing the behavior of a representative set of the hybrid approaches based on evolutionary algorithms and simulated annealing found in the literature.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>In addition, a study of the synergy relationships provided by these hybrid approaches is presented.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Finally, we analyze the behavior of the best performing hybrid metaheuristic with regard to several state-of-the-art evolutionary algorithms for binary combinatorial problems.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>The experimental studies presented provide useful conclusions about the schemes for combining ideas from simulated annealing and evolutionary algorithms that may improve the performance of these kinds of approaches and suggest that these hybrids metaheuristics represent a competitive alternative for binary combinatorial problems.</segment>    </body>
+</document>

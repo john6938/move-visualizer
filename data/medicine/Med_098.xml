@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_098.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To examine the risk of treatment emergent, cardiovascular serious adverse events associated with varenicline use for tobacco cessation.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Meta-analysis comparing study effects using four summary estimates.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Medline, Cochrane Library, online clinical trials registries, and reference lists of identified articles.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Review methods We included randomised controlled trials of current tobacco users of adult age comparing use of varenicline with an inactive control and reporting adverse events.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We defined treatment emergent, cardiovascular serious adverse events as occurring during drug treatment or within 30 days of discontinuation, and included any ischaemic or arrhythmic adverse cardiovascular event (myocardial infarction, unstable angina, coronary revascularisation, coronary artery disease, arrhythmias, transient ischaemic attacks, stroke, sudden death or cardiovascular related death, or congestive heart failure).</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results We identified 22 trials; all were double blinded and placebo controlled; two included participants with active cardiovascular disease and 11 enrolled participants with a history of cardiovascular disease.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Rates of treatment emergent, cardiovascular serious adverse events were 0.63% (34/5431) in the varenicline groups and 0.47% (18/3801) in the placebo groups.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The summary estimate for the risk difference, 0.27% (95% confidence interval -0.10 to 0.63; P=0.15), based on all 22 trials, was neither clinically nor statistically significant.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>For comparison, the relative risk (1.40, 0.82 to 2.39; P=0.22), Mantel-Haenszel odds ratio (1.41, 0.82 to 2.42; P=0.22), and Peto odds ratio (1.58, 0.90 to 2.76; P=0.11), all based on 14 trials with at least one event, also indicated a non-significant difference between varenicline and placebo groups.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions This meta-analysis—which included all trials published to date, focused on events occurring during drug exposure, and analysed findings using four summary estimates—found no significant increase in cardiovascular serious adverse events associated with varenicline use.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>For rare outcomes, summary estimates based on absolute effects are recommended and estimates based on the Peto odds ratio should be avoided.</segment>    </body>
+</document>

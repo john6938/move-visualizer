@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_054.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The interface between an organic semiconductor and a transparent conducting oxide is crucial to the performance of organic optoelectronics.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We use microcontact printing to pattern pentafluorobenzyl phosphonic acid self-assembled monolayers (SAMs) on indium tin oxide (ITO).</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We obtain high-fidelity patterns with sharply defined edges and with large work function contrast (comparable to that obtained from phosphonic acid SAMs deposited from solution).</segment>    </body>
+</document>

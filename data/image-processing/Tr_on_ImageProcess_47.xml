@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_47.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A method for full-reference visual quality assessment based on the 2-D combination of two diverse metrics is described.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The first metric is a measure of structural information loss based on the Fisher information about the position of the structures in the observed images.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The second metric acts as a categorical indicator of the type of distortion that images underwent.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>These two metrics constitute the inner state of a virtual cognitive model, viewed as a system whose output is the automatic visual quality estimate.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The use of a 2-D metric fills the intrinsic incompleteness of methods based on a single metric while providing consistent response across different image impairment factors and blind distortion classification capability with a modest computational overhead.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The high accuracy and robustness of the method are demonstrated through cross-validation experiments.</segment>    </body>
+</document>

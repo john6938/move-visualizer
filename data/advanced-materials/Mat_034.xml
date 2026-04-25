@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_034.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A novel redox responsive controlled drug release system based on magnetic nanoparticles for efficient intracellular anticancer drug delivery is fabricated.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Disulfide bonds are employed as intermediate linkers to immobilize PEI/ß-CD molecules as nanoreservoirs for drug loading onto magnetic nanoparticles.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The endocytotic pathway and endosomal escape of the smart controlled drug release system is proposed.</segment>    </body>
+</document>

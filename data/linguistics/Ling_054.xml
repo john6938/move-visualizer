@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_054.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study investigated psychological mechanisms underlying the effect of narrative health communication on behavioral intention.</segment> <segment id='2' features='rhetorical_moves' state='active'>Specifically, the study examined how exemplification in news about successful smoking cessation affects recipients&apos; narrative engagement, thereby changing their intention to quit smoking.</segment> <segment id='3' features='rhetorical_moves' state='active'>Nationally representative samples of U.S. adult smokers participated in 2 experiments.</segment> <segment id='4' features='rhetorical_moves' state='active'>The results from the 2 experiments consistently showed that smokers reading a news article with an exemplar experienced greater narrative engagement compared to those reading an article without an exemplar.</segment> <segment id='5' features='rhetorical_moves' state='active'>Those who reported more engagement were in turn more likely to report greater smoking cessation intentions.</segment>    </body>
+</document>

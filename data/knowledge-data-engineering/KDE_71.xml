@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_71.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>All clustering methods have to assume some cluster relationship among the data objects that they are applied on.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Similarity between a pair of objects can be defined either explicitly or implicitly.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we introduce a novel multiviewpoint-based similarity measure and two related clustering methods.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The major difference between a traditional dissimilarity/similarity measure and ours is that the former uses only a single viewpoint, which is the origin, while the latter utilizes many different viewpoints, which are objects assumed to not be in the same cluster with the two objects being measured.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Using multiple viewpoints, more informative assessment of similarity could be achieved.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Theoretical analysis and empirical study are conducted to support this claim.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Two criterion functions for document clustering are proposed based on this new measure.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>We compare them with several well-known clustering algorithms that use other popular similarity measures on various document collections to verify the advantages of our proposal.</segment>    </body>
+</document>

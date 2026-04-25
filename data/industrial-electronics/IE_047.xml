@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_047.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>We have developed a user-friendly loop-shaping method employing the Robust Bode (RBode) plot for optimizing the head-positioning system in a hard disk drive (HDD).</segment> <segment id='2' features='rhetorical_moves' state='active'>The RBode plot represents the robust performance criterion as allowable and forbidden regions on the open-loop Bode plot.</segment> <segment id='3' features='rhetorical_moves' state='active'>Using the RBode plot, control engineers can easily design controllers that suppress disturbances and account for perturbations of the controlled object with frequency response data alone.</segment> <segment id='4' features='rhetorical_moves' state='active'>There is no need to construct the transfer function models of the controlled object and of the disturbance.</segment> <segment id='5' features='rhetorical_moves' state='active'>Experimental results for a track-following control in an HDD show the utility of the method.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

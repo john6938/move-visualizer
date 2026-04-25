@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_041.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study traces the rhythms of news storytelling on Twitter via the #egypt hashtag.</segment> <segment id='2' features='rhetorical_moves' state='active'>Using computational discourse analysis, we examine news values and the form of news exhibited in #egypt from January 25 to February 25, 2011, pre- and post-resignation of Hosni Mubarak.</segment> <segment id='3' features='rhetorical_moves' state='active'>Results point to a hybridity of old and newer news values, with emphasis on the drama of instantaneity, the crowdsourcing of elites, solidarity, and ambience.</segment> <segment id='4' features='rhetorical_moves' state='active'>The resulting stream of news combines news, opinion, and emotion to the point where discerning one from the other is difficult and doing so misses the point.</segment> <segment id='5' features='rhetorical_moves' state='active'>We offer a theory of affective news to explain the distinctive character of content produced by networked publics in times of political crisis.</segment>    </body>
+</document>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_050.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether people who donate a kidney have an increased risk of cardiovascular disease.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective population based matched cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Participants All people who were carefully selected to become a living kidney donor in the province of Ontario, Canada, between 1992 and 2009.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The information in donor charts was manually reviewed and linked to provincial healthcare databases.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Matched non-donors were selected from the healthiest segment of the general population.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>A total of 2028 donors and 20?280 matched non-donors were followed for a median of 6.5 years (maximum 17.7 years).</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Median age was 43 at the time of donation (interquartile range 34-50) and 50 at the time of follow-up (42-58).</segment>
+
+<segment id='8' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcome was a composite of time to death or first major cardiovascular event.</segment> <segment id='9' features='rhetorical_moves;method' state='active'>The secondary outcome was time to first major cardiovascular event censored for death.</segment>
+
+<segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results The risk of the primary outcome of death and major cardiovascular events was lower in donors than in non-donors (2.8 v 4.1 events per 1000 person years; hazard ratio 0.66, 95% confidence interval 0.48 to 0.90).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The risk of major cardiovascular events censored for death was no different in donors than in non-donors (1.7 v 2.0 events per 1000 person years; 0.85, 0.57 to 1.27).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Results were similar in all sensitivity analyses.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Older age and lower income were associated with a higher risk of death and major cardiovascular events in both donors and non-donors when each group was analysed separately.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusions The risk of major cardiovascular events in donors is no higher in the first decade after kidney donation compared with a similarly healthy segment of the general population.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>While we will continue to follow people in this study, these interim results add to the evidence base supporting the safety of the practice among carefully selected donors.</segment>    </body>
+</document>

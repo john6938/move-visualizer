@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_013.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>This study presents a “living” microvascular stamp that releases multiple angiogenic factors and subsequently creates functional neovessels with the same pattern as that engraved in the stamp.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The stamp consists of live cells that secrete angiogenic factors, an engineered hydrogel matrix that promotes cellular expression of angiogenic factors, and a three-dimensional geometry that localizes the angiogenic factors within the pattern.</segment>    </body>
+</document>

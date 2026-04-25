@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_100.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we are interested in fundamentally understanding the spatial predictability of wireless channels.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a probabilistic channel prediction framework for predicting the spatial variations of a wireless channel, based on a small number of measurements.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>By using this framework, we then develop a mathematical foundation for understanding the spatial predictability of wireless channels.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>More specifically, we characterize the impact of different environments, in terms of their underlying parameters, on wireless channel predictability.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We furthermore show how sampling positions can be optimized to improve the prediction quality.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Finally, we show the performance of the proposed framework in predicting (and justifying the predictability of) the spatial variations of real channels, using several measurements in our building.</segment>    </body>
+</document>

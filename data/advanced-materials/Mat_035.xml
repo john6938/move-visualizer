@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_035.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Taking advantage of the “coffee-ring” effect, graphene electrodes with channel lengths as low as 1-2 micrometers are patterned by inkjet printing.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Organic thin film transistors and complementary inverters are also fabricated using these graphene electrodes and show excellent performance.</segment>    </body>
+</document>

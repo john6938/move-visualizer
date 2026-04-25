@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_37.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, the partial Hamming correlation properties of frequency-hopping sequences (FHSs) are discussed.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The Peng-Fan bounds on sets of FHSs are generalized to the case of partial correlation.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Both individual FHSs with optimal partial autocorrelation and sets of FHSs with optimal partial correlation are presented.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The former has more new parameters compared with the known individual FHSs with optimal partial autocorrelation, while the later is obtained in the literature for the first time.</segment>    </body>
+</document>

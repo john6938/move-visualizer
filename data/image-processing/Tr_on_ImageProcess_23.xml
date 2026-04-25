@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_23.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active' comment='we present'>We present a novel approach using distributed source coding for image authentication.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The key idea is to provide a Slepian-Wolf encoded quantized image projection as authentication data.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>This version can be correctly decoded with the help of an authentic image as side information.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Distributed source coding provides the desired robustness against legitimate variations while detecting illegitimate modification.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The decoder incorporating expectation maximization algorithms can authenticate images which have undergone contrast, brightness, and affine warping adjustments.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>Our authentication system also offers tampering localization by using the sum-product algorithm.</segment>    </body>
+</document>

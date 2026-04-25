@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_069.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Unusually large thermopower modulation is demonstrated using a field effect transistor structure on a thermoelectric material.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>An electric field application provides an extremely thin (~2 nm) two-dimensional electron gas (2DEG), which exhibits unusually large thermopower, approximately five times larger than that of the bulk.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>The present electric field induced 2DEG approach may accelerate the development of nanostructures for high performance thermoelectric materials.</segment>    </body>
+</document>

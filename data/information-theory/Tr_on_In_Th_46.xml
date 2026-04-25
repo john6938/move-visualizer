@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_46.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Quasi-cyclic (QC) low-density parity-check (LDPC) codes are an important instance of proto-graph-based LDPC codes.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this paper we present upper bounds on the minimum Hamming distance of QC LDPC codes and study how these upper bounds depend on graph structure parameters (like variable degrees, check node degrees, girth) of the Tanner graph and of the underlying proto-graph.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Moreover, for several classes of proto-graphs we present explicit QC LDPC code constructions that achieve (or come close to) the respective minimum Hamming distance upper bounds.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Because of the tight algebraic connection between QC codes and convolutional codes, we can state similar results for the free Hamming distance of convolutional codes.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>In fact, some QC code statements are established by first proving the corresponding convolutional code statements and then using a result by Tanner that says that the minimum Hamming distance of a QC code is upper bounded by the free Hamming distance of the convolutional code that is obtained by gunwrappingh the QC code.</segment>    </body>
+</document>

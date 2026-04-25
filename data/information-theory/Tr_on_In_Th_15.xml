@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_15.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We determine the rate region of the Gaussian one-helper source-coding problem in which the helper observes a scalar, the main encoder observes a vector, and the distortion constraint is a positive semidefinite upper bound on the error covariance matrix of the main source.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The rate region is achieved by a Gaussian achievable scheme.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We introduce a novel outer bounding technique to establish the converse.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Our approach is to create a reduced dimensional problem by projecting the main source and the distortion constraint in certain directions determined by the optimal Gaussian scheme.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We also provide an outer bound to the rate region of the more general problem in which there are distortion constraints on both sources.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>This outer bound is partially tight in general and completely tight in some nontrivial cases.</segment>    </body>
+</document>

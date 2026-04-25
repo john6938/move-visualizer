@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_39.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper analyzes an evolutionary algorithm in the quasi-equilibrium state, i.e., when the population of chromosomes fluctuates around a single peak of the fitness function.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>The analysis is aimed at approximating the genetic variance of the population when chromosomes are real-valued.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The infinite population model is considered which allows the quasi-equilibrium state to be defined as the state when the density of chromosomes contained by the population remains unchanged over consecutive generations.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This paper provides formulas for genetic diversity in the quasi-equilibrium state for fitness proportionate, tournament, and truncation selection types, with and without elitism, with Gaussian mutation, and with and without arithmetic crossover.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The formulas are experimentally validated.</segment>    </body>
+</document>

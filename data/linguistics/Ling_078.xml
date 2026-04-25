@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_078.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The field of communication, like much of higher education, is facing a set of crises brought about by economic, political and technological changes that affect all segments of society.</segment> <segment id='2' features='rhetorical_moves' state='active'>We owe to ourselves, our students and our societies to face these challenges and rethink our mission and our practices in ways that will contribute to solutions.</segment> <segment id='3' features='rhetorical_moves' state='active'>In this article I focus on several dimensions of our present circumstances: the need to embrace a broader vision of the career paths for which we are training our doctoral students; the importance of envisioning communication studies as a necessary and essential component of any rational liberal arts education in the 21st century; the critical role that communication scholarship can and should play in addressing current public policy debates and issues; and the crucial role we need to assume as leaders of a cultural environment movement that will counter the negative externalities of our pervasive corporate media environment.</segment>    </body>
+</document>

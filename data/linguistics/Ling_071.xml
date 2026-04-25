@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_071.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Building on the assumption that journalists&apos; attitudes toward public institutions can contribute to a decline in public trust, this article sets out to identify the driving forces behind journalists&apos; confidence in public institutions.</segment> <segment id='2' features='rhetorical_moves' state='active'>Based on interviews with 2000 journalists from 20 countries, variation in trust is modeled across the individual level of journalists, the organizational level of news media, and the societal level of countries.</segment> <segment id='3' features='rhetorical_moves' state='active'>Our findings suggest that the principal determinants of journalists&apos; trust emanate from a country&apos;s political performance, from state ownership in the media, and from the extent to which people tend to trust each other.</segment> <segment id='4' features='rhetorical_moves' state='active'>Journalism culture and power distance, however, seem to have relatively little weight in the calculus of journalists&apos; institutional trust.</segment>    </body>
+</document>

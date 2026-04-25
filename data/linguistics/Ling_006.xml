@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_006.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This forum article examines the conceptualization of strategic learning over the past 30 years, focusing on recent conceptualizations that shift towards the notion of self-regulation.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>In recent years, scholars have argued that language learning strategies are too general, undefined, and incoherent and the questionnaires designed to measure language learning strategies are inaccurate and unreliable (see, for example, Dörnyei 2005; Woodrow 2005; Tseng et al. 2006).</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>Instead Dörnyei proposes a new theory to replace language learning strategies based on the psychological concept of self-regulation encased within his own model of motivation control.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>This article will argue that this reconceptualization might be a matter of throwing the baby out with the bathwater, in that it throws out a problematic taxonomy and replaces it with another one, which is also problematic—including the same ‘definitional fuzziness’ for which previous taxonomies have been criticized.</segment>    </body>
+</document>

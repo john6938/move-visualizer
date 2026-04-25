@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_059.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>4-bromoanisole is used as a very versatile processing additive to control the phase separation and phase purity of organic photovoltaic devices.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>Polymer-polymer blends based on P3HT as donor and a wide range of acceptor materials (F8TBT, PCDTBT,…) are investigated.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The additive promotes the aggregation of P3HT which improves the morphology for both initially mixed and demixed blends.</segment>    </body>
+</document>

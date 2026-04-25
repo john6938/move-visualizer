@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_010.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Despite possessing multiple sets of related (homoeologous) chromosomes, hexaploid wheat (Triticum aestivum) restricts pairing to just true homologs at meiosis.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Deletion of a single major locus, Pairing homoeologous1 (Ph1), allows pairing of homoeologs.</segment> <segment id='3' features='rhetorical_moves;introduction;gap' state='active'>How can the same chromosomes be processed as homologs instead of being treated as nonhomologs?</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>Ph1 was recently defined to a cluster of defective cyclin-dependent kinase (Cdk)-like genes showing some similarity to mammalian Cdk2.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>We reasoned that the cluster might suppress Cdk2-type activity and therefore affect replication and histone H1 phosphorylation.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>Our study does indeed reveal such effects, suggesting that Cdk2-type phosphorylation has a major role in determining chromosome specificity during meiosis.</segment>    </body>
+</document>

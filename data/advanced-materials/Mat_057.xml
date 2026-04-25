@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_057.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A new phase of a known discotic liquid crystal is observed at the interface with a rigid substrate.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The structure of the substrate-induced phase has been characterized by atomic force microscopy, specular X-ray diffraction, and small-angle and wide-angle grazing incidence X-ray diffraction.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The substrate-induced phase, which has a thickness of ~30 nm and a tetragonal symmetry, differs notably from the bulk phase.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>The occurrence of such phase casts a new light on alignment of discotic liquid crystals.</segment>    </body>
+</document>

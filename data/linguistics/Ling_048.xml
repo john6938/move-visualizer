@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_048.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Linkages between countries have changed significantly as the global information infrastructure has evolved over the past decade.</segment> <segment id='2' features='rhetorical_moves' state='active'>We argue that communication infrastructure and political processes evolve together, and in this study we attempt to measure key structural changes in bandwidth and the centrality of digital nodes in Middle East and North Africa.</segment> <segment id='3' features='rhetorical_moves' state='active'>Using a combination of bandwidth metrics and centrality indicators, we demonstrate how global information infrastructure evolved between 2002 and 2010, and how several countries in the Middle East rose to prominence as good nodes mediating strong intraregional networks.</segment>    </body>
+</document>

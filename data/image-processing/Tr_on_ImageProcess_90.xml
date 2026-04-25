@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_90.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>When using motion fields to interpolate between two consecutive images in an image sequence, a major problem is to handle occlusions and disclusions properly.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>However, in most cases, one of both images contains the information that is either discluded or occluded; if the first image contains the information (i.e., the region will be occluded), forward interpolation shall be employed, while for information that is contained in the second image (i.e., the region will be discluded), one should use backward interpolation.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Hence, we propose to improve an existing approach for image sequence interpolation by incorporating an automatic segmentation in the process, which decides in which region of the image forward or backward interpolation shall be used.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Our approach is a combination of the optimal transport approach to image sequence interpolation and the segmentation by the Chan-Vese approach.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We propose to solve the resulting optimality condition by a segregation loop, combined with a level set approach.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active' comment='examples of usage provided'>We provide examples that illustrate the performance both in the interpolation error and in the human perception.</segment>    </body>
+</document>

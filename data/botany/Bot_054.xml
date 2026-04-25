@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_054.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Benzoxazinoids represent preformed protective and allelophatic compounds that are found in a multitude of species of the family Poaceae (Gramineae) and occur sporadically in single species of phylogenetically unrelated dicots.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Stabilization by glucosylation and activation by hydrolysis is essential for the function of these plant defense compounds.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We isolated and functionally characterized from the dicot larkspur (Consolida orientalis) the benzoxazinoid-specific UDP-glucosyltransferase and ß-glucosidase that catalyze the enzymatic functions required to avoid autotoxicity and allow activation upon challenge by herbivore and pathogen attack.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>A phylogenetic comparison of these enzymes with their counterparts in the grasses indicates convergent evolution by repeated recruitment from homologous but not orthologous genes.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>The data reveal a great evolutionary flexibility in recruitment of these essential functions of secondary plant metabolism.</segment>    </body>
+</document>

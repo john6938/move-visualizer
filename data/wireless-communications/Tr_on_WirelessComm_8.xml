@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_8.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, by utilizing the time difference of arrival (TDOA) and frequency difference of arrival (FDOA) measurements of a signal received at a number of receivers, an efficient constrained weighted least-squares (CWLS) algorithm for estimating the position and velocity of a moving source is proposed, which exploits the known relation between the intermediate variable and the source location coordinates explicitly.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>On basis of Newton&apos;s method, a numerical iterative solution can be obtained allowing real-time implementation and ensuring global convergence.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results show that the proposed estimator achieves remarkably better performance than the two-step weighted least squares (WLS) approach, which makes the Cramr-Rao lower bound (CRLB) at a sufficiently high noise level before the threshold effect occurs.</segment>    </body>
+</document>

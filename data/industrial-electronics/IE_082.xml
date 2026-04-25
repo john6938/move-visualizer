@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_082.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The main objective of this paper is to provide an efficient computational model for fast and accurate calculation of electromagnetically induced vibrations in electrical machines.</segment> <segment id='2' features='rhetorical_moves' state='active'>Although a three-phase permanent-magnet synchronous machine has been used in this paper, the same methodology can be extended to other types of electric machinery.</segment> <segment id='3' features='rhetorical_moves' state='active'>A brief comparison between the different methods for structural analysis in electrical machines is introduced.</segment> <segment id='4' features='rhetorical_moves' state='active'>The method proposed in this paper uses finite-element analysis in order to extract the impulse responses that are used in calculating the vibration.</segment> <segment id='5' features='rhetorical_moves' state='active'>A field reconstruction method is used for the electromagnetic field analysis.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

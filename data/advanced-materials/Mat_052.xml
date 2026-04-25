@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_052.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Elaborate positioning of nanowire arrays can be generated upon highly adhesive superhydrophobic pillar-structured silicon substrates.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>The site of each nanowire can be precisely positioned by well designed tip-structured micropillars, yielding on-demand nanowire patterns.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>This approach might affect existing applications and enable new opportunities in organically functional devices and bio/chemical sensors.</segment>    </body>
+</document>

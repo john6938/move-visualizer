@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_029.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Dual doping-driven perpendicular electric field with opposite directions remarkably increase the on/off current ratio of bilayer graphene field-effect transistors.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>This unambiguously proves that it is possible to open a bandgap with two molecular dopants (F4-TCNQ and NH2-functionalized self-assembled monolayers (SAMs)) even in a single-gate device structure.</segment>    </body>
+</document>

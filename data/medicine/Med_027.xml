@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_027.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To systematically evaluate the effects of physical activity in adult patients after completion of main treatment related to cancer.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Meta-analysis of randomised controlled trials with data extraction and quality assessment performed independently by two researchers.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Pubmed, CINAHL, and Google Scholar from the earliest possible year to September 2011.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>References from meta-analyses and reviews.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Study selection Randomised controlled trials that assessed the effects of physical activity in adults who had completed their main cancer treatment, except hormonal treatment.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results There were 34 randomised controlled trials, of which 22 (65%) focused on patients with breast cancer, and 48 outcomes in our meta-analysis.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Twenty two studies assessed aerobic exercise, and four also included resistance or strength training.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The median duration of physical activity was 13 weeks (range 3-60 weeks).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Most control groups were considered sedentary or were assigned no exercise.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Based on studies on patients with breast cancer, physical activity was associated with improvements in insulin-like growth factor-I, bench press, leg press, fatigue, depression, and quality of life.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>When we combined studies on different types of cancer, we found significant improvements in body mass index (BMI), body weight, peak oxygen consumption, peak power output, distance walked in six minutes, right handgrip strength, and quality of life.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Sources of study heterogeneity included age, study quality, study size, and type and duration of physical activity.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Publication bias did not alter our conclusions.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusions Physical activity has positive effects on physiology, body composition, physical functions, psychological outcomes, and quality of life in patients after treatment for breast cancer.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>When patients with cancer other than breast cancer were also included, physical activity was associated with reduced BMI and body weight, increased peak oxygen consumption and peak power output, and improved quality of life.</segment>    </body>
+</document>

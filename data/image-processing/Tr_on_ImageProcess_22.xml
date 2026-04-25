@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_22.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active' comment='&quot;we present...&quot;'>We present a novel method to perform an accurate registration of 3-D nonrigid bodies by using phase-shift properties of the dual-tree complex wavelet transform (DT-BBCWT).</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Since the phases of DT-BBCWT coefficients change approximately linearly with the amount of feature displacement in the spatial domain, motion can be estimated using the phase information from these coefficients.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The motion estimation is performed iteratively: first by using coarser level complex coefficients to determine large motion components and then by employing finer level coefficients to refine the motion field.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We use a parametric affine model to describe the motion, where the affine parameters are found locally by substituting into an optical flow model and by solving the resulting overdetermined set of equations.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>From the estimated affine parameters, the motion field between the sensed and the reference data sets can be generated, and the sensed data set then can be shifted and interpolated spatially to align with the reference datafeature displacement set.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_71.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Accurate channel direction information is essential to achieve considerable capacity gains in multiple-input multiple-output (MIMO) wireless communication systems.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Limited feedback using a polar-cap differential codebook which utilizes the temporal correlation in multiple-input single-output (MISO) channels is presented in this paper.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We first describe the general properties of the polar-cap differential codebook and then explain the design methodology of the size of the polar-cap given the temporal correlation coefficient.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We also propose an enhancement of the polar-cap differential codebook which is suitable for a spatially correlated channel.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We compare the polar-cap differential codebook with a rotation-based differential codebook in terms of the chordal distance to demonstrate the superiority of the polar-cap differential codebook.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Monte Carlo simulation results show that the polar-cap differential codebook facilitates a significant performance gain in both temporally and spatially correlated channels.</segment>    </body>
+</document>

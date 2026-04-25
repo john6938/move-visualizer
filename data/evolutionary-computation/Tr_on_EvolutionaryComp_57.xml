@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_57.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Ant colony optimization (ACO) algorithms have been successfully applied to discover a list of classification rules.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>In general, these algorithms follow a sequential covering strategy, where a single rule is discovered at each iteration of the algorithm in order to build a list of rules.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>The sequential covering strategy has the drawback of not coping with the problem of rule interaction, i.e., the outcome of a rule affects the rules that can be discovered subsequently since the search space is modified due to the removal of examples covered by previous rules.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>This paper proposes a new sequential covering strategy for ACO classification algorithms to mitigate the problem of rule interaction, where the order of the rules is implicitly encoded as pheromone values and the search is guided by the quality of a candidate list of rules.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active' comment='method included in participle phrase postmodifying grammatical subject'>Our experiments using 18 publicly available data sets show that the predictive accuracy obtained by a new ACO classification algorithm implementing the proposed sequential covering strategy is statistically significantly higher than the predictive accuracy of state-of-the-art rule induction classification algorithms.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_89.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a novel outdoor scene image segmentation algorithm based on background recognition and perceptual organization.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>We recognize the background objects such as the sky, the ground, and vegetation based on the color and texture information.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>For the structurally challenging objects, which usually consist of multiple constituent parts, we developed a perceptual organization model that can capture the nonaccidental structural relationships among the constituent parts of the structured objects and, hence, group them together accordingly without depending on a priori knowledge of the specific objects.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Our experimental results show that our proposed method outperformed two state-of-the-art image segmentation approaches on two challenging outdoor databases (Gould data set and Berkeley segmentation data set) and achieved accurate segmentation quality on various outdoor natural scene environments.</segment>    </body>
+</document>

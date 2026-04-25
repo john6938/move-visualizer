@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_003.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To derive and validate an algorithm to estimate the absolute risk of having ovarian cancer in women with and without symptoms.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cohort study with data from 375 UK QResearch general practices for development and 189 for validation.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Participants Women aged 30-84 without a diagnosis of ovarian cancer at baseline and without appetite loss, weight loss, abdominal pain, abdominal distension, rectal bleeding, or postmenopausal bleeding recorded in previous 12 months.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Main outcome The primary outcome was incident diagnosis of ovarian cancer recorded in the next two years.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Methods Risk factors examined included age, family history of ovarian cancer, previous cancers other than ovarian, body mass index (BMI), smoking, alcohol, deprivation, loss of appetite, weight loss, abdominal pain, abdominal distension, rectal bleeding, postmenopausal bleeding, urinary frequency, diarrhoea, constipation, tiredness, and anaemia.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Cox proportional hazards models were used to develop the risk equation.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Measures of calibration and discrimination assessed performance in the validation cohort.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results In the derivation cohort there were 976 incident cases of ovarian cancer from 2.03 million person years.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Independent predictors were age, family history of ovarian cancer (9.8-fold higher risk), anaemia (2.3-fold higher), abdominal pain (sevenfold higher), abdominal distension (23-fold higher), rectal bleeding (twofold higher), postmenopausal bleeding (6.6-fold higher), appetite loss (5.2-fold higher), and weight loss (twofold higher).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>On validation, the algorithm explained 57.6% of the variation.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The receiver operating characteristics curve (ROC) statistic was 0.84, and the D statistic was 2.38.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The 10% of women with the highest predicted risks contained 63% of all ovarian cancers diagnosed over the next two years.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion The algorithm has good discrimination and calibration and, after independent validation in an external cohort, could potentially be used to identify those at highest risk of ovarian cancer to facilitate early referral and investigation.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Further research is needed to assess how best to implement the algorithm, its cost effectiveness, and whether, on implementation, it has any impact on health outcomes.</segment>    </body>
+</document>

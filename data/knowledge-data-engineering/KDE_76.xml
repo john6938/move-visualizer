@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_76.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>As the exponential explosion of various contents generated on the Web, Recommendation techniques have become increasingly indispensable.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Innumerable different kinds of recommendations are made on the Web every day, including movies, music, images, books recommendations, query suggestions, tags recommendations, etc.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>No matter what types of data sources are used for the recommendations, essentially these data sources can be modeled in the form of various types of graphs.</segment> <segment id='4' features='rhetorical_moves;introduction;overview' state='active'>In this paper, aiming at providing a general framework on mining Web graphs for recommendations, (1) we first propose a novel diffusion method which propagates similarities between different nodes and generates recommendations; (2) then we illustrate how to generalize different recommendation problems into our graph diffusion framework.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>The proposed framework can be utilized in many recommendation tasks on the World Wide Web, including query suggestions, tag recommendations, expert finding, image recommendations, image annotations, etc.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>The experimental analysis on large data sets shows the promising future of our work.</segment>    </body>
+</document>

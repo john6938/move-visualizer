@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_1.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>New techniques in cross-layer wireless networks are building demand for ubiquitous channel sounding, that is, the capability to measure channel impulse response (CIR) with any standard wireless network and node.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Towards that goal, we present a software-defined IEEE 802.11b receiver and CIR measurement system with little additional computational complexity compared to 802.11b reception alone.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The system implementation, using the universal software radio peripheral (USRP) and GNU Radio, is described and compared to previous work.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We validate the CIR measurement system and present the results of a measurement campaign which measures millions of CIRs between WiFi access points and a mobile receiver in urban and suburban areas.</segment>    </body>
+</document>

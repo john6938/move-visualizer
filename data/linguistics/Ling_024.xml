@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_024.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Great diversity exists in the way English is being used in the world today.</segment> <segment id='2' features='rhetorical_moves' state='active'>It is now not uncommon to hear a Korean and a Brazilian do business in English, or a Syrian and a Norwegian debating politics in an English-speaking chat room.</segment> <segment id='3' features='rhetorical_moves' state='active'>As opportunities to use English increase and evolve, researchers are left with the difficult challenge of understanding the many ways in which English as a lingua franca (ELF) is used.</segment> <segment id='4' features='rhetorical_moves' state='active'>While the current literature overwhelmingly characterizes ELF interactants and interaction as being mutually supportive, in this article, I argue that this is not always the case.</segment> <segment id='5' features='rhetorical_moves' state='active'>Specifically, analysis of multi-participant voice-based chat rooms show that ELF interactants are not inherently mutually supportive and do not always seek to build consensus; on the contrary, they highlight problems or troubles in communication through laughter, joking, and ridicule.</segment> <segment id='6' features='rhetorical_moves' state='active'>These observations suggest that ELF interaction is fluid and dynamic, and provide much needed empirical data to an area of investigation that is still relatively new.</segment>    </body>
+</document>

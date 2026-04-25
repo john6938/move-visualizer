@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_038.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A facile ammonia-atmosphere pre-hydrolysis post-synthetic route that can uniformly and selectively deposit Fe2O3 nanoparticles in the predefined mesopores (5.6 nm) of a bimodal (2.3, 5.6 nm) mesoporous carbon matrix is demonstrated (see figure).</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The mesoporous magnetic Fe2O3@C encapsulates show excellent performance for arsenic capture with remarkable adsorption capacity, fast uptake rate, easy magnetic separation, and good cyclic stability.</segment>    </body>
+</document>

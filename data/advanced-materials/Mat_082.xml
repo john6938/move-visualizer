@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_082.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A simple and general fabrication method for helical swimming micromachines by direct laser writing and e-beam evaporation is demonstrated.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The magnetic helical devices exhibit varying magnetic shape anisotropy, yet always generate corkscrew motion using a rotating magnetic field.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>They also exhibit good swimming performance and are capable of pick-and-place micromanipulation in 3D. Cytotoxicity of the devices was investigated using mouse myoblasts.</segment>    </body>
+</document>

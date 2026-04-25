@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_88.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Proteins are composed by amino acids, which are created by genes.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>To understand how different genes interact to create different proteins, we need to model the gene regulatory networks (GRNs) of different organisms.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>There are different models that attempt to model GRNs.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>In this paper, we use the popular S-System to model small networks.</segment> <segment id='5' features='rhetorical_moves;introduction;gap' state='active'>This model has been solved with different evolutionary computation techniques, which have obtained good results; yet, there are no models that achieve a perfect reconstruction of the network.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We implement a variation of particle swarm optimization (PSO), called dissipative PSO (DPSO), to optimize the model; we also research the use of an L1 regularizer and compare it with other evolutionary computing approaches.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>To the best of our knowledge, neither the DPSO nor L1 optimizer has been jointly used to solve the S-System.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>We find that the combination of S-System and DPSO offers advantages over previously used methods, and presents promising results for inferencing larger and more complex networks.</segment>    </body>
+</document>

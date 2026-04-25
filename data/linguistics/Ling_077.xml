@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_077.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study examined whether a parent “friending” his/her child on Facebook.com influenced the parent–child relationship and perceptions of parental privacy invasions.</segment> <segment id='2' features='rhetorical_moves' state='active'>One hundred and eighteen parent–young adult child dyads were randomly assigned to an experimental group where the parent was asked to create a Facebook account, “friend” his/her child, and use the account over 2?months or a control group where the parent did not have a Facebook account.</segment> <segment id='3' features='rhetorical_moves' state='active'>Having a parent on Facebook did not result in perceptions of greater privacy invasions, but was associated with decreased conflict in the parent–child relationship.</segment> <segment id='4' features='rhetorical_moves' state='active'>When the parent and child had a more conflicted relationship prior to the parent joining Facebook, the parent&apos;s presence on Facebook also enhanced the child&apos;s closeness with the parent.</segment>    </body>
+</document>

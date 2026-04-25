@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_013.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article explores the feelings of imposture that are sometimes experienced by multilingual subjects—learners of a language other than their own or users of multiple languages—and their difficulty of finding authentic or legitimate subject positions in a global world with fluid boundaries and uncertain categories of identity.</segment> <segment id='2' features='rhetorical_moves' state='active'>It examines what modernist and poststructuralist approaches to the problem of imposture can yield in applied linguistic theory.</segment> <segment id='3' features='rhetorical_moves' state='active'>Modernist scholars focus on revealing abuses of institutional power and on uncovering the artificiality of language rituals, whereas poststructuralist scholars seek to understand the social and historical conditions of possibility of discourses of imposture.</segment> <segment id='4' features='rhetorical_moves' state='active'>They attempt to deal with the pervasive contradictions of the search for authenticity and legitimacy in a world of commodified discourses and self-declared authorities.</segment> <segment id='5' features='rhetorical_moves' state='active'>In such a world, multilingual subjects have a particular role to play to transform imposture into the multilingual art of interrogating and imagining various forms of discourse.</segment>    </body>
+</document>

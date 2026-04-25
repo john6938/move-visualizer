@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_082.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the impact of reorganisation of neonatal specialist care services in England after a UK Department of Health report in 2003.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design A population-wide observational comparison of outcomes over two epochs, before and after the establishment of managed clinical neonatal networks.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Epoch one: 294 maternity and neonatal units in England, Wales, and Northern Ireland, 1 September 1998 to 31 August 2000, as reported by the Confidential Enquiry into Stillbirths and Sudden Deaths in Infancy Project 27/28.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Epoch two: 146 neonatal units in England contributing data to the National Neonatal Research Database at the Neonatal Data Analysis Unit, 1 January 2009 to 31 December 2010.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Participants Babies born at a gestational age of 27+0-28+6 (weeks+days): 3522 live births in epoch one; 2919 babies admitted to a neonatal unit within 28 days of birth in epoch two.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Intervention The national reorganisation of neonatal services into managed clinical networks.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures The proportion of babies born at hospitals providing the highest volume of neonatal specialist care (=2000 neonatal intensive care days annually), having an acute transfer (within the first 24 hours after birth) and/or a late transfer (between 24 hours and 28 days after birth) to another hospital, assessed by change in distribution of transfer category (“none,” “acute,” “late”), and babies from multiple births separated by transfer.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>For acute transfers in epoch two, the level of specialist neonatal care provided at the destination hospital (British Association of Perinatal Medicine criteria).</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Results After reorganisation, there were increases in the proportions of babies born at 27-28 weeks’ gestation in hospitals providing the highest volume of neonatal specialist care (18% (631/3495) v 49% (1325/2724); odds ratio 4.30, 95% confidence interval 3.83 to 4.82; P&lt;0.001) and in acute and late postnatal transfers (7% (235) v 12% (360) and 18% (579) v 22% (640), respectively; P&lt;0.001).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>There was no significant change in the proportion of babies from multiple births separated by transfer (33% (39) v 29% (38); 0.86, 0.50 to 1.46; P=0.57).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>In epoch two, 32% of acute transfers were to a neonatal unit providing either an equivalent (n=87) or lower (n=26) level of specialist care.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions There is evidence of some improvement in the delivery of neonatal specialist care after reorganisation.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The increase in acute transfers in epoch two, in conjunction with the high proportion transferred to a neonatal unit providing an equivalent or lower level of specialist care, and the continued separation of babies from multiple births, are indicative of poor coordination between maternity and neonatal services to facilitate in utero transfer before delivery, and continuing inadequacies in capacity of intensive care cots.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Historical data representing epoch one are available only in aggregate form, preventing examination of temporal trends or confounding factors.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>This limits the extent to which differences between epochs can be attributed to reorganisation and highlights the importance of routine, prospective data collection for evaluation of future health service reorganisations.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_028.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, a high-accuracy all-digital resolverto-digital (R/D) converter is presented.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The two basic components of a conventional tracking R/D converter, the phase detector and the loop filter, are software implemented by frequency-shifting techniques and a decoupled double synchronous reference frame-based phase-locked loop (DSRF-PLL).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>This PLL allows the simultaneous extraction of the angular position and speed of the rotatory resolver, even in the presence of gain and phase errors in the resolver.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>In order to increase accuracy and to minimize the time lag of the whole system, oversampling methods and downsampling finite-impulse response digital filters are introduced.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Finally, DSP implementation issues, like the use of techniques to synchronize the resolver output signals with the excitation one, are discussed.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Using these combined techniques and a standard DSP with a 12-bit analog-to-digital converter, resolutions of up to 14 bits can be achieved with a computation cost of about 13% of the total (100 MIPs).</segment> <segment id='7' features='rhetorical_moves;introduction;overview' state='active'>The paper presents the main techniques, simulation, and experimental results.</segment>     </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_70.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Despite years of research, the name ambiguity problem remains largely unresolved.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Outstanding issues include how to capture all information for name disambiguation in a unified approach, and how to determine the number of people K in the disambiguation process.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we formalize the problem in a unified probabilistic framework, which incorporates both attributes and relationships.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Specifically, we define a disambiguation objective function for the problem and propose a two-step parameter estimation algorithm.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We also investigate a dynamic approach for estimating the number of people K.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments show that our proposed framework significantly outperforms four baseline methods of using clustering algorithms and two other previous methods.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments also indicate that the number K automatically found by our method is close to the actual number.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_78.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>The problem we will consider in this paper is binary image restoration.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>It is, in essence, difficult to solve because of the combinatorial nature of the problem.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>To overcome this difficulty, we propose a new minimization model by making use of a new variable to enforce the image to be binary.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Based on the proposed minimization model, we present a fast alternating minimization algorithm for binary image restoration.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We prove the convergence of the proposed alternating minimization algorithm.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show that the proposed method is feasible and effective for binary image restoration.</segment>    </body>
+</document>

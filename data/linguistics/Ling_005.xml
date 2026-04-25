@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_005.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This article reports on an adaptation and validation study of SRCvoc (self-regulating capacity in vocabulary learning scale; Tseng et al. 2006) in a Japanese EFL setting.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The piloting phase revealed that factor structures were different from those in the original study.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The main study, including a self-reported measure of procrastination to explore the convergent evidence of the construct validity, suggests that the scale can be a valid measure of self-regulation capacity in vocabulary learning in a Japanese EFL environment.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>These findings provide implications for future studies that utilize the same type of research paradigm.</segment>    </body>
+</document>

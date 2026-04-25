@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_014.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>A novel voltage-based commutation (VBC) strategy without explicit input-voltage measurement is proposed in this paper.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>By properly selecting the width of the critical intervals, the two-step uncritical commutation and four-step critical commutation approaches are utilized to realize safe VBC.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The general switching patterns of space-vector modulation (SVM) are analyzed, and the four-step critical commutations are avoided by using four selected SVM switching patterns; thus, all the commutations in the matrix converter can be achieved by two-step VBC.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>In order to prevent the commutation processes from being interrupted, the triple-zero-vector switching pattern and the single-zero-vector switching pattern are utilized by selecting an appropriate commutation time and the output-voltage/current distortion is minimized.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Prototype experiments have been carried out to show the validity of the control strategies.</segment>    </body>
+</document>

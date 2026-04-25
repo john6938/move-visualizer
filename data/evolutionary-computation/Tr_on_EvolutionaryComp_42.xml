@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_42.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>The exploration/exploitation balance is a major concern in the control of evolutionary algorithms (EAs) performance.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Exploration is associated with the distribution of individuals on a landscape, and can be estimated by a genotypic diversity measure (GDM).</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>In contrast, exploitation is related to individual responses, which can be described with a phenotypic diversity measure.</segment> <segment id='4' features='rhetorical_moves;introduction;gap' state='active'>Many diversity measures have been proposed in the literature without a comprehensive study of their differences.</segment> <segment id='5' features='rhetorical_moves;purpose' state='active'>This paper looks at surveys of GDMs published over the years for real-coded representations, and compares them based on a new benchmark, one that allows a better description of their behavior.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The results demonstrate that none of the available GDMs is able to reflect the true diversity of all search processes.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Nonetheless, the normalized pairwise diversity measurement proves to be the best genotypic diversity measurement for standard EAs, as it shows nondominated behavior with respect to the desired GDM requirements.</segment>    </body>
+</document>

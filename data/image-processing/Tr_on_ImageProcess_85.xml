@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_85.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper introduces a class of adaptive Perona-Malik (PM) diffusion, which combines the PM equation with the heat equation.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The PM equation provides a potential algorithm for image segmentation, noise removal, edge detection, and image enhancement.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>However, the defect of traditional PM model is tending to cause the staircase effect and create new features in the processed image.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Utilizing the edge indicator as a variable exponent, we can adaptively control the diffusion mode, which alternates between PM diffusion and Gaussian smoothing in accordance with the image feature.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Computer experiments indicate that the present algorithm is very efficient for edge detection and noise removal.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_064.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this paper, a new topology for cascaded multilevel converter based on submultilevel converter units and full-bridge converters is proposed.</segment> <segment id='2' features='rhetorical_moves' state='active'>The proposed topology significantly reduces the number of dc voltage sources, switches, IGBTs, and power diodes as the number of output voltage levels increases.</segment> <segment id='3' features='rhetorical_moves' state='active'>Also, an algorithm to determine dc voltage sources magnitudes is proposed.</segment> <segment id='4' features='rhetorical_moves' state='active'>To synthesize maximum levels at the output voltage, the proposed topology is optimized for various objectives, such as the minimization of the number of switches, gate driver circuits and capacitors, and blocking voltage on switches.</segment> <segment id='5' features='rhetorical_moves' state='active'>The analytical analyses of the power losses of the proposed converter are also presented.</segment> <segment id='6' features='rhetorical_moves' state='active'>The operation and performance of the proposed multilevel converter have been evaluated with the experimental results of a single-phase 125-level prototype converter.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

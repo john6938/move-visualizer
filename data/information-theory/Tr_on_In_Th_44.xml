@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_44.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In an unordered code, no code word is contained in any other code word.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Unordered codes are all unidirectional error detecting (AUED) codes.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>In the binary case, it is well known that among all systematic codes with k information bits, Berger codes are optimal unordered codes with r=[log2(k+1)] ? log2k check bits.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This paper gives some new theory on variable length unordered codes and introduces a new class of systematic (instantaneous) unordered codes with variable length check symbols.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The average redundancy of the new codes presented here is r ? (1/2)log2k+c, where c ¸ (1.0470,1.1332) º IR and k ¸ IN is the number of information bits.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>When k is large, it is shown that such redundancy is at most 0.6069 bits off the redundancy of an optimal systematic unordered code design with fixed length information symbols and variable length check symbols; and, at most 2.8075 bits off the redundancy of an optimal variable length unordered code design.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The generalization is also given for the nonbinary case and it is shown that similar results hold true.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_010.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Using a porphyrin-functionalized graphene-modified electrode, an electrochemical impedance peptide sensor for label-free detection of cyclin A2 has been constructed.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>This electrochemical sensor can not only detect protein in cancer cells but also differentiate cancer cells from normal ones.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>Furthermore, the assay provides the potential of using a simple electrochemical technique to estimate the efficiency of anticancer drugs in cancer therapy.</segment>    </body>
+</document>

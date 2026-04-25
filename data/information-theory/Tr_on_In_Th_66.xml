@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_66.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active'>This paper derives a formula for the wideband slope for outage capacity and consider its application to some specific wireless channels.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>For the broadcast channel, the formula indicates that superposition is always superior to time-division multiple access (TDMA).</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>On the other hand, for the interference channel, we show that TDMA is better than superposition for most realistic situations.</segment>    </body>
+</document>

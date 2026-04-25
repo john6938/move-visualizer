@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_038.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The success of a democracy depends, in part, on public demand for democratic institutions.</segment> <segment id='2' features='rhetorical_moves' state='active'>How does Internet use shape citizens&apos; preferences for regime type?</segment> <segment id='3' features='rhetorical_moves' state='active'>Combining individual public opinion data from Africa and Asia with country-level indices, we test a multilevel model examining the relationship between Internet penetration, individual Internet use, and citizen demand for democracy across 28 countries.</segment> <segment id='4' features='rhetorical_moves' state='active'>We find that Internet use, but not national Internet penetration, is associated with greater citizen commitment to democratic governance.</segment> <segment id='5' features='rhetorical_moves' state='active'>Furthermore, greater democratization and Internet penetration moderates the relationship between Internet use and demand for democracy.</segment>    </body>
+</document>

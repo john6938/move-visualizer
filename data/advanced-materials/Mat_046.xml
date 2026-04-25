@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_046.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>The low range of A-site deficiency in perovskite structures with Ni cations was verified by neutron powder diffraction, transmission electron microscopy, and thermogravimetric analysis.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>A thermodynamic approach has been utilized, for the first time, to predict the extent of A-site deficiencies within the perovskite structure, introducing simple prediction criteria that could be adopted for designing advanced materials.</segment>    </body>
+</document>

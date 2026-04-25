@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_050.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A flexible solar device showing exceptional air and mechanical stability is produced by simultaneously optimizing molecular structure, active layer morphology, and interface characteristics.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The PFDCTBT-C8-based (see figure) devices with inverted architecture exhibited excellent power conversion efficiencies of 7.0% and 6.0% on glass and flexible substrates, respectively.</segment>    </body>
+</document>

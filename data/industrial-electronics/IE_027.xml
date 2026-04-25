@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_027.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The paper presents a low-cost variable-speed drive system comprising a brushless doubly-fed motor (BDFM) and a fractionally rated unidirectional frequency converter.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>A simple control algorithm is proposed for regulating the drive&apos;s speed and torque.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>A method of starting the BDFM in the cascade mode is presented and the starting performance is analyzed.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>The efficiency of the BDFM is discussed and the dynamic performance of the drive is verified by experimental results obtained from a 180 frame-size BDFM.</segment>     </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_047.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Vapor deposition techniques were utilized to synthesize very thick (~1 mm) Li-ion battery anodes consisting of vertically aligned carbon nanotubes coated with silicon and carbon.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The produced anode demonstrated ultrahigh thermal (&gt;400 W·m-1·K-1) and high electrical (&gt;20 S·m-1) conductivities, high cycle stability, and high average capacity (&gt;3000 mAh·gSi-1).</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>The processes utilized allow for the conformal deposition of other materials, thus making it a promising architecture for the development of Li-ion anodes and cathodes with greatly enhanced electrical and thermal conductivities.</segment>    </body>
+</document>

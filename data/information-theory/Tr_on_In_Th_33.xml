@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_33.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We analyze the queueing delay performance when random linear coding is performed over packets randomly arriving at a source node for multicast transmission over packet erasure channels.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We model random coding of packets as a bulk-service queueing system, where packets are served and depart the queue in groups.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In this framework, we analyze two different block-based random linear coding schemes.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The first scheme involves coding over a fixed blocksize, which leads to simpler analysis but also to a delay penalty for lightly-loaded systems.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The second scheme adapts to the traffic load by allowing for a variable blocksize, thereby removing the delay penalty at low loads.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We provide results on the maximum stable arrival rate of packets at the source and on the queueing delay as a function of the arrival rate.</segment>    </body>
+</document>
