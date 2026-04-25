@@ -1,69 +1,61 @@
 # Move Visualizer
 
-This app will fetch all files from Google Cloud Storage, display, and annotate them accordingly.
+A web application for exploring the rhetorical move structure of academic abstracts across disciplines.
 
-## Technologies
+## About
 
-- React: Front-end framework
-- TypeScript: Static type checking, helps development smoother and easier
-- CSS Modules: Styling method
-- Google Cloud: - Storage: Store abstracts' XML files - Firestore: Store abstracts' comments - Function: Make simple API without the need of a full-fledged back-end
+This tool helps users understand how abstract move structure — Introduction, Purpose, Method, Result, and Discussion — varies within and across academic disciplines. It includes 1,000 annotated abstracts from 10 domains.
+
+## Domains
+
+| Domain | Abstracts |
+|---|---|
+| Botany | 100 |
+| Industrial Electronics | 100 |
+| Linguistics | 100 |
+| Advanced Materials | 100 |
+| Medicine | 100 |
+| Evolutionary Computation | 100 |
+| Image Processing | 100 |
+| Information Theory | 100 |
+| Knowledge & Data Engineering | 100 |
+| Wireless Communications | 100 |
+
+## Features
+
+- Browse abstracts by discipline
+- Toggle move annotations on/off
+- Switch between move-only and move + subtype labels
+- Colour-coded legend for all move types
 
 ## Development
 
-### Requirements
-
-- Node.js >= 8
-
-### Instructions
-
-Run these commands in a command shell
-
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
-The app should be available on `localhost:3000`. Any change made on source codes will makes the page auto-refreshed.
+## Build for deployment
 
-### Change domain logic
-
-You can change most of the domain logic simply by editing these files:
-
-- `src/config/googleCloud.ts`: Bucket name and folders name
-- `src/config/moves.ts`: Move types and their own children types
-- `src/config/moveColors.ts`: Move colors
-
-## Deployment
-
-### Requirements
-
-Same as development
-
-### Instructions
-
-1.  Update your static host url in the field `"homepage"` in `package.json`
-    e.g.
-
-```json
-	"homepage": "https://mywebsite.com/move-visualizer"
-```
-
-2.  Run this command in a command shell
-
-```
+```bash
 npm run build
 ```
 
-3.  Your built website will be available in the folder `build/`. You can rename `index.html` if you want to serve it with different name (e.g. `https://mywebsite.com/move-visualizer/main.html`)
+The `dist/` folder can be uploaded to any static host (GoDaddy cPanel, GitHub Pages, etc.).
 
-## Google Cloud Function
+## Adding more domains
 
-This app uses Google Cloud Function instead of a full-fledged backend to make some simple APIs. Functions' source codes are manually copied into `/cloud-functions` for documentation purpose.
-Those APIs are:
+1. Add XML-annotated abstract files to `public/data/<domain-folder>/`
+2. Add the domain entry (key, label, folder, files array) to `public/data/index.json`
 
-- **Comment abstract:** Users can leave comment on abstract and comments are saved in Google Cloud Firestore. Password is in the function's environmental variables and could be changed by using Google Cloud console.
+## Abstract XML format
 
-## Note
+Each abstract is an XML file with annotated segments:
 
-This app is bootstrapped with [create-react-app](https://github.com/facebook/create-react-app). Refer there for more information.
+```xml
+<segment features="rhetorical_moves;introduction;background">
+  Text of the segment here.
+</segment>
+```
+
+The `features` attribute contains semicolon-separated values identifying the move type and optional subtype.
