@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_64.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Provable lower bounds are presented for the information rate I(X; X+S+N) where X is the symbol drawn independently and uniformly from a finite-size alphabet, S is a discrete-valued random variable (RV) and N is a Gaussian RV.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>It is well known that with S representing the precursor intersymbol interference (ISI) at the decision feedback equalizer (DFE) output, I(X; X+S+N) serves as a tight lower bound for the symmetric information rate (SIR) as well as capacity of the ISI channel corrupted by Gaussian noise.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>When evaluated on a number of well-known finite-ISI channels, these new bounds provide a very similar level of tightness against the SIR to the conjectured lower bound by Shamai and Laroia at all signal-to-noise ratio (SNR) ranges, while being actually tighter when viewed closed up at high SNRs.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The new lower bounds are obtained in two steps: First, a gmismatchedh mutual information function is introduced which can be proved as a lower bound to I(X; X+S+N).</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Secondly, this function is further bounded from below by an expression that can be computed easily via a few single-dimensional integrations with a small computational load.</segment>    </body>
+</document>

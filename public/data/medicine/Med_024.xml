@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_024.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the association between consumption of fried foods and risk of coronary heart disease.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Spanish cohort of the European Prospective Investigation into Cancer and Nutrition.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 40?757 adults aged 29-69 and free of coronary heart disease at baseline (1992-6), followed up until 2004.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Coronary heart disease events and vital status identified by record linkage with hospital discharge registers, population based registers of myocardial infarction, and mortality registers.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results During a median follow-up of 11 years, 606 coronary heart disease events and 1135 deaths from all causes occurred.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with being in the first (lowest) quarter of fried food consumption, the multivariate hazard ratio of coronary heart disease in the second quarter was 1.15 (95% confidence interval 0.91 to 1.45), in the third quarter was 1.07 (0.83 to 1.38), and in the fourth quarter was 1.08 (0.82 to 1.43; P for trend 0.74).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The results did not vary between those who used olive oil for frying and those who used sunflower oil.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Likewise, no association was observed between fried food consumption and all cause mortality: multivariate hazard ratio for the highest versus the lowest quarter of fried food consumption was 0.93 (95% confidence interval 0.77 to 1.14; P for trend 0.98).</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusion In Spain, a Mediterranean country where olive or sunflower oil is used for frying, the consumption of fried foods was not associated with coronary heart disease or with all cause mortality.</segment>    </body>
+</document>

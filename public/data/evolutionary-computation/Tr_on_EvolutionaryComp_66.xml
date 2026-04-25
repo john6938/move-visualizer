@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_66.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Coevolution is a natural choice for learning in problem domains where one agent&apos;s behavior is directly related to the behavior of other agents.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, there is a known tendency for coevolution to produce mediocre solutions.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>One of the main reasons for this is cycling, caused by intransitivities among a set of players.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>In this paper, we explore the link between coevolution and games, and revisit some of the coevolutionary literature in a games and measurement context.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a set of measurements to identify cycling in a population and a new algorithm that tries to minimize cycling in strictly competitive (zero sum) games.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We experimentally verify our approach by evolving weighted piece counter value functions to play othello, a classic two-player perfect information board game.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Our method is able to find extremely strong value functions of this type.</segment>    </body>
+</document>

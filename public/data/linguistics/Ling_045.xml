@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_045.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study contributes to the research on the Internet&apos;s effect on political behavior and organization by examining how the Internet influences the types of evaluations that may motivate individuals to organize politically.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study employs a randomized field experiment to determine whether the Internet influenced individuals&apos; perception of the fairness of the 2010 Tanzanian presidential election.</segment> <segment id='3' features='rhetorical_moves' state='active'>It provides a direct causal test of the Internet&apos;s effect on political evaluations, and the findings reveal that the Internet negatively influenced individuals&apos; perception of the fairness of the election and recount.</segment> <segment id='4' features='rhetorical_moves' state='active'>However, the findings also reveal that the impact of the Internet on political life may not always enrich democratic values.</segment> <segment id='5' features='rhetorical_moves' state='active'>In this case, more critical Internet users also became less likely to vote.</segment>    </body>
+</document>

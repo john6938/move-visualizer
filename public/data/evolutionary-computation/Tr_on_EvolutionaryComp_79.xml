@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_79.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper a new method for proving lower bounds on the expected running time of evolutionary algorithms (EAs) is presented.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>It is based on fitness-level partitions and an additional condition on transition probabilities between fitness levels.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>The method is versatile, intuitive, elegant, and very powerful.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>It yields exact or near-exact lower bounds for LO, OneMax, long $k$-paths, and all functions with a unique optimum.</segment> <segment id='5' features='rhetorical_moves;introduction;background' state='active'>Most lower bounds are very general; they hold for all EAs that only use bit-flip mutation as variation operator, i.e., for all selection operators and population models.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The lower bounds are stated with their dependence on the mutation rate.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>These results have very strong implications.</segment> <segment id='8' features='rhetorical_moves;discussion' state='active'>They allow us to determine the optimal mutation-based algorithm for LO and OneMax, i.e., the algorithm that minimizes the expected number of fitness evaluations.</segment> <segment id='9' features='rhetorical_moves;discussion' state='active'>This includes the choice of the optimal mutation rate.</segment>    </body>
+</document>

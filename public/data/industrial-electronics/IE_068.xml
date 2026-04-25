@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_068.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A simple current sharing control technique for the switching power supply is presented herein, whose basic concept is that the control effort created from the voltage loop is finely tuned by the control effort created from the current sharing loop based on the proposed phase link so as not only to obtain the desired output voltage but also to make the load current distributed among phases as evenly as possible.</segment> <segment id='2' features='rhetorical_moves' state='active'>Such a control method is not only without any current sharing bus as compared with the traditional current sharing methods, but also suitable for multiple phases under the condition that any one phase among multiple phases fails.</segment> <segment id='3' features='rhetorical_moves' state='active'>Moreover, based on phase link, there is no divider used, as compared with the traditional average current method, and hence, the number of logic elements in the field-programmable gate array (FPGA) can be reduced.</segment> <segment id='4' features='rhetorical_moves' state='active'>In this paper, the detailed basic operating principles, together with new mathematical deductions based on the superposition concept, are firstly described, and secondly some experimental results, based on the FPGA to realize the fully digitalized control of the overall system using one-comparator counter-based sampling without any analog-to-digital converter (ADC), are provided to verify the effectiveness of proposed control strategy.</segment> <segment id='5' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

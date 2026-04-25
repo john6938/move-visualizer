@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_54.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The throughput-optimal discrete-rate adaptation policy, when nodes are subject to constraints on the average power and bit error rate, is governed by a power control parameter, for which a closed-form characterization has remained an open problem.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The parameter is essential in determining the rate adaptation thresholds and the transmit rate and power at any time, and ensuring adherence to the power constraint.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>We derive novel insightful bounds and approximations that characterize the power control parameter and the throughput in closed-form.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>The results are comprehensive as they apply to the general class of Nakagami-m (m ?1) fading channels, which includes Rayleigh fading, uncoded and coded modulation, and single and multi-node systems with selection.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The results are appealing as they are provably tight in the asymptotic large average power regime, and are designed and verified to be accurate even for smaller average powers.</segment>    </body>
+</document>

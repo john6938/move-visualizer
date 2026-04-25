@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_3.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper explores a Bayesian theoretic approach to constructing multiscale complex-phase-order representations.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We formulate the construction of complex-phase-order representations at different structural scales based on the scale-space theory.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Linear and nonlinear deterministic approaches are explored, and a Bayesian theoretic approach is introduced for constructing representations in such a way that strong structure localization and noise resilience are achieved.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments illustrate its potential for constructing robust multiscale complex-phase-order representations with well-localized structures across all scales under high-noise situations.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Illustrative examples of applications of the proposed approach is presented in the form of multimodal image registration and feature extraction.</segment>    </body>
+</document>

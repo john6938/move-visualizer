@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_10.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In analog filter design, component values are selected due to manufactured constant values where performing an exhaustive search on all possible combinations of preferred values for obtaining an optimized design is not feasible.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The application of evolutionary algorithms (EA) in analog active filter circuit design and optimization is a promising area which is based on concepts of natural selection and survival of the fittest.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, the performances of genetic algorithm, artificial bee colony optimization, and particle swarm optimization, which are nature-inspired EA techniques, are evaluated for active filter design.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Each algorithm is applied to two different filter structures and performances of them are also evaluated when filter design is realized with components selected from different manufactured series.</segment>    </body>
+</document>

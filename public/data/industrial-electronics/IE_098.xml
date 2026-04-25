@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_098.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A novel high step-up dc-dc converter with coupled-inductor and switched-capacitor techniques is proposed in this paper.</segment> <segment id='2' features='rhetorical_moves' state='active'>The capacitors are charged in parallel and are discharged in series by the coupled inductor, stacking on the output capacitor.</segment> <segment id='3' features='rhetorical_moves' state='active'>Thus, the proposed converter can achieve high step-up voltage gain with appropriate duty ratio.</segment> <segment id='4' features='rhetorical_moves' state='active'>Besides, the voltage spike on the main switch can be clamped.</segment> <segment id='5' features='rhetorical_moves' state='active'>Therefore, low on-state resistance RDS(ON) of the main switch can be adopted to reduce the conduction loss.</segment> <segment id='6' features='rhetorical_moves' state='active'>The efficiency can be improved.</segment> <segment id='7' features='rhetorical_moves' state='active'>The operating principle and steady-state analyses are discussed in detail.</segment> <segment id='8' features='rhetorical_moves' state='active'>Finally, a prototype circuit with 24-V input voltage, 400-V output voltage, and 200-W output power is implemented in the laboratory.</segment> <segment id='9' features='rhetorical_moves' state='active'>Experiment results confirm the analysis and advantages of the proposed converter.</segment> <segment id='10' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

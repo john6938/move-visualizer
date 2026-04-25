@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_74.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Evolutionary computing provides powerful methods for designing pattern recognition systems.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>This design process is typically based on finite sample data and therefore bears the risk of overfitting.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>This paper aims at raising the awareness of various types of overfitting and at providing guidelines for how to deal with them.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We restrict our considerations to the predominant scenario in which fitness computations are based on point estimates.</segment> <segment id='5' features='rhetorical_moves;introduction;overview' state='active'>Three different sources of losing generalization performance when evolving learning machines, namely overfitting to training, test, and final selection data, are identified, discussed, and experimentally demonstrated.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>The importance of a pristine hold-out data set for the selection of the final result from the evolved candidates is highlighted.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>It is shown that it may be beneficial to restrict this last selection process to a subset of the evolved candidates.</segment>    </body>
+</document>

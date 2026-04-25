@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_084.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Affective disposition theory (ADT), which nicely explains enjoyment of traditional hero narratives, appears somewhat limited in its ability to explain antihero narratives, primarily because of the moral complexity of the protagonists.</segment> <segment id='2' features='rhetorical_moves' state='active'>Recent work proposes that viewers over time develop story schema that permit antihero enjoyment, despite character immorality.</segment> <segment id='3' features='rhetorical_moves' state='active'>This article reports results from three studies that support this claim.</segment> <segment id='4' features='rhetorical_moves' state='active'>Specifically, the findings indicate that moral judgment may be less important to antihero enjoyment than ADT would predict, that previous exposure to an antihero narrative alters responses to similar narratives, and that moral disengagement cues impact the enjoyment process.</segment> <segment id='5' features='rhetorical_moves' state='active'>Ultimately, the studies offer empirical evidence of how antihero narratives are enjoyed differently than their traditional hero counterparts.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_062.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Right before the 2008 U.S. presidential election, this 2-session online field study examined consequences of selective exposure to political messages on accessibility of attitudes and of partisanship.</segment> <segment id='2' features='rhetorical_moves' state='active'>In the first session, participants indicated attitudes toward political issues and their partisanship, which allowed measuring accessibility of attitudes and of partisanship.</segment> <segment id='3' features='rhetorical_moves' state='active'>In the second session, participants browsed articles.</segment> <segment id='4' features='rhetorical_moves' state='active'>Four issues were covered by 8 articles, with 2 articles featuring opposing perspectives.</segment> <segment id='5' features='rhetorical_moves' state='active'>Selective exposure was unobtrusively logged.</segment> <segment id='6' features='rhetorical_moves' state='active'>Finally, participants completed measures for attitudes and partisanship again.</segment> <segment id='7' features='rhetorical_moves' state='active'>Selective exposure to attitude-consistent articles was linked to greater attitude accessibility.</segment> <segment id='8' features='rhetorical_moves' state='active'>The indirect impact of selective exposure on partisanship accessibility through attitude accessibility was significant.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_041.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the costs and health effects of interventions to combat breast, cervical, and colorectal cancers in order to guide resource allocation decisions in developing countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Setting Two World Health Organization sub-regions of the world: countries in sub-Saharan Africa with very high adult and high child mortality (AfrE); and countries in South East Asia with high adult and high child mortality (SearD).</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis of prevention and treatment strategies for breast, cervical, and colorectal cancer, using mathematical modelling based on a lifetime population model.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Demographic and epidemiological data were taken from the WHO mortality and global burden of disease databases.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Estimates of intervention coverage, effectiveness, and resource needs were based on clinical trials, treatment guidelines, and expert opinion.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Unit costs were taken from the WHO-CHOICE price database.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Cost per disability adjusted life year (DALY) averted, expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results In both regions certain interventions in cervical cancer control (screening through cervical smear tests or visual inspection with acetic acid in combination with treatment) and colorectal cancer control (increasing the coverage of treatment interventions) cost &lt;$Int2000 per DALY averted and can be considered highly cost effective.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>In the sub-Saharan African region screening for colorectal cancer (by colonoscopy at age 50 in combination with treatment) costs $Int2000–6000 per DALY averted and can be considered cost effective.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>In both regions certain interventions in breast cancer control (treatment of all cancer stages in combination with mammography screening) cost $Int2000–6000 per DALY averted and can also be considered cost effective.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Other interventions, such as campaigns to eat more fruit and vegetable or subsidies in colorectal cancer control, are not cost effective according to the criteria defined.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusion Highly cost effective interventions to combat cervical and colorectal cancer are available in the African and Asian sub-regions.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>In cervical cancer control, these include screening through smear tests or visual inspection in combination with treatment.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>In colorectal cancer, increasing treatment coverage is highly cost effective (screening through colonoscopy is cost effective in the African sub-region).</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>In breast cancer control, mammography screening in combination with treatment of all stages is cost effective.</segment>    </body>
+</document>

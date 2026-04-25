@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_046.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To determine the population level costs, effects, and cost effectiveness of selected, individual based interventions to combat chronic obstructive pulmonary disease (COPD) and asthma in the context of low and middle income countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Sectoral cost effectiveness analysis using a lifetime population model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two World Health Organization sub-regions of the world: countries in sub-Saharan Africa with very high adult and high child mortality (AfrE); and countries in South East Asia with high adult and high child mortality (SearD).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Disease rates and profiles were taken from the WHO Global Burden of Disease study; estimates of intervention effects and resource needs were drawn from clinical trials, observational studies, and treatment guidelines.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Unit costs were taken from a WHO price database.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Cost per disability adjusted life year (DALY) averted, expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results In both regions low dose inhaled corticosteroids for mild persistent asthma was considered the most cost effective intervention, with average cost per DALY averted about $Int2500.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The next best value strategies were influenza vaccine for COPD in Sear-D (incremental cost $Int4950 per DALY averted) and low dose inhaled corticosteroids plus long acting ß agonists for moderate persistent asthma in Afr-E (incremental cost $Int9112 per DALY averted).</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions COPD is irreversible and progressive, and current treatment options produce relatively little gains relative to the cost.</segment> <segment id='10' features='rhetorical_moves;discussion' state='active'>The treatment options available for asthma, however, generally decrease chronic respiratory disease burden at a relatively low cost.</segment>    </body>
+</document>

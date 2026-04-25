@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_022.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To examine the effect of setting, intensity, and timing of peer support on breast feeding.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review and metaregression analysis of randomised controlled trials.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Cochrane Library, Medline, CINAHL, the National Research Register, and British Nursing Index were searched from inception or from 1980 to 2011.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Review methods Study selection, data abstraction, and quality assessment were carried out independently and in duplicate.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Risk ratios and 95% confidence intervals were calculated for individual studies and pooled.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Effects were estimated for studies grouped according to setting (high income countries, low or middle income countries, and the United Kingdom), intensity (&lt;5 and =5 planned contacts), and timing of peer support (postnatal period with or without antenatal care), and analysed using metaregression for any and exclusive breast feeding at last study follow-up.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Peer support interventions had a significantly greater effect on any breast feeding in low or middle income countries (P&lt;0.001), reducing the risk of not breast feeding at all by 30% (relative risk 0.70, 95% confidence interval 0.60 to 0.82) compared with a reduction of 7% (0.93, 0.87 to 1.00) in high income countries.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Similarly, the risk of non-exclusive breast feeding decreased significantly more in low or middle income countries than in high income countries: 37% (0.63, 0.52 to 0.78) compared with 10% (0.90, 0.85 to 0.97); P=0.01.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>No significant effect on breast feeding was observed in UK based studies.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Peer support had a greater effect on any breastfeeding rates when given at higher intensity (P=0.02) and only delivered in the postnatal period (P&lt;0.001), although no differences were observed of its effect on exclusive breastfeeding rates by intensity or timing.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusion Although peer support interventions increase breastfeeding continuation in low or middle income countries, especially exclusive breast feeding, this does not seem to apply in high income countries, particularly the United Kingdom, where breastfeeding support is part of routine postnatal healthcare.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Peer support of low intensity does not seem to be effective.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>Policy relating to provision of peer support should be based on more specific evidence on setting and any new peer services in high income countries need to undergo concurrent evaluation.</segment>    </body>
+</document>

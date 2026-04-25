@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_1.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The paper presents a problem motivated by the hidden subgroup problem, for which the &quot;standard approach&quot; is to use the oracle to produce the coset state.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Abstractly, one is given a set of quantum states on a d-dimensional Hilbert space, with the property that the pairwise fidelities are bounded.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>The question is: How many copies of the unknown state does one need to be able to distinguish them all with high reliability?</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>The minimal state will depend on the precise geometric position of the states relative to each other, but useful bounds can be obtained simply in terms of the number N and the fidelity F.</segment>    </body>
+</document>

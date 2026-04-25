@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_3.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this work we investigate whether it is preferable to have a large number of short single-hop links or a small number of long single-hops in a multi-hop wireless network.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We derive analytical expressions to compute the metric aggregate multi-hop information efficiency under different hopping strategies, and analyze the trade-off involving robustness of single-hop links, interference and hopping strategy.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_35.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Data cube is a key element in supporting fast OLAP.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Traditionally, an aggregate function is used to compute the values in data cubes.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, we extend the notion of data cubes with a new perspective.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>Instead of using an aggregate function, we propose to build data cubes using the skyline operation as the gaggregate function.h</segment> <segment id='7' features='rhetorical_moves;introduction;background' state='active'>Data cubes built in this way are called ggroup-by skyline cubesh and can support a variety of analytical tasks.</segment> <segment id='5' features='rhetorical_moves;introduction;problem' state='active'>Nevertheless, there are several challenges in implementing group-by skyline cubes in data warehouses: 1) the skyline operation is computational intensive, 2) the skyline operation is holistic, and 3) a group-by skyline cube contains both grouping and skyline dimensions, rendering it infeasible to precompute all cuboids in advance.</segment> <segment id='6' features='rhetorical_moves;introduction;overview' state='active'>This paper gives details on how to store, materialize, and query such cubes.</segment>    </body>
+</document>

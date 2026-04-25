@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_20.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The fitness landscape of MAX-3-SAT is investigated for random instances above the satisfiability phase transition.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>This paper includes a scaling analysis of the time to reach a local optimum, the number of local optima, the expected probability of reaching a local optimum as a function of its fitness, the expected fitness found by local search and the best fitness, the probability of reaching a global optimum, the size and relative positions of the global optima, the mean distance between the local and global optima, the expected fitness as a function of the Hamming distance from an optimum and their basins of attraction.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>These analyses show why the problem becomes hard for local search algorithms as the system size increases.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>The paper also shows how a recently proposed algorithm can exploit long-range correlations in the fitness landscape to improve on the state-of-the-art heuristic algorithms.</segment>    </body>
+</document>

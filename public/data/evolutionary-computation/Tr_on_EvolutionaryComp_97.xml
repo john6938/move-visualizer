@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_97.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>A novel general-purpose optimization method, chemical reaction optimization (CRO), is a population-based metaheuristic inspired by the phenomenon of interactions between molecules in a chemical reaction process.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>CRO has demonstrated its competitive edge over existing methods in solving many real-world problems.</segment> <segment id='3' features='rhetorical_moves;introduction;gap' state='active'>However, all studies concerning CRO have been empirical in nature and no theoretical analysis has been conducted to study its convergence properties.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>In this paper, we present some convergence results for several generic versions of CRO, each of which adopts different combinations of elementary reactions.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We investigate the limiting behavior of CRO.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>By modeling CRO as a finite absorbing Markov chain, we show that CRO converges to a global optimum solution with a probability arbitrarily close to one when time tends to infinity.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Our results also show that the convergence of CRO is determined by both the elementary reactions and the total energy of the system.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, we also study and discuss the finite time behavior of CRO.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_80.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Inferential rules are as essential to the Semantic Web applications as ontology.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Therefore, rule acquisition is also an important issue, and the Web that implies inferential rules can be a major source of rule acquisition.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>We expect that it will be easier to acquire rules from a site by using similar rules of other sites in the same domain rather than starting from scratch.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We proposed an automatic rule acquisition procedure using a rule ontology RuleToOnto, which represents information about the rule components and their structures.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The rule acquisition procedure consists of the rule component identification step and the rule composition step.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We developed A* algorithm for the rule composition and we performed experiments demonstrating that our ontology-based rule acquisition approach works in a real-world application.</segment>    </body>
+</document>

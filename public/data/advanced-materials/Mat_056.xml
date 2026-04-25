@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_056.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The length dependence of charge transport is evaluated in three families of porphyrin-based wires.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Planar edge-fused tapes and alkyne-linked oligomers mediate efficient charge transport with exceptionally shallow distance dependence, whereas the conductances of the twisted singly linked chains decrease steeply with increasing oligomer length.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The planar tapes are more conjugated than the alkyne-linked oligomers, but these two types of wires have similar conductance attenuation factors.</segment>    </body>
+</document>

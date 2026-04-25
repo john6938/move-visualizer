@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_018.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Matrix converters (MCs) are considered as a step forward in ac/ac conversion, providing sine-in and sine-out voltages and currents, controlled input power factor, compact sight without the requirement of a dc bus capacitor, and bidirectional power flows.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>There are also drawbacks associated with this technology: More switching devices and associated gate driver circuit power supplies and protection systems are required.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, a new low-cost self-powered supply for bidirectional insulated-gate bipolar transistor/MOSFET switch gate drivers is presented.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>The proposed circuit allows the gate driver power supply of the bidirectional switch without using a transformer or any external added dc supply.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This method is characterized by a simple structure, which is cost and size effective, of the power electronics switch driver power supply with regard to those suggested in the literature.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results are compared with experimental measurements for a three-phase-to-single-phase MC and validate the proposed circuit.</segment>    </body>
+</document>

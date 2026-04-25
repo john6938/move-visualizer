@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_70.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a hardware-based path planning architecture for unmanned aerial vehicle (UAV) adaptation is proposed.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active' comment='purpose?'>The architecture aims to provide UAVs with higher autonomy using an application-specific evolutionary algorithm (EA) implemented entirely on a field-programmable gate array (FPGA) chip.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The physical attributes of an FPGA chip, being compact in size and low in power consumption, makes it an ideal platform for UAV applications.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The design, which is implemented entirely in hardware, consists of EA modules, population storage resources, and 3-D terrain information necessary to the path planning process, subject to constraints accounted for separately via UAV, environment, and mission profiles.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The architecture has been successfully synthesized for a target Xilinx Virtex-4 FPGA platform with 32% logic slice utilization.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results obtained from case studies for a small UAV helicopter with environment derived from light-detection and ranging data verify the effectiveness of the proposed FPGA-based pathplanner, and demonstrate convergence at rates above the typical 10 Hz update frequency of an autopilot system.</segment>    </body>
+</document>

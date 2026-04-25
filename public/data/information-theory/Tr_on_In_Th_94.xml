@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_94.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In addition to exploring its various regularity properties, we show that the minimum mean-square error (MMSE) is a concave functional of the input-output joint distribution.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In the case of additive Gaussian noise, the MMSE is shown to be weakly continuous in the input distribution and Lipschitz continuous with respect to the quadratic Wasserstein distance for peak-limited inputs.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Regularity properties of mutual information are also obtained.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Several applications to information theory and the central limit theorem are discussed.</segment>    </body>
+</document>

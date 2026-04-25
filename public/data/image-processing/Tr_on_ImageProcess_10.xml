@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_10.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>To recover a sharp version from a blurred image is a long-standing inverse problem.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In this paper, we analyze the research on this topic both theoretically and experimentally through three paradigms: 1) the deterministic filter; 2) Bayesian estimation; and 3) the conjunctive deblurring algorithm (CODA), which performs the deterministic filter and Bayesian estimation in a conjunctive manner.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We point out the weaknesses of the deterministic filter and unify the limitation latent in two kinds of Bayesian estimators.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>We further explain why the CODA is able to handle quite large blurs beyond Bayesian estimation.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Finally, we propose a novel method to overcome several unreported limitations of the CODA.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Although extensive experiments demonstrate that our method outperforms state-of-the-art methods with a large margin, some common problems of image deblurring still remain unsolved and should attract further research efforts.</segment>    </body>
+</document>

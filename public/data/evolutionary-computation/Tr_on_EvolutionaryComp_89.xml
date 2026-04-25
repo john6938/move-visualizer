@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_89.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active' comment='we present xx (introduced generally)'>In this paper, we present an approach for modeling and comparing small sets of 2-D objects based on their spatial relationships.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This situation can arise in the conflation of a hand- or machine-drafted map to a satellite image, or in the correspondence problem of matching two images taken under different viewing conditions.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>We focus on the specific problem of matching a sketched map containing several 2-D objects to hand-segmented satellite imagery.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We define a similarity measure between the spatial configurations of two object sets, which uses attributed relational graphs to represent scene information.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Objects are represented as graph nodes and edges are defined by the histograms of forces between object pairs.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>We develop a memetic algorithm based on a (ƒÊ+ƒÉ) evolution strategy to solve this scene-matching problem with three domain-specific local search operators that are compared experimentally.</segment>    </body>
+</document>

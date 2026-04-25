@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_080.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study expands the relational turbulence model (RTM; Solomon &amp; Knobloch,) by theorizing about how characteristics of relationships and relational judgments influence people&apos;s experiences of hurtful messages.</segment> <segment id='2' features='rhetorical_moves' state='active'>Previous applications of RTM to hurt have uncovered associations among relational characteristics that influence people&apos;s hurtful experiences; however, the process by which these characteristics influence experiences of hurt remains unclear.</segment> <segment id='3' features='rhetorical_moves' state='active'>We propose that relational communication (specifically, perceptions of dominance, and disaffiliation) is the mechanism linking relational qualities to hurt.</segment> <segment id='4' features='rhetorical_moves' state='active'>A multigroup SEM was conducted to test for the possibility of sex differences.</segment> <segment id='5' features='rhetorical_moves' state='active'>Results showed that people&apos;s experiences of hurt vary as a function of both relationship characteristics and relational inferences.</segment> <segment id='6' features='rhetorical_moves' state='active'>Results also indicated a difference in path coefficients for males and females.</segment>    </body>
+</document>

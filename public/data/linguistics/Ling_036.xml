@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_036.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study tests the influence of ethnic group and temporal influences of descriptive and injunctive norms on adolescent smoking behavior.</segment> <segment id='2' features='rhetorical_moves' state='active'>A panel of high school students (N = 1,607) completed a self-administered survey in the 9th grade and again in the 12th grade.</segment> <segment id='3' features='rhetorical_moves' state='active'>Fixed effects hierarchical regression analyses indicated that the influence of descriptive and injunctive norms was greater at the 12th grade than at the 9th grade.</segment> <segment id='4' features='rhetorical_moves' state='active'>While salient descriptive norms resulted in increased smoking at both data points, the strength of injunctive norms did not affect the amount of smoking in the 9th grade.</segment> <segment id='5' features='rhetorical_moves' state='active'>Ethnic group moderated the relationship between descriptive norms and smoking, where Caucasian adolescents were more influenced than their African American counterparts.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_026.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To evaluate the effectiveness and costs of a multifaceted flexible educational programme aimed at reducing antibiotic dispensing at the practice level in primary care.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Randomised controlled trial with general practices as the unit of randomisation and analysis.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Clinicians and researchers were blinded to group allocation until after randomisation.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Setting 68 general practices with about 480?000 patients in Wales, United Kingdom.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Participants 34 practices were randomised to receive the educational programme and 34 practices to be controls.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>139 clinicians from the intervention practices and 124 from control practices had agreed to participate before randomisation.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Practice level data covering all the clinicians in the 68 practices were analysed.</segment>
+
+<segment id='8' features='rhetorical_moves;method' state='active'>Interventions Intervention practices followed the Stemming the Tide of Antibiotic Resistance (STAR) educational programme, which included a practice based seminar reflecting on the practices’ own dispensing and resistance data, online educational elements, and practising consulting skills in routine care.</segment> <segment id='9' features='rhetorical_moves;method' state='active'>Control practices provided usual care.</segment>
+
+<segment id='10' features='rhetorical_moves;method' state='active'>Main outcome measures Total numbers of oral antibiotic items dispensed for all causes per 1000 practice patients in the year after the intervention, adjusted for the previous year’s dispensing.</segment> <segment id='11' features='rhetorical_moves;method' state='active'>Secondary outcomes included reconsultations, admissions to hospital for selected causes, and costs.</segment>
+
+<segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Results The rate of oral antibiotic dispensing (items per 1000 registered patients) decreased by 14.1 in the intervention group but increased by 12.1 in the control group, a net difference of 26.1.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>After adjustment for baseline dispensing rate, this amounted to a 4.2% (95% confidence interval 0.6% to 7.7%) reduction in total oral antibiotic dispensing for the year in the intervention group relative to the control group (P=0.02).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>Reductions were found for all classes of antibiotics other than penicillinase-resistant penicillins but were largest and significant individually for phenoxymethylpenicillins (penicillin V) (7.3%, 0.4% to 13.7%) and macrolides (7.7%, 1.1% to 13.8%).</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>There were no significant differences between intervention and control practices in the number of admissions to hospital or in reconsultations for a respiratory tract infection within seven days of an index consultation.</segment> <segment id='16' features='rhetorical_moves;result;resultasproduct' state='active'>The mean cost of the programme was £2923 (€3491, $4572) per practice (SD £1187).</segment> <segment id='17' features='rhetorical_moves;result;resultasproduct' state='active'>There was a 5.5% reduction in the cost of dispensed antibiotics in the intervention group compared with the control group (-0.4% to 11.4%), equivalent to a reduction of about £830 a year for an average intervention practice.</segment>
+
+<segment id='18' features='rhetorical_moves;discussion' state='active'>Conclusion The STAR educational programme led to reductions in all cause oral antibiotic dispensing over the subsequent year with no significant change in admissions to hospital, reconsultations, or costs.</segment>    </body>
+</document>

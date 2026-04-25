@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_067.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the frequency and nature of adverse events to patients in selected hospitals in developing or transitional economies.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective medical record review of hospital admissions during 2005 in eight countries.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Ministries of Health of Egypt, Jordan, Kenya, Morocco, Tunisia, Sudan, South Africa and Yemen; the World Health Organisation (WHO) Eastern Mediterranean and African Regions (EMRO and AFRO), and WHO Patient Safety.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Convenience sample of 26 hospitals from which 15?548 patient records were randomly sampled.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Two stage screening.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Initial screening based on 18 explicit criteria.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Records that screened positive were then reviewed by a senior physician for determination of adverse event, its preventability, and the resulting disability.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Of the 15?548 records reviewed, 8.2% showed at least one adverse event, with a range of 2.5% to 18.4% per country.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Of these events, 83% were judged to be preventable, while about 30% were associated with death of the patient.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>About 34% adverse events were from therapeutic errors in relatively non-complex clinical situations.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Inadequate training and supervision of clinical staff or the failure to follow policies or protocols contributed to most events.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Unsafe patient care represents a serious and considerable danger to patients in the hospitals that were studied, and hence should be a high priority public health problem.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>Many other developing and transitional economies will probably share similar rates of harm and similar contributory factors.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>The convenience sampling of hospitals might limit the interpretation of results, but the identified adverse event rates show an estimate that should stimulate and facilitate the urgent institution of appropriate remedial action and also to trigger more research.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Prevention of these adverse events will be complex and involves improving basic clinical processes and does not simply depend on the provision of more resources.</segment>    </body>
+</document>

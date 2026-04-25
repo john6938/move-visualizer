@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_91.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In the present paper, we show that the pairing inversion problem of Atei pairing can be solved under the assumption that we have a generic algorithm for solving gexponentiation inversionh problem.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>With such an algorithm, the inversion problem of Atei pairing can be solved without solving the Miller inversion.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>Thus, the pairing inversion problem of Atei pairing is reduced to the exponentiation inversion problem.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_061.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This letter suggests a two-stage isolated/bidirectional dc/dc converter with three bridges.</segment> <segment id='2' features='rhetorical_moves' state='active'>Two bridges are used for electrical isolation and constant gain, and the bidirectional control is accomplished through only a single bridge.</segment> <segment id='3' features='rhetorical_moves' state='active'>RMS currents in the high-voltage source and link capacitor can be alleviated by capacitor division and synchronizing operation of both stages.</segment> <segment id='4' features='rhetorical_moves' state='active'>This structure provides a simple control scheme and removes snubber circuitry, so a high efficiency can be obtained under a high switching frequency regardless of operational modes.</segment> <segment id='5' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

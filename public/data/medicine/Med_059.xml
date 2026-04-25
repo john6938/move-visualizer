@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_059.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether supported self management in chronic obstructive pulmonary disease (COPD) can reduce hospital readmissions in the United Kingdom.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Randomised controlled trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Community based intervention in the west of Scotland.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Patients admitted to hospital with acute exacerbation of COPD.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Participants in the intervention group were trained to detect and treat exacerbations promptly, with ongoing support for 12 months.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcome was hospital readmissions and deaths due to COPD assessed by record linkage of Scottish Morbidity Records; health related quality of life measures were secondary outcomes.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results 464 patients were randomised, stratified by age, sex, per cent predicted forced expiratory volume in 1 second, recent pulmonary rehabilitation attendance, smoking status, deprivation category of area of residence, and previous COPD admissions.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>No difference was found in COPD admissions or death (111/232 (48%) v 108/232 (47%); hazard ratio 1.05, 95% confidence interval 0.80 to 1.38).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Return of health related quality of life questionnaires was poor (n=265; 57%), so that no useful conclusions could be made from these data.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Pre-planned subgroup analysis showed no differential benefit in the primary outcome relating to disease severity or demographic variables.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>In an exploratory analysis, 42% (75/150) of patients in the intervention group were classified as successful self managers at study exit, from review of appropriateness of use of self management therapy.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Predictors of successful self management on stepwise regression were younger age (P=0.012) and living with others (P=0.010).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>COPD readmissions/deaths were reduced in successful self managers compared with unsuccessful self managers (20/75 (27%) v 51/105 (49%); hazard ratio 0.44, 0.25 to 0.76; P=0.003).</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusion Supported self management had no effect on time to first readmission or death with COPD.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Exploratory subgroup analysis identified a minority of participants who learnt to self manage; this group had a significantly reduced risk of COPD readmission, were younger, and were more likely to be living with others.</segment>    </body>
+</document>

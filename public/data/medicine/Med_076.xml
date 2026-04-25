@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_076.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To determine which travellers with malaria are at greatest risk of dying, highlighting factors which can be used to target health messages to travellers.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Observational study based on 20 years of UK national data.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting National register of malaria cases.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 25?054 patients notified with Plasmodium falciparum malaria, of whom 184 died, between 1987 and 2006.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Comparison between those with falciparum malaria who died and non-fatal cases, including age, reason for travel, country of birth, time of year diagnosed, malaria prophylaxis used.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Mortality increased steadily with age, with a case fatality of 25/548 (4.6%) in people aged &gt;65 years, adjusted odds ratio 10.68 (95% confidence interval 6.4 to 17.8), P&lt;0.001 compared with 18–35 year olds.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>There were no deaths in the =5 year age group.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Case fatality was 3.0% (81/2740 cases) in tourists compared with 0.32% (26/8077) in travellers visiting friends and relatives (adjusted odds ratio 8.2 (5.1 to 13.3), P&lt;0.001).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Those born in African countries with endemic malaria had a case fatality of 0.4% (36/8937) compared with 2.4% (142/5849) in others (adjusted odds ratio 4.6 (3.1 to 9.9), P&lt;0.001).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Case fatality was particularly high from the Gambia.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>There was an inverse correlation in mortality between region of presentation and number of cases seen in the region (R2=0.72, P&lt;0.001).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Most delay in fatal cases was in seeking care.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions Most travellers acquiring malaria are of African heritage visiting friends and relatives.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>In contrast the risks of dying from malaria once acquired are highest in the elderly, tourists, and those presenting in areas in which malaria is seldom seen.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Doctors often do not think of these as high risk groups for malaria; for this reason they are important groups to target in pre-travel advice.</segment>    </body>
+</document>

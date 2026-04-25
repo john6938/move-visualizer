@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_81.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>It has been shown by earlier results that for fixed rate multiresolution scalar quantizers and for mean squared error distortion measure, codecell convexity precludes optimality for certain discrete sources.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>However it was unknown whether the same phenomenon can occur for any continuous source.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, examples of continuous sources (even with bounded continuous densities) are presented for which optimal fixed rate multiresolution scalar quantizers cannot have only convex codecells, proving that codecell convexity precludes optimality also for such regular sources.</segment>    </body>
+</document>

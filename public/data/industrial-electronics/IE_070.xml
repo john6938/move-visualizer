@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_070.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The proposed power electronic hybrid system which consists of a thyristor-controlled reactor (TCR) and a resonant-impedance-type hybrid active power filter (RITHAPF) is used for compensating reactive power and harmonic current.</segment> <segment id='2' features='rhetorical_moves' state='active'>From the point of the nature of load balancing compensation, the calculation of balancing controlled susceptance based on voltage vector transformation is proposed for the TCR to exactly compensate negative-sequence current caused by asymmetrical loads in industrial field.</segment> <segment id='3' features='rhetorical_moves' state='active'>Because the impedance of a filter inductor, a matching transformer, and passive power filters according to the harmonic current is inductive, the phase of the RITHAPF compensating current through them would be shifted.</segment> <segment id='4' features='rhetorical_moves' state='active'>A p-aimed Smith predictor is established based on the fact that there is a p delay between the compensating current and the sum of harmonic currents of loads and the TCR.</segment> <segment id='5' features='rhetorical_moves' state='active'>In terms of the proposed predictor and generalized integrators, a frequency-selective predictive current controller is designed for perfectly eliminating the impact of phase shift on the RITHAPF filtering performance.</segment> <segment id='6' features='rhetorical_moves' state='active'>The simulation and industrial application results validate the theoretical analysis.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

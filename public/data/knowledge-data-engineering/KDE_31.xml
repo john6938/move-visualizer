@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_31.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The graph structure is a very important means to model schemaless data with complicated structures, such as protein-protein interaction networks, chemical compounds, knowledge query inferring systems, and road networks.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This paper focuses on the index structure for similarity search on a set of large sparse graphs and proposes an efficient indexing mechanism by introducing the Q-Gram idea.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>By decomposing graphs to small grams (organized by ƒÈ-Adjacent Tree patterns) and pairing-up on those ƒÈ-Adjacent Tree patterns, the lower bound estimation of their edit distance can be calculated for candidate filtering.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Furthermore, we have developed a series of techniques for inverted index construction and online query processing.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>By building the candidate set for the query graph before the exact edit distance calculation, the number of graphs need to proceed into exact matching can be greatly reduced.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Extensive experiments on real and synthetic data sets have been conducted to show the effectiveness and efficiency of the proposed indexing mechanism.</segment>    </body>
+</document>

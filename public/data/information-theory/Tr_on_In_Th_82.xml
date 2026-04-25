@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_82.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The Walsh transform of two-level autocorrelation sequences has played an important role in the construction of the set of sequences in which any two sequences are orthogonal.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>For p -ary sequences, there are only two basic classes of two-level autocorrelation sequences with no subfield structures for an arbitrary odd prime p.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>One is the class of p-ary m-sequences and the other is the class of p -ary Helleseth-Gong sequences.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, the Walsh transform of a subclass of p -ary Helleseth-Gong sequences and the Walsh transform of their particular decimations are completely determined and are shown to be three-valued.</segment>    </body>
+</document>

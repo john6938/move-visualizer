@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_047.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the comparative costs and effects of interventions to combat five neuropsychiatric conditions (schizophrenia, bipolar disorder, depression, epilepsy, and heavy alcohol use).</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis based on an epidemiological model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two epidemiologically defined World Health Organization sub-regions of the world: countries in sub-Saharan Africa with very high adult and high child mortality (AfrE); and countries in South East Asia with high adult and high child mortality (SearD).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Published studies, costing databases.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Cost per capita and cost per disability adjusted life year (DALY) averted, expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Across 44 assessed intervention strategies for the five neuropsychiatric conditions, cost effectiveness values differed by as much as two orders of magnitude (from $Int100–250 to $Int10?000–25?000 for a year of healthy life gained).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>In both sub-regions, inpatient based treatment of schizophrenia with newer antipsychotic drugs was the most costly and least cost effective strategy.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The most cost effective strategies in the African sub-region related to population based alcohol control, while in the South East Asian sub-region the most cost effective intervention was drug treatment of epilepsy in primary care.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The cumulative cost per capita of the most cost effective set of interventions covering all five conditions was estimated at $Int4.90–5.70.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>This package comprises interventions for epilepsy (older first line antiepileptic drugs); depression (generically produced newer antidepressants and psychosocial treatment); bipolar disorder (mood stabiliser drug lithium); schizophrenia (neuroleptic antipsychotic drugs and psychosocial treatment); and heavy alcohol use (increased taxation and its enforcement, reduced access, and, in the African sub-region, advertising bans and brief advice to heavy drinkers in primary care).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Reallocation of resources to cost effective intervention strategies would increase health gain, save money and help implement much needed expansion of services for neuropsychiatric conditions in low resource settings.</segment>    </body>
+</document>

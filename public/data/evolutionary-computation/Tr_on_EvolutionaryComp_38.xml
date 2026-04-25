@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_38.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we have proposed a progressive alignment method using a genetic algorithm for multiple sequence alignment, named GAPAM.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We have introduced two new mechanisms to generate an initial population: the first mechanism is to generate guide trees with randomly selected sequences and the second is shuffling the sequences inside such trees.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Two different genetic operators have been implemented with GAPAM.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>To test the performance of our algorithm, we have compared it with existing well-known methods, such as PRRP, CLUSTALX, DIALIGN, HMMT, SB_PIMA, ML_PIMA, MULTALIGN, and PILEUP8, and also other methods, based on genetic algorithms (GA), such as SAGA, MSA-GA, and RBT-GA, by solving a number of benchmark datasets from BAliBase 2.0.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>To make a fairer comparison with the GA based algorithms such as MSA-GA and RBT-GA, we have performed further experiments covering all the datasets reported by those two algorithms.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The experimental results showed that GAPAM achieved better solutions than the others for most of the cases, and also revealed that the overall performance of the proposed method outperformed the other methods mentioned above.</segment>    </body>
+</document>

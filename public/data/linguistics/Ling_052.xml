@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_052.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study attempted to (a) extend traditional mood management theory research by investigating the influence of the intrinsic needs for competence and autonomy on selective exposure to video games and (b) test the influence of satisfying these needs on resultant mood repair.</segment> <segment id='2' features='rhetorical_moves' state='active'>An experiment varied satisfaction of competence and autonomy needs using false feedback.</segment> <segment id='3' features='rhetorical_moves' state='active'>Subjects then selected media that varied in level of user demand.</segment> <segment id='4' features='rhetorical_moves' state='active'>Measures of need satisfaction were taken before and after media selection.</segment> <segment id='5' features='rhetorical_moves' state='active'>Results demonstrated that (a) thwarted intrinsic needs significantly predict the choice of video games with different levels of user demand and (b) the satisfaction of these needs predicts enjoyment.</segment> <segment id='6' features='rhetorical_moves' state='active'>Findings indicate that mood management can result from mood repair through need satisfaction.</segment>    </body>
+</document>

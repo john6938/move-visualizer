@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_027.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Self-healing of an electrical circuit is demonstrated with nearly full recovery of conductance less than one millisecond after damage.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Crack damage breaks a conductive pathway in a multilayer device, interrupting electron transport and simultaneously rupturing adjacent microcapsules containing gallium–indium liquid metal (top).</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The released liquid metal flows to the area of damage, restoring the conductive pathway (bottom).</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_019.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To report trends in event and case fatality rates for acute myocardial infarction and examine the relative contributions of changes in these rates to changes in total mortality from acute myocardial infarction by sex, age, and geographical region between 2002 and 2010.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Population based study using person linked routine hospital and mortality data.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting England.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 840?175 people of all ages who were admitted to hospital for acute myocardial infarction or died suddenly from acute myocardial infarction.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Acute myocardial infarction event, 30 day case fatality, and total mortality rates.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results From 2002 to 2010 in England, the age standardised total mortality rate fell by about half, whereas the age standardised event and case fatality rates both declined by about one third.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>In men, the acute myocardial infarction event, case fatality, and total mortality rates declined at an average annual rate of, respectively, 4.8% (95% confidence interval 3.0% to 6.5%), 3.6% (3.4% to 3.7%), and 8.6% (5.4% to 11.6%).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>In women, the corresponding figures were 4.5% (1.7% to 7.1%), 4.2% (4.0% to 4.3%), and 9.1% (4.5% to 13.6%).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, the relative contributions of the reductions in event and case fatality rates to the decline in acute myocardial infarction mortality rate were, respectively, 57% and 43% in men and 52% and 48% in women; however, the relative contributions differed by age, sex, and geographical region.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Just over half of the decline in deaths from acute myocardial infarction during the 2000s in England can be attributed to a decline in event rate and just less than half to improved survival at 30 days.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>Both prevention of acute myocardial infarction and acute medical treatment have contributed to the decline in deaths from acute myocardial infarction over the past decade.</segment>    </body>
+</document>

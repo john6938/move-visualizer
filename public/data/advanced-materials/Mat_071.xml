@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_071.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The ability of nano-hydroxyapatite (nHA) particles developed in-house to act as non-viral delivery vectors is assessed.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>These nHA particles are combined with collagen to yield bioactive, biodegradable collagen nano-hydroxyapatite (coll-nHA) scaffolds.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Their ability to act as gene-activated matrices for BMP2 delivery is demonstrated with successful transfection of mesenchymal stem cells (MSCs) resulting in high calcium production.</segment>    </body>
+</document>

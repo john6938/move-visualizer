@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_88.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Radiometric degradation is a common problem in the image acquisition part of many applications.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>There is much research carried out in an effort to deblur such images.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>However, it has been proven that it is not always necessary to go through a burdensome process of deblurring.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>To tackle this problem, different blur-invariant descriptors have been proposed so far, which are either in the spatial domain or based on the properties available in the Fourier domain.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, wavelet-domain blur invariants are proposed for the first time for discrete 2-D signals.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>These descriptors, which are invariant to centrally symmetric blurs, inherit the advantages that this domain provides.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>It is also proven that the spatial-domain blur invariants are a special version of the proposed invariants.</segment> <segment id='8' features='rhetorical_moves;introduction;overview' state='active'>The performance of these invariants will be demonstrated through experiments.</segment>    </body>
+</document>

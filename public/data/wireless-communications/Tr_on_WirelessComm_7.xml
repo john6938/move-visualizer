@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_7.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, the problem of deriving the power angular scattering response (PASR) resulting from a Gaussian scatterer distribution is undertaken.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The scatter cluster can be located arbitrarily in the vicinity of the mobile unit.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Furthermore, for the considered scatter geometry we derive both the angular and distance statistics at the observation point, allowing a theoretical characterization of the PASR.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>A major byproduct of this analysis is that the Gaussian scatterer hypothesis is formally shown to produce a Gaussian power angular spectrum in a macrocell environment, which is in accordance with existing measurements.</segment>    </body>
+</document>

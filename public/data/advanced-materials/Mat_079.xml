@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_079.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>A periodically aligned submicron ZnO hemispheres array was embedded into a TiO2 nanoparticulate thin film (thickness; ca. 12 µm) as a photoanode for dye-sensitized solar cells (DSSCs).</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The ZnO hemisphere array provided light scattering centers that excited more dyes and direct electron pathways to the electrodes, which is beneficial for high efficiency DSSCs.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_075.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To determine the effect of human papillomavirus (HPV) quadrivalent vaccine on the risk of developing subsequent disease after an excisional procedure for cervical intraepithelial neoplasia or diagnosis of genital warts, vulvar intraepithelial neoplasia, or vaginal intraepithelial neoplasia.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective analysis of data from two international, double blind, placebo controlled, randomised efficacy trials of quadrivalent HPV vaccine (protocol 013 (FUTURE I) and protocol 015 (FUTURE II)).</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Primary care centres and university or hospital associated health centres in 24 countries and territories around the world.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Among 17?622 women aged 15–26 years who underwent 1:1 randomisation to vaccine or placebo, 2054 received cervical surgery or were diagnosed with genital warts, vulvar intraepithelial neoplasia, or vaginal intraepithelial neoplasia.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Three doses of quadrivalent HPV vaccine or placebo at day 1, month 2, and month 6.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Incidence of HPV related disease from 60 days after treatment or diagnosis, expressed as the number of women with an end point per 100 person years at risk.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results A total of 587 vaccine and 763 placebo recipients underwent cervical surgery.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The incidence of any subsequent HPV related disease was 6.6 and 12.2 in vaccine and placebo recipients respectively (46.2% reduction (95% confidence interval 22.5% to 63.2%) with vaccination).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Vaccination was associated with a significant reduction in risk of any subsequent high grade disease of the cervix by 64.9% (20.1% to 86.3%).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>A total of 229 vaccine recipients and 475 placebo recipients were diagnosed with genital warts, vulvar intraepithelial neoplasia, or vaginal intraepithelial neoplasia, and the incidence of any subsequent HPV related disease was 20.1 and 31.0 in vaccine and placebo recipients respectively (35.2% reduction (13.8% to 51.8%)).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Previous vaccination with quadrivalent HPV vaccine among women who had surgical treatment for HPV related disease significantly reduced the incidence of subsequent HPV related disease, including high grade disease.</segment>    </body>
+</document>

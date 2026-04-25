@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_94.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We investigate the problem of averaging values on lattices and, in particular, on discrete product lattices.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This problem arises in image processing when several color values given in RGB, HSL, or another coding scheme need to be combined.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We show how the arithmetic mean and the median can be constructed by minimizing appropriate penalties, and we discuss which of them coincide with the Cartesian product of the standard mean and the median.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We apply these functions in image processing.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We present three algorithms for color image reduction based on minimizing penalty functions on discrete product lattices.</segment>    </body>
+</document>

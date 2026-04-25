@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_057.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This research explores the relationship between campus political norms and student political participation.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study conceptualizes norms as a group-level construct by collecting data at several universities (k = 32 universities, n = 1,389 students) where norms vary without campaign intervention.</segment> <segment id='3' features='rhetorical_moves' state='active'>Multilevel modeling reveals that perceptions of political norms converge within universities.</segment> <segment id='4' features='rhetorical_moves' state='active'>Further, frequency of political communication at the group- and individual-level explains increases in normative perceptions.</segment> <segment id='5' features='rhetorical_moves' state='active'>This increase is meaningful because norms at the group level were predictive of political behaviors at the individual level.</segment> <segment id='6' features='rhetorical_moves' state='active'>This research documents the existence of political norms beyond the individual level of analysis and highlights the important role of political norms, political communication, and social context in understanding political participation.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_79.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We study recovery conditions of weighted l1 minimization for signal reconstruction from compressed sensing measurements when partial support information is available.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We show that if at least 50% of the (partial) support information is accurate, then weighted l1 minimization is stable and robust under weaker sufficient conditions than the analogous conditions for standard l1 minimization.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, weighted l1 minimization provides better upper bounds on the reconstruction error in terms of the measurement noise and the compressibility of the signal to be recovered.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>We illustrate our results with extensive numerical experiments on synthetic data and real audio and video signals.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_026.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The aim of this article is to describe the grammatical patterns of a set of nouns frequently used in Spanish specialized discourse: the so-called semiterms.</segment> <segment id='2' features='rhetorical_moves' state='active'>The following nouns were selected for the study: problema ‘problem’, resultado ‘result’, motivo ‘motive/reason’, razón ‘reason’, and consecuencia ‘consequence’.</segment> <segment id='3' features='rhetorical_moves' state='active'>Apart from designating specialized concepts in different fields, they can be used to provide structure, introduce information into the text, and act as lexical connectors.</segment> <segment id='4' features='rhetorical_moves' state='active'>The grammatical and lexicographical description of these semiterms is compared with the results provided by consulting the Corpus de Referencia del Español Actual (CREA) database of the Real Academia Española in three thematic fields: Science and Technology, Economics and Finance, and Law.</segment> <segment id='5' features='rhetorical_moves' state='active'>The results of the research highlight three specific patterns of use for the semiterms in specialized texts, placing particular emphasis on the constructions that contribute to the texture of discourse.</segment> <segment id='6' features='rhetorical_moves' state='active'>It is proposed that these patterns should be incorporated into dictionaries of use (codifiers) as lexicographical data that may enrich the information given about these nouns, whose meanings are clearly diffuse.</segment>    </body>
+</document>

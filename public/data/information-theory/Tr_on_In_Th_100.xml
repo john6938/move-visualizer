@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_100.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>List-decoding for arbitrarily varying channels (AVCs) under state constraints is investigated.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>It is shown that rates within ? of the randomized coding capacity of AVCs with input-dependent state can be achieved under maximal error with list-decoding using lists of size O(1/?).</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Under the average error criterion, an achievable rate and converse bound are given for lists of size L .</segment> <segment id='5' features='rhetorical_moves;method' state='active'>These bounds are based on two different notions of symmetrizability and do not coincide in general.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>An example is given which shows that for list size L , the capacity may be positive but strictly smaller than the randomized coding capacity, in contrast to the situation without constraints.</segment>    </body>
+</document>

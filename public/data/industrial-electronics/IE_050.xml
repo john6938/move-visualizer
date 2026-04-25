@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_050.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>It has been shown that the resolution of a digital pulsewidth modulator (DPWM) can be dramatically increased by either constant on-time modulation control or constant off-time modulation control as compared to that for constant frequency modulation.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, the switching frequency increases dramatically for the constant on/off-time modulation method under heavy/light load conditions, respectively.</segment> <segment id='3' features='rhetorical_moves' state='active'>The increase of switching frequency results in more switching losses and requires a higher performance controller.</segment> <segment id='4' features='rhetorical_moves' state='active'>The objective of this paper is to propose a new digital pulsewidth modulation (PWM) technique with constant on/off-time control for a synchronous buck dc/dc converter in order to reduce the switching frequency and switching losses.</segment> <segment id='5' features='rhetorical_moves' state='active'>Moreover, the switching frequency can be limited to a certain range.</segment> <segment id='6' features='rhetorical_moves' state='active'>Experimental results of the proposed new digital PWM technique are presented for confirmation.</segment> <segment id='7' features='rhetorical_moves' state='active'>It will be shown that the proposed technique can significantly reduce the switching frequency of the converter, thereby improving DPWM resolution and the efficiency.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

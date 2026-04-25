@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_030.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A facile method is demonstrated for bonding assembled colloids without loss of colloidal stability by thermal annealing.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Examples include both close-packed and non-close-packed structures.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The confocal microscopy image shows a cross-section of a 3D labyrinthine structure after it was made permanent.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The 3D network is completely preserved after the annealing step.</segment>    </body>
+</document>

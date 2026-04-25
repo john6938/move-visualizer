@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_21.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Optimization problems can generally be classified as continuous and discrete, based on the nature of the solution space.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>A recently developed chemical-reaction-inspired metaheuristic, called chemical reaction optimization (CRO), has been shown to perform well in many optimization problems in the discrete domain.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>This paper is dedicated to proposing a real-coded version of CRO, namely, RCCRO, to solve continuous optimization problems.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We compare the performance of RCCRO with a large number of optimization techniques on a large set of standard continuous benchmark functions.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We find that RCCRO outperforms all the others on the average.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>We also propose an adaptive scheme for RCCRO which can improve the performance effectively.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>This shows that CRO is suitable for solving problems in the continuous domain.</segment>    </body>
+</document>

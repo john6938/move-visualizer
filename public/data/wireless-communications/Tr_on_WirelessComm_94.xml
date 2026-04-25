@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_94.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Existing studies on physical layer security often assume the availability of perfect channel state information (CSI) and overlook the importance of channel training needed for obtaining the CSI.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this letter, we discuss how an active eavesdropper can attack the training phase in wireless communication to improve its eavesdropping performance.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We derive a new security attack from the pilot contamination phenomenon, which targets at systems using reverse training to obtain the CSI at the transmitter for precoder design.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This attack changes the precoder used by the legitimate transmitter in a controlled manner to strengthen the signal reception at the eavesdropper during data transmission.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Furthermore, we discuss an efficient use of the transmission energy of an advanced full-duplex eavesdropper to simultaneously achieve a satisfactory eavesdropping performance whilst degrading the detection performance of the legitimate receiver.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_044.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Solid-state dye-sensitized solar cell with 7.1% efficiency at 100 mW/cm2 is reported, one of the highest observed for N719 dye.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Excellent performance was achieved via a graft copolymer-templated, organized mesoporous TiO2 film with a large surface area using spindle-shaped, preformed TiO2 nanoparticles and solid polymer electrolyte.</segment>    </body>
+</document>

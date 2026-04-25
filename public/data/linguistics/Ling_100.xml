@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_100.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Although the co-occurrence of negative affect and pain is well recognized, the mechanism underlying their association is unclear.</segment> <segment id='2' features='rhetorical_moves' state='active'>To examine whether a common self-regulatory ability impacts the experience of both emotion and pain, we integrated neuroimaging, behavioral, and physiological measures obtained from three assessments separated by substantial temporal intervals.</segment> <segment id='3' features='rhetorical_moves' state='active'>Our results demonstrated that individual differences in emotion regulation ability, as indexed by an objective measure of emotional state, corrugator electromyography, predicted self-reported success while regulating pain.</segment> <segment id='4' features='rhetorical_moves' state='active'>In both emotion and pain paradigms, the amygdala reflected regulatory success.</segment> <segment id='5' features='rhetorical_moves' state='active'>Notably, we found that greater emotion regulation success was associated with greater change of amygdalar activity following pain regulation.</segment> <segment id='6' features='rhetorical_moves' state='active'>Furthermore, individual differences in degree of amygdalar change following emotion regulation were a strong predictor of pain regulation success, as well as of the degree of amygdalar engagement following pain regulation.</segment> <segment id='7' features='rhetorical_moves' state='active'>These findings suggest that common individual differences in emotion and pain regulatory success are reflected in a neural structure known to contribute to appraisal processes.</segment>    </body>
+</document>

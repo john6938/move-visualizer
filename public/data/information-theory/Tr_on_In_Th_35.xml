@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_35.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, detailed cross-correlation properties for Chu sequences are investigated.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>All possible values of the cross-correlation function of Chu sequences are derived for any given sequence length and lag, and the maximum magnitude distribution function ƒÏN(x), which is defined as the number of all Chu sequence pairs with length-N whose maximum magnitude of the cross-correlation function is ãNx, is obtained.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Also, good lower and upper bounds on the maximum number of available Chu sequences and a construction algorithm for the corresponding partial Chu sequence set are proposed when the maximum magnitude of the cross-correlation among the sequences is constrained.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Numerical examples show that the proposed bounds are quite tight and the proposed construction algorithm is near-optimal up to fairly large value of N.</segment>    </body>
+</document>

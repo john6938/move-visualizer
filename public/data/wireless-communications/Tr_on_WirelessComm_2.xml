@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_2.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we explain how to implement differential modulation in multiple access channel (MAC) based uplink two-user multiple-input multiple-output (MIMO) communication system.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>It is assumed that the users cannot exchange their information and transmit data over uplink MAC channels simultaneously in the same frequency band and without any orthogonal signatures (no CDMA).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We derive two types of differential decoders for two-user MIMO MAC system namely 1) Partial differential decoder, 2) Heuristic based differential decoders.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The partial differential decoder is able to avoid the knowledge of the channel gains of one user at the receiver for joint decoding of the data of both users.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Whereas, the heuristic differential decoders are obtained heuristically and work without any channel knowledge of both users.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>For the heuristic differential decoder to work properly, the data of one user must be rotated before transmission.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>An upper bound of the pairwise error probability (PEP) is derived for the proposed scheme.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>The upper bound of the PEP is minimized for obtaining an optimized value of the rotation angle.</segment>    </body>
+</document>

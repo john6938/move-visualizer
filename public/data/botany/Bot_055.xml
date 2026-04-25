@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_055.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The genus Asparagus is unusual in producing axillary, determinate organs called cladodes, which may take on either a flattened or cylindrical form.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>Here, we investigated the evolution of cladodes to elucidate the mechanisms at play in the diversification of shoot morphology.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Our observations of Asparagus asparagoides, which has leaf-like cladodes, showed that its cladodes are anatomically and developmentally similar to leaves but differ in the adaxial/abaxial polarity of the vasculature.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In addition to the expression of an ortholog of KNAT1, orthologous genes that are normally expressed in leaves, ASYMMETRIC LEAVES1 and HD-ZIPIII, were found to be expressed in cladode primordia in a leaf-like manner.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The cylindrical cladodes of Asparagus officinalis showed largely similar expression patterns but showed evidence of being genetically abaxialized.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>These results provide evidence that cladodes are modified axillary shoots, suggest that the co-option of preexisting gene networks involved in leaf development transferred the leaf-like form to axillary shoots, and imply that altered expression of leaf polarity genes led to the evolution of cylindrical cladodes in the A. officinalis clade.</segment>    </body>
+</document>

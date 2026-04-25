@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_46.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a new mathematical analysis for the performance of orthogonal frequency-division multiplexed (OFDM) signals over multipath Nakagami-m fading channels.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>In contrast to the previous research, this paper focuses on the effects of the nonuniform phase distribution on the error rate performance.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>A unified expression is derived for the moment generating function (MGF) of the frequency-domain channel gains on Nakagami-m channels with nonuniform phase distributions.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Classical MGF methods can then be straightforwardly employed to obtain accurate error rates expressions for different modulation and diversity formats.</segment>    </body>
+</document>

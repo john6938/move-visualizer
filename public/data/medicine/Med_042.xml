@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_042.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To identify and estimate the population costs and effects of a selected set of enforcement strategies for reducing the burden of road traffic injuries in developing countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis based on an epidemiological model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two epidemiologically defined World Health Organization sub-regions of the world: countries in sub-Saharan Africa with very high adult and high child mortality (AfrE); and countries in South East Asia with high adult and high child mortality (SearD).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Interventions Enforcement of speed limits via mobile speed cameras; drink-drive legislation and enforcement via breath testing campaigns; legislation and primary enforcement of seatbelt use in cars; legislation and enforcement of helmet use by motorcyclists; legislation and enforcement of helmet use by bicyclists.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Patterns of injury were fitted to a state transition model to determine the expected population level effects of intervention over a 10 year period, which were expressed in disability adjusted life years (DALYs) averted.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Costs were expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results The single most cost effective strategy varies by sub-region, but a combined intervention strategy that simultaneously enforces multiple road safety laws produces the most health gain for a given amount of investment.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>For example, the combined enforcement of speed limits, drink-driving laws, and motorcycle helmet use saves one DALY for a cost of $Int1000–3000 in the two sub-regions considered.</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions The potential impact of available road safety measures is inextricably bound by the underlying distribution of road traffic injuries across different road user groups and risk factors.</segment> <segment id='10' features='rhetorical_moves;discussion' state='active'>Combined enforcement strategies are expected to represent the most efficient way to reduce the burden of road traffic injuries, because they benefit from considerable synergies on the cost side while generating greater overall health gains.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_035.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To compare estimates of intervention effects between single centre and multicentre randomised controlled trials with continuous outcomes.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Meta-epidemiological study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources 26 meta-analyses totalling 292 randomised controlled trials (177 single centre, 115 multicentre) with continuous outcomes published between January 2007 and January 2010 in the Cochrane database of systematic reviews.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data extraction Data were extracted on characteristics of trials, single or multicentre status, risk of bias using the risk of bias tool of the Cochrane Collaboration, and results.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Data synthesis The intervention effects were estimated with standardised mean differences.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>For each meta-analysis, random effects meta-regression was used to estimate the difference in standardised mean differences between single centre and multicentre trials.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Differences in standardised mean differences were then pooled across meta-analyses by a random-effects meta-analysis model.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>A combined difference in standardised mean differences of less than 0 indicated that single centre trials showed larger treatment effects, on average, than did multicentre trials.</segment> <segment id='9' features='rhetorical_moves;method' state='active'>Because single centre trials may be more prone to publication bias and may have lower methodological quality than multicentre trials, sensitivity analyses were done with adjustment for sample size and domains of the risk of bias tool.</segment>
+
+<segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results Single centre trials showed larger intervention effects than did multicentre trials (combined difference in standardised mean differences -0.09, 95% confidence interval -0.17 to -0.01, P=0.04), with low heterogeneity across individual meta-analyses (I2=0%, between meta-analyses variance t2=0.00).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Adjustment for sample size slightly attenuated the difference (-0.08, -0.17 to 0.01).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Adjustment for risk of bias yielded similar estimates with wider confidence intervals, some of them crossing 0 (-0.09, -0.17 to 0.00 for overall risk of bias).</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions On average, single centre clinical trials with continuous outcomes showed slightly larger intervention effects than did multicentre trials.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Further research is needed to investigate potential causes of these differences.</segment>    </body>
+</document>

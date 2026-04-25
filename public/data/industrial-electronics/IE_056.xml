@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_056.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The economic lot scheduling problem (ELSP) has been studied over 50 years.</segment> <segment id='2' features='rhetorical_moves' state='active'>ELSP is known as NP-hard and hence heuristic algorithms have been developed.</segment> <segment id='3' features='rhetorical_moves' state='active'>In those heuristics, researchers generally adopted two types of rounding-off methods for the production frequency of products, namely, the nearest integer and power-of-two approaches.</segment> <segment id='4' features='rhetorical_moves' state='active'>The production frequency of products defines the number of times that such product being produced during the cycle.</segment> <segment id='5' features='rhetorical_moves' state='active'>Therefore, different production frequency actually leads to different optimization results even for the same set of products.</segment> <segment id='6' features='rhetorical_moves' state='active'>For this reason, this paper proposes a two-level genetic algorithm to deal with this problem.</segment> <segment id='7' features='rhetorical_moves' state='active'>A number of numerical examples found in literature and randomly generated problem sets are used to test and benchmark the performance of the new approach.</segment> <segment id='8' features='rhetorical_moves' state='active'>The comparison shows that the new approach outperforms the other existing approaches and also demonstrates the significance of the production frequency to the optimization results.</segment> 
+    </body>
+</document>

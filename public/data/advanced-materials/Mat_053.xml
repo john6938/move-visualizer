@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_053.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A novel technique was developed for preparing encoded multicolour microparticles based on the self-assembly of bacteria and conjugated polymer nanoparticles (CPNs) by a very simple and time-saving manner.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>These bacteria–CPNs microparticles show multicolor emissions by tuning FRET efficiencies among CPNs under single excitation wavelength and can be successfully applied for cell imaging and optical barcoding.</segment>    </body>
+</document>

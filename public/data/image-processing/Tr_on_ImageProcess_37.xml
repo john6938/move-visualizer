@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_37.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper proposes a low-distortion transform for prediction-error expansion reversible watermarking.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The transform is derived by taking a simple linear predictor and by embedding the expanded prediction error not only into the current pixel but also into its prediction context.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The embedding ensures the minimization of the square error introduced by the watermarking.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed transform introduces less distortion than the classical prediction-error expansion for complex predictors such as the median edge detector or the gradient-adjusted predictor.</segment> <segment id='5' features='rhetorical_moves;introduction;overview' state='active'>Reversible watermarking algorithms based on the proposed transform are analyzed.</segment> <segment id='6' features='rhetorical_moves;introduction;overview' state='active'>Experimental results are provided.</segment>    </body>
+</document>

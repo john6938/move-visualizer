@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_72.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a new spectral clustering method called correlation preserving indexing (CPI), which is performed in the correlation similarity measure space.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In this framework, the documents are projected into a low-dimensional semantic space in which the correlations between the documents in the local patches are maximized while the correlations between the documents outside these patches are minimized simultaneously.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Since the intrinsic geometrical structure of the document space is often embedded in the similarities between the documents, correlation as a similarity measure is more suitable for detecting the intrinsic geometrical structure of the document space than euclidean distance.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Consequently, the proposed CPI method can effectively discover the intrinsic structures embedded in high-dimensional document space.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The effectiveness of the new method is demonstrated by extensive experiments conducted on various data sets and by comparison with existing document clustering methods.</segment>    </body>
+</document>

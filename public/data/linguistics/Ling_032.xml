@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_032.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article investigates whether deceptions in online dating profiles correlate with changes in the way daters write about themselves in the free-text portion of the profile, and whether these changes are detectable by both computerized linguistic analyses and human judges.</segment> <segment id='2' features='rhetorical_moves' state='active'>Computerized analyses (Study 1) found that deceptions manifested themselves through linguistic cues pertaining to (a) liars&apos; emotions and cognitions and (b) liars&apos; strategic efforts to manage their self-presentations.</segment> <segment id='3' features='rhetorical_moves' state='active'>Technological affordances (i.e., asynchronicity and editability) affected the production of cognitive cues more than that of emotional cues.</segment> <segment id='4' features='rhetorical_moves' state='active'>Human judges (Study 2) relied on different and nonpredictive linguistic cues to assess daters&apos; trustworthiness.</segment> <segment id='5' features='rhetorical_moves' state='active'>The findings inform theories concerned with deception, media, and self-presentation, and also expound on how writing style influences perceived trustworthiness.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_77.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we present a postprocessing method to tackle the single-image refocusing-and-defocusing problem.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed method can accomplish the tasks of focus-map estimation and image refocusing and defocusing.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Given an image with a mixture of focused and defocused objects, we first detect the edges and then estimate the focus map based on the edge blurriness, which is depicted explicitly by a parametric model.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The image refocusing problem is addressed in a blind deconvolution framework, where the image prior is modeled by using both global and local constraints.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>In particular, we correct the defocused blurry edges to sharp ones with the aid of the parametric edge model and then render this cue as a local prior to ensure the sharpness of the refocused image.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results demonstrate that the proposed method performs well in producing visually plausible images with different focus effects from a single input.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_091.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>The fabrication of tubular structures, with multiple cell types forming different layers of the tube walls, is described using a stress-induced rolling membrane (SIRM).</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Cell orientation inside the tubes can also be controlled by topographical contact guidance.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>These layered tubes precisely mimic blood vessels and many other tubular structures, suggesting that they may be of great use in tissue engineering.</segment>    </body>
+</document>

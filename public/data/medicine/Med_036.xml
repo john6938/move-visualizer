@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_036.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate the efficacy and tolerability of analgesic and adjuvant pain drugs typically administered in primary care for the management of patients with sciatica.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data source International Pharmaceutical Abstracts, PsycINFO, Medline, Embase, Cochrane Central Register of Clinical Trials (CENTRAL), CINAHL, and LILACS.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Study selection Randomised controlled trials assessing the efficacy and tolerability of drugs versus placebo or other treatment for sciatica.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Data extraction Two independent reviewers extracted data and assessed methodological quality using the PEDro scale.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Pain and disability outcomes were converted to a common 0 to 100 scale.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Data were pooled with a random effects model, and the GRADE approach was used in summary conclusions.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Twenty three published reports met the inclusion criteria.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The evidence to judge the efficacy of non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, antidepressants, anticonvulsants, muscle relaxants, and opioid analgesics ranged from moderate to low quality.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Most of the pooled estimates did not favour the active treatment over placebo.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The pooled results of two trials of corticosteroids (mean difference in overall and leg pain -12.2, 95% confidence interval -20.9 to -3.4) and a single trial of the anticonvulsant gabapentin for chronic sciatica (mean difference in overall pain relief -26.6, -38.3 to -14.9) showed some benefits but only in the short term.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The median rate of adverse events was 17% (interquartile range 10-30%) for the active drugs and 11% (3-23%) for placebo.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Trial limitations included failure to use validated outcome measures, lack of long term follow-up, and small sample size.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusions As the existing evidence from clinical trials is of low quality, the efficacy and tolerability of drugs commonly prescribed for the management of sciatica in primary care is unclear.</segment>    </body>
+</document>

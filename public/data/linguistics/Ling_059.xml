@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_059.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study examined the effects of multitasking on persuasion, including comprehension and counterarguing of persuasive messages, which were presented in three different contexts: (a) nonmultitasking with full attention paid to the message, (b) multitasking with primary attention paid to the message, and (c) multitasking with secondary attention paid to the message.</segment> <segment id='2' features='rhetorical_moves' state='active'>Consistent with predictions, the results suggested that multitasking reduced the actual and perceived levels of comprehension and also reduced counterarguing.</segment> <segment id='3' features='rhetorical_moves' state='active'>The implications for research on persuasion are further discussed.</segment>    </body>
+</document>

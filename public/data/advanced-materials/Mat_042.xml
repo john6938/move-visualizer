@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_042.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>The effective strategy of indirect linakge for constructing ternary ambipolar phosphine oxide (PO) hosts with the high first triplet energy levels (T1) was successfully demonstrated.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The interplay between the chromophore, hole and electron transporting moieties was effectively restrained.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Both of T1 as high as 3.0 eV and ambipolar characteristics were perfectly realized, which consequently resulted in the highly efficient blue-emitting phosphorescent organic light-emitting diodes with low driving voltage and stable efficiencies.</segment>    </body>
+</document>

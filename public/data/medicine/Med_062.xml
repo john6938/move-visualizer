@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_062.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To summarise evidence on the association between white rice consumption and risk of type 2 diabetes and to quantify the potential dose-response relation.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Meta-analysis of prospective cohort studies.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Searches of Medline and Embase databases for articles published up to January 2012 using keywords that included both rice intake and diabetes; further searches of references of included original studies.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Study selection Included studies were prospective cohort studies that reported risk estimates for type 2 diabetes by rice intake levels.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Data synthesis Relative risks were pooled using a random effects model; dose-response relations were evaluated using data from all rice intake categories in each study.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Four articles were identified that included seven distinct prospective cohort analyses in Asian and Western populations for this study.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>A total of 13?284 incident cases of type 2 diabetes were ascertained among 352?384 participants with follow-up periods ranging from 4 to 22 years.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Asian (Chinese and Japanese) populations had much higher white rice consumption levels than did Western populations (average intake levels were three to four servings/day versus one to two servings/week).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The pooled relative risk was 1.55 (95% confidence interval 1.20 to 2.01) comparing the highest with the lowest category of white rice intake in Asian populations, whereas the corresponding relative risk was 1.12 (0.94 to 1.33) in Western populations (P for interaction=0.038).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>In the total population, the dose-response meta-analysis indicated that for each serving per day increment of white rice intake, the relative risk of type 2 diabetes was 1.11 (1.08 to 1.14) (P for linear trend&lt;0.001).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusion Higher consumption of white rice is associated with a significantly increased risk of type 2 diabetes, especially in Asian (Chinese and Japanese) populations.</segment>    </body>
+</document>

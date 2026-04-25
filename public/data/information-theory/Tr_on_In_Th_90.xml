@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_90.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Let E be an elliptic curve over a finite field Fq of q elements, with gcd(q,6)=1, given by an affine Weierstras equation.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We use x(P) to denote the x-component of a point P=(x(P),y(P)) ¸ E.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We estimate character sums of the form ƒ°n=1NƒÔ(x(nP)x(nQ)) and ƒ°n1,?,nk=1NƒÕ(ƒ°j=1k cjx((ƒ®i=1j ni)R)) on average over all Fq rational points P, Q, and R on E, where ƒÔ is a quadratic character, ƒÕ is a nontrivial additive character in Fq, and (c1,..., ck) ¸ Fqk is a nonzero vector.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>These bounds confirm several recent conjectures of Jao, Jetchev, and Venkatesan, related to extracting random bits from various sequences of points on the elliptic curves.</segment>    </body>
+</document>

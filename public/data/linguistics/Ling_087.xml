@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_087.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Media ratings serve to inform parents about and protect minors from violent or otherwise harmful media content.</segment> <segment id='2' features='rhetorical_moves' state='active'>Most of these systems use age pictograms and content warning pictograms for entertainment products.</segment> <segment id='3' features='rhetorical_moves' state='active'>An experiment was conducted to investigate whether these pictograms, contrary to their purpose, have an appealing effect on children and adolescents.</segment> <segment id='4' features='rhetorical_moves' state='active'>Compared to prior studies into this “forbidden fruit effect” concerning DVDs and games, more realistic materials were used.</segment> <segment id='5' features='rhetorical_moves' state='active'>In the experiment, 322 elementary school students (9–11 years) and 335 high school students (13–15 years) were exposed to 10 DVD or game covers and asked to judge the products&apos; attractiveness.</segment> <segment id='6' features='rhetorical_moves' state='active'>The results show that the pictograms did not increase the attractiveness of games and DVDs for children and adolescents.</segment>    </body>
+</document>

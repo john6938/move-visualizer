@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_40.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>For a receiver that observes a mixture of desired and interfering multiple-input multiple-output (MIMO) transmissions, not all interference has the same severity: its effect is modulated by the degree of alignment between the eigenspaces of the desired and undesired channel matrices.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>An analytical channel model is proposed to account for this effect.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Two metrics of eigenspace compatibility are studied, and a method to generate channels of a given degree of compatibility is derived.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The resulting model is parameterized using radio channel measurement data, and an implementation recipe for immediate use of the model is provided.</segment>    </body>
+</document>

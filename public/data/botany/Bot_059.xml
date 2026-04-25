@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_059.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The plant seed is a major nutritional source for humans as well as an essential embryo development and dispersal unit.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>To ensure proper seed formation, fine spatial and temporal coordination between the embryo, endosperm, and maternal seed components must be achieved.</segment> <segment id='3' features='rhetorical_moves;introduction;gap' state='active'>However, the intercellular signaling pathways that direct the synchronous development of these tissues are poorly understood.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Here we show that the Arabidopsis thaliana peptide ligand CLAVATA3/EMBRYO SURROUNDING REGION-RELATED8 (CLE8) is exclusively expressed in young embryos and endosperm, and that it acts cell and noncell autonomously to regulate basal embryo cell division patterns, endosperm proliferation, and the timing of endosperm differentiation.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>CLE8 positively regulates expression of the transcription factor gene WUSCHEL-LIKE HOMEOBOX8 (WOX8), and together CLE8 and WOX8 form a signaling module that promotes seed growth and overall seed size.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>These results demonstrate that seed development is coordinated by a secreted peptide ligand that plays a key early role in orchestrating cell patterning and proliferation in the embryo and endosperm.</segment>    </body>
+</document>

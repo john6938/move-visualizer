@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_002.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess if very elderly people with hypertension obtain early benefit from antihypertensive treatment.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design One year open label active treatment extension of randomised controlled trial (Hypertension in the Very Elderly Trial (HYVET)).</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Hospital and general practice based centres mainly in eastern and western Europe, China, and Tunisia.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants People on double blind treatment at the end of HYVET were eligible to enter the extension.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Participants on active blood pressure lowering treatment continued taking active drug; those on placebo were given active blood pressure lowering treatment.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The treatment regimen was as used in the main trial—indapamide SR 1.5 mg (plus perindopril 2-4 mg if required)—with the same target blood pressure of less than 150/80 mm Hg.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcome was all stroke; other outcomes included total mortality, cardiovascular mortality, and cardiovascular events.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Of 1882 people eligible for entry to the extension, 1712 (91%) agreed to participate.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>During the extension period, 1682 patient years were accrued.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>By six months, the difference in blood pressure between the two groups was 1.2/0.7 mm Hg.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Comparing people previously treated with active drug and those previously on placebo, no significant differences were seen for stroke (n=13; hazard ratio 1.92, 95% confidence interval 0.59 to 6.22) or cardiovascular events (n=25; 0.78, 0.36 to 1.72).</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Differences were seen for total mortality (47 deaths; hazard ratio 0.48, 0.26 to 0.87; P=0.02) and cardiovascular mortality (11 deaths; 0.19, 0.04 to 0.87; P=0.03).</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion Very elderly patients with hypertension may gain immediate benefit from treatment.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Sustained differences in reductions of total mortality and cardiovascular mortality reinforce the benefits and support the need for early and long term treatment.</segment>    </body>
+</document>

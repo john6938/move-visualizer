@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_002.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>An entirely bottom-up approach for the preparation of liquid crystalline suspensions of core-shell nanowires for ordered bulk heterojunction photovoltaics is demonstrated.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Side-on attachment of polythiophene derivatives to ZnO nanowires promotes a co-axial polymer backbone-nanowire arrangement which favors high hole mobility.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>This strategy offers structural control over multiple length scales and a viable means of fabricating ordered films over large areas.</segment>    </body>
+</document>

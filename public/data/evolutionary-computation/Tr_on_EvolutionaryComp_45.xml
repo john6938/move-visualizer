@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_45.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We present a parallel genetic algorithm for finding matrix multiplication algorithms.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>For 3 3 matrices our genetic algorithm successfully discovered algorithms requiring 23 multiplications, which are equivalent to the currently best known human-developed algorithms.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active' comment='method as independent clause preceeding the conjunction &quot;and&quot;'>We also studied cases with fewer multiplications and found an approximate solution for 22 multiplications.</segment>    </body>
+</document>

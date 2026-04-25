@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_061.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To compare changes in inequalities in sudden infant death syndrome with other causes of infant mortality and stillbirth in Scotland, 1985-2008.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Scotland 1985-2008, analysed by four epochs of six years.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Singleton births of infants with birth weight &gt;500 g born at 28-43 weeks’ gestation.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Sudden infant death syndrome, other causes of postneonatal infant death, neonatal death, and stillbirth.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Odds ratios expressed as the association across the range of seven categories of Carstairs deprivation score.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results The association between deprivation and the risk of all cause stillbirth and infant death varied between the four epochs (P=0.04).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>This was wholly explained by variation in the risk of sudden infant death syndrome (P&lt;0.001 for interaction).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Among women living in areas of low deprivation, there was a sharp decline in the rate of sudden infant death syndrome from 1990 to 1993.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Among women living in areas of high deprivation, there was a slower decline in sudden infant death syndrome rates between 1992 and 2004.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Consequently, the odds ratio for the association between socioeconomic deprivation and sudden infant death syndrome increased from 2.04 (95% confidence interval 1.53 to 2.72) in 1985-90, to 7.52 (4.62 to 12.25) in 1991-6, and 9.50 (5.46 to 16.53) in 1997-2002 but fell to 1.78 (0.87 to 3.65) in 2002-8.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The interaction remained significant after adjustment for maternal characteristics.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion The rate of sudden infant death syndrome declined throughout Scotland in the early 1990s.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>The decline had a later onset and was slower among women living in areas of high deprivation, probably because of slower uptake of recommended changes in infant sleeping position.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>The effect was to create a strong independent association between deprivation and sudden infant death syndrome where one did not exist before.</segment>    </body>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_093.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+	<segment id='1' features='rhetorical_moves' state='active'>Inductively coupled power transfer systems (ICPT) are an interesting alternative to conductive solutions for vehicle battery charge, particularly in electric public transport applications if operator-free fast charge is required along the route.</segment> <segment id='2' features='rhetorical_moves' state='active'>To perform this task using ICPT systems, current solutions require an almost perfect alignment between coils in order to have optimal power transfer.</segment> <segment id='3' features='rhetorical_moves' state='active'>This condition makes necessary a precise positioning maneuver from the driver or an electromechanic alignment system for the secondary winding, causing the process to be slow.</segment> <segment id='4' features='rhetorical_moves' state='active'>This paper shows that it is possible to transfer rated power even with high misalignment if a suitable compensation topology is selected.</segment> <segment id='5' features='rhetorical_moves' state='active'>The performance of the four basic compensation topologies is analyzed, and a series-parallel-series (SPS) topology is proposed, showing a suitable behavior for both the load and the power source.</segment> <segment id='6' features='rhetorical_moves' state='active'>The theoretical results are validated in two series-series and SPS 2-kW prototypes with a 15-cm air gap between coils.</segment> 
+    </body>
+</document>

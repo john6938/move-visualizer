@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_022.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This commentary advocates the use of mixed methods research—that is the integration of qualitative and quantitative methods in a single study—in applied linguistics.</segment> <segment id='2' features='rhetorical_moves' state='active'>Based on preliminary findings from a research project in progress, some reflections on the current practice of mixing methods as a new trend in applied linguistics are put forward.</segment> <segment id='3' features='rhetorical_moves' state='active'>Furthermore, theoretical and practical issues concerning mixed methods research in applied linguistics are briefly discussed.</segment>    </body>
+</document>

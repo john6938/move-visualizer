@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_069.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper proposes a new direct current (dc) power supply system based on an inductive filtering method for one industrial dc load.</segment> <segment id='2' features='rhetorical_moves' state='active'>The operating mechanism of the new inductive filtering method is analyzed, and then, the harmonic model and the equivalent model are established.</segment> <segment id='3' features='rhetorical_moves' state='active'>Moreover, the impedance conditions for the implementation of the inductive filtering method are presented, and the influence of the filtering loop&apos;s impedance on the filtering performance is clarified.</segment> <segment id='4' features='rhetorical_moves' state='active'>Both the simulation and the experimental study on one practical inductive-filtering-based industrial dc supply system for chemical electrolysis are used to validate the theoretical analysis.</segment> <segment id='5' features='rhetorical_moves' state='active'>The research results show that the inductive filtering method not only greatly reduces the harmonic magnetic flux in the rectifier transformer but also prevents harmonic currents from flowing into the primary (grid) winding of the rectifier transformer.</segment> <segment id='6' features='rhetorical_moves' state='active'>It presents good filtering and reactive power compensating performances to public networks and also increases the operating efficiency of the industrial dc power supply system itself.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_92.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The recent advances in the infrastructure of Geographic Information Systems (GIS), and the proliferation of GPS technology, have resulted in the abundance of geodata in the form of sequences of points of interest (POIs), waypoints, etc.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>We refer to sets of such sequences as route collections.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this work, we consider path queries on frequently updated route collections: given a route collection and two points ns and nt, a path query returns a path, i.e., a sequence of points, that connects ns to nt.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We introduce two path query evaluation paradigms that enjoy the benefits of search algorithms (i.e., fast index maintenance) while utilizing transitivity information to terminate the search sooner.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Efficient indexing schemes and appropriate updating procedures are introduced.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>An extensive experimental evaluation verifies the advantages of our methods compared to conventional graph-based search.</segment>    </body>
+</document>

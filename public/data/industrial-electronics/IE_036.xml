@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_036.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A new address energy recovery (AER) circuit of ac plasma display panel (PDP) (AC-PDP) is proposed.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed circuit converter shows the load-adaptive characteristics, which can minimize the unnecessary power consumption of AER circuit according to the displayed image.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, the proposed circuit, employing a p-channel MOSFET which does not require a complex floating gate driver, can be implemented with low cost.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Based on the estimated equivalent capacitance of PDP, the proposed AER circuit is designed to implement the prototype for 50-in high-definition PDP.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The load-adaptive AER operation and the address-power-saving characteristic are verified experimentally.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>Therefore, the proposed circuit is very suitable for the low-cost AER circuit of AC-PDP.</segment> 
+    </body>
+</document>

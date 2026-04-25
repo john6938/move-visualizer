@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_085.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>An all organic, photopatterned 4 × 4 one diode-one resistor (1D–1R) cell array consisting of a photopatterned organic schottky diode and organic memory were fabricated and tested.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Our results show that the all-organic type photopatterned 4 × 4 1D–1R cell array architecture not only improves reading accessibility, but also prevents cross-talk with neighboring cells.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Each 1D–1R cell in the array architecture showed excellent switching performance, which suggests that such memory devices can be used for future advanced nonvolatile memory applications.</segment>    </body>
+</document>

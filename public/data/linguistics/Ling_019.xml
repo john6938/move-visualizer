@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_019.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A lack of familiarity with the language of teaching is blamed for illiteracy rates beyond 40% among people who live in nations in Africa or Asia in which dozens of languages are spoken.</segment> <segment id='2' features='rhetorical_moves' state='active'>For a critical test of the importance of familiarity with the language in which initial reading is practiced, we took the Zambian situation as a natural experiment and tested effects of a fit between the local language spoken in the homes and playground and the language officially designated as language of instruction.</segment> <segment id='3' features='rhetorical_moves' state='active'>We selected 12 state-funded primary schools from three districts likely to differ in match between children&apos;s language and language of instruction.</segment> <segment id='4' features='rhetorical_moves' state='active'>From each school we took at random 10 high- and 10 low achievers, in all 240 pupils, and tested them after 18 months of instruction.</segment> <segment id='5' features='rhetorical_moves' state='active'>Pupils make more progress in word reading fluency in a Zambian language and English when basic reading skills are practiced in the children&apos;s most familiar Zambian language.</segment> <segment id='6' features='rhetorical_moves' state='active'>Research into other facets of reading instruction is required to balance various possibilities for increasing efficacy of reading instruction.</segment>    </body>
+</document>

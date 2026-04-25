@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_27.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper fully determines the degree-of-freedom (DoF) region of two-user interference channels with arbitrary number of transmit and receive antennas in the case of isotropic and independent (or block-wise independent) fading, where the channel state information is available to the receivers but not to the transmitters.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Thus, the DoF gap between previous upper and lower bounds due to the authors, Vaze and Varanasi, and Huang, Jafar, Shamai, and Vishwanath is closed.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The DoF result characterizes the capacity region to the first order of the logarithm of the signal-to-noise ratio (SNR) in the high-SNR regime.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The DoF region is achievable by using random Gaussian codebooks independent of the channel states, which implies that it is impossible to increase the DoF using beamforming and interference alignment in the absence of channel state information at the transmitters.</segment>    </body>
+</document>

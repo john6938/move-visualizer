@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_021.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>The matrix converter system is becoming a very promising candidate to replace the conventional two-stage ac/dc/ac converter, but system reliability remains an open issue.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>The most common reliability problem is that a bidirectional switch has an open-switch fault during operation.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, a matrix converter driving a speed-controlled permanent-magnet synchronous motor is examined under a single open-switch fault.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>First, a new fault-detection method is proposed using only the motor currents.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Second, a novel fault-tolerant switching strategy is presented.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>By treating the matrix converter as a two-stage rectifier/inverter, existing modulation techniques for the inverter stage can be reused, whereas the rectifier stage is modified by control to counteract the fault.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>However, the proposed techniques require no additional hardware devices or circuit modifications to the matrix converter.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show that the proposed method can maintain the motor speed with a maximum ripple of 2%-a fivefold improvement over the uncompensated system.</segment> <segment id='9' features='rhetorical_moves;discussion' state='active'>The proposed method therefore offers a very economical and effective solution for the matrix converter fault tolerance problem.</segment> 
+    </body>
+</document>

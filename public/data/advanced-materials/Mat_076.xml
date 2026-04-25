@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_076.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Porosity generally embrittles ceramics.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In contrast to such expectations, this report demonstrates that an effective fracture strain of nanoporous silica aerogels increases with increasing porosity.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>At ultralow relative densities of &lt;0.5%, nanoporous monoliths start exhibiting super-compressible deformation with effective fracture strains of &gt;50%.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>This is attributed to consequences of an increase in the aspect ratio of ligaments with decreasing density.</segment>    </body>
+</document>

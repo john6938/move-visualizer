@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_015.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Looking at two sets of conversations, among Greek adolescents, and between Japanese and Australian workers, this article shows how a poststructuralist understanding of the ways in which participants use and mix elements of their language repertoires implies a view of language as performative.</segment> <segment id='2' features='rhetorical_moves' state='active'>Although the poststructuralist element of our approach on the one hand foregrounds a questioning of stable categories of language, identity, and assumed modes of mixing, our development of an understanding of performativity allows us to consider seriously the processes by which language and identity are constantly being remade.</segment> <segment id='3' features='rhetorical_moves' state='active'>For the participants themselves, this is not simply a question of fluid language practices, but rather the interplay of fixed and unfixed language elements, cultural identifications, and social relationships.</segment> <segment id='4' features='rhetorical_moves' state='active'>Reinvigorating Butler’s account of performativity, our analysis and comparison of these two sets of data shows how a poststructuralist consideration of performativity sheds light on the relationship between the ongoing production of subjectivity and the deployment of fixed, stable, or stereotypical categories of identity.</segment>    </body>
+</document>

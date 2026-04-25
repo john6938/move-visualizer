@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_44.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Online learning algorithms often have to operate in the presence of concept drifts.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>A recent study revealed that different diversity levels in an ensemble of learning machines are required in order to maintain high generalization on both old and new concepts.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Inspired by this study and based on a further study of diversity with different strategies to deal with drifts, we propose a new online ensemble learning approach called Diversity for Dealing with Drifts (DDD).</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>DDD maintains ensembles with different diversity levels and is able to attain better accuracy than other approaches.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore, it is very robust, outperforming other drift handling approaches in terms of accuracy when there are false positive drift detections.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>In all the experimental comparisons we have carried out, DDD always performed at least as well as other drift handling approaches under various conditions, with very few exceptions.</segment>    </body>
+</document>

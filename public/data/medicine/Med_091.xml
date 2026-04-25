@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_091.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To measure whether the benefits of a single education and self management structured programme for people with newly diagnosed type 2 diabetes mellitus are sustained at three years.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Three year follow-up of a multicentre cluster randomised controlled trial in primary care, with randomisation at practice level.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting 207 general practices in 13 primary care sites in the United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 731 of the 824 participants included in the original trial were eligible for follow-up.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Biomedical data were collected on 604 (82.6%) and questionnaire data on 513 (70.1%) participants.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Intervention A structured group education programme for six hours delivered in the community by two trained healthcare professional educators compared with usual care.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcome was glycated haemoglobin (HbA1c) levels.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>The secondary outcomes were blood pressure, weight, blood lipid levels, smoking status, physical activity, quality of life, beliefs about illness, depression, emotional impact of diabetes, and drug use at three years.</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Results HbA1c levels at three years had decreased in both groups.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>After adjusting for baseline and cluster the difference was not significant (difference -0.02, 95% confidence interval -0.22 to 0.17).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The groups did not differ for the other biomedical and lifestyle outcomes and drug use.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The significant benefits in the intervention group across four out of five health beliefs seen at 12 months were sustained at three years (P&lt;0.01).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Depression scores and quality of life did not differ at three years.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusion A single programme for people with newly diagnosed type 2 diabetes mellitus showed no difference in biomedical or lifestyle outcomes at three years although there were sustained improvements in some illness beliefs.</segment>    </body>
+</document>

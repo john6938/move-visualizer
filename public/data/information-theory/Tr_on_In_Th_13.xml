@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_13.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>In this paper, we prove that there does not exist a binary self-dual doubly even code with an automorphism of order 9.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>To do so, we apply a method for constructing binary self-dual codes possessing an automorphism of order for an odd prime .</segment>    </body>
+</document>

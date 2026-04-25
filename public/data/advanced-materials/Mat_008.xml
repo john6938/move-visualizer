@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_008.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A novel multifunctional polymeric micelle bearing a pH-tunable on-off module for programmed drug release, folate for tumor targeting, and quantum dots for fluorescent imaging is described.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The micelle can turn drug release off at neutral pH whereas on inside lysosomes.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>QD functionalization allows a clear elucidation of pH-tunable drug release and facile visualization of in vivo delivery event.</segment>    </body>
+</document>

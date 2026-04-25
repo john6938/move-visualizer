@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_031.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study investigates the mobilizing potential of positive news framing on opponents of a referendum proposal.</segment> <segment id='2' features='rhetorical_moves' state='active'>On the basis of an experiment (N = 470), using bootstrapping as a method to assess conditional indirect effects, mediation analysis showed that positive news framing—endorsing a referendum proposal regarding European Union (EU) integration—was perceived as negative by opponents and mobilized those with higher levels of skepticism toward the EU to turn out and vote because of increased risk perception.</segment> <segment id='3' features='rhetorical_moves' state='active'>This “reversed mobilization” effect was contingent upon existing levels of self-efficacy, yielding evidence for a “double conditional indirect effect” of positive news framing on turnout intention via risk perception which was strongest among those showing greater levels of EU skepticism as well as stronger self-efficacy beliefs.</segment>    </body>
+</document>

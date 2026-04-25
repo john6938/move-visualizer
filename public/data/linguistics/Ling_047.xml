@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_047.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The uprisings in Tunisia, Egypt, and elsewhere have been credited in part to the creative use of social media platforms such as Facebook and Twitter.</segment> <segment id='2' features='rhetorical_moves' state='active'>Yet the information policies of the firms behind social media can inhibit activists and empower authoritarian regimes.</segment> <segment id='3' features='rhetorical_moves' state='active'>Analysis of Facebook&apos;s response to Egypt&apos;s “We Are All Khaled Said” group, YouTube&apos;s policy exemption for videos coming from Syria, Moroccan loyalist response to the online presence of atheists, and the activities of the Syrian Electronic Army illustrate how prohibitions on anonymity, community policing practices, campaigns from regime loyalists, and counterinsurgency tactics work against democracy advocates.</segment> <segment id='4' features='rhetorical_moves' state='active'>These problems arise from the design and governance challenges facing large-scale, revenue-seeking social media enterprises.</segment>    </body>
+</document>

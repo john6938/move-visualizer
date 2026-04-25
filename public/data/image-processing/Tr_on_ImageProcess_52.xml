@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_52.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>How to recover a clear image from a single motion-blurred image has long been a challenging open problem in digital imaging.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this paper, we focus on how to recover a motion-blurred image due to camera shake.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>A regularization-based approach is proposed to remove motion blurring from the image by regularizing the sparsity of both the original image and the motion-blur kernel under tight wavelet frame systems.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Furthermore, an adapted version of the split Bregman method is proposed to efficiently solve the resulting minimization problem.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The experiments on both synthesized images and real images show that our algorithm can effectively remove complex motion blurring from natural images without requiring any prior information of the motion-blur kernel.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_33.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper proposes an efficient method to estimate the point spread function (PSF) of a blurred image using image gradients spatial correlation.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>A patch-based image degradation model is proposed for estimating the sample covariance matrix of the gradient domain natural image.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Based on the fact that the gradients of clean natural images are approximately uncorrelated to each other, we estimated the autocorrelation function of the PSF from the covariance matrix of gradient domain blurred image using the proposed patch-based image degradation model.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The PSF is computed using a phase retrieval technique to remove the ambiguity introduced by the absence of the phase.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show that the proposed method significantly reduces the computational burden in PSF estimation, compared with existing methods, while giving comparable blurring kernel.</segment>    </body>
+</document>

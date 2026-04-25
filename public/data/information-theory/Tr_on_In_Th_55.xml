@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_55.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>It is known that, for transmission over quasi-static MIMO fading channels with n transmit antennas, diversity can be obtained by using an inner fully diverse space-time block code while coding gain, derived from the determinant criterion, comes from an appropriate outer code.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>When the inner code has a cyclic algebra structure over a number field, as for perfect space-time codes, an outer code can be designed via coset coding, more precisely, by taking the quotient of the algebra by a two-sided ideal which leads to matrices over finite alphabets for the outer code.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we show that the determinant criterion induces various metrics on the outer code, such as the Hamming and Bachoc distances.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>When n = 2, partitioning the 2~2 Golden code by using an ideal above the prime 2 leads to consider codes over either M2(F2) or M2(F2 [i]), both being noncommutative alphabets.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>By identifying them as algebras over a finite field or a finite ring respectively, we establish an unexpected connection with classical error-correcting codes over F4 and F4 [i].</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Matrix rings of higher dimension, suitable for 3~3 and 4~4 perfect codes, give rise to more complex examples.</segment>    </body>
+</document>

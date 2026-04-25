@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_90.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this letter, we consider a new interference alignment (IA) strategy for single-input single-output interference broadcast channels with constant channel coefficients.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>First, we show that 1.5 degrees of freedom (DOF) is achievable for 3-cell case by utilizing asymmetric complex signaling (AC) and multiuser diversity without symbol extension.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>It is also investigated that the achievable DOF varies with the user scaling condition and ƒÖ(ã(SNR)) is required for guaranteeing the DOF of 1.5.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>To improve the sum-rate performance, user scheduling algorithms combined with the beamforming techniques are suggested which outperform the conventional IA schemes.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>After introducing an exhaustive scheduling algorithm which shows optimal sum-rate, a simplified scheduling method is also proposed which reduces both scheduling metric computations and the search size.</segment>    </body>
+</document>

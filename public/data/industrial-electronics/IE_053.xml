@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_053.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The environmental 3-D reconstruction is a strategic task in many contexts, above all, in infrastructure inspection and vehicle/robot automatic motion.</segment> <segment id='2' features='rhetorical_moves' state='active'>In this paper, we present a patented sensor capable to recover 3-D data with a very high profile acquisition rate and perform an omnidirectional highly accurate environmental reconstruction: these skills are allowed by a profilometric laser approach coupled to a catadioptric system.</segment> <segment id='3' features='rhetorical_moves' state='active'>After a presentation of the sensor&apos;s functionality, its sensitivity is theoretically analyzed both in terms of maximum and medium error.</segment> <segment id='4' features='rhetorical_moves' state='active'>This, not only for proving the sensor&apos;s accuracy (which, anyway, has been also experimentally tested), but also for defining a design strategy which optimally sets up its geometrical parameters.</segment> <segment id='5' features='rhetorical_moves' state='active'>Performance of a prototypal implementation of the sensor, as well as a calibration technique, are presented, and several indoor and outdoor 3-D reconstructions are shown.</segment> 
+    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_083.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether use of metal-on-metal bearing surfaces is associated with an increased risk of a diagnosis of cancer in the early years after total hip replacement and specifically with an increase in malignant melanoma and haematological, prostate, and renal tract cancers.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Linkage study with multivariable competing risks flexible parametric survival model to examine the incidence of new diagnoses of cancer in patients with metal-on-metal hip replacement compared with those with alternative bearings and to compare the observed incidence of diagnoses in patients undergoing hip replacement with that predicted by national incidence rates in the general population.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting National Joint Registry of England and Wales (NJR) linked to NHS hospital episode statistics data.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 40?576 patients with hip replacement with metal-on-metal bearing surfaces and 248?995 with alternative bearings.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Incidence of all cancers and incidence of malignant melanoma and prostate, renal tract, and haematological cancers.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The incidence of new diagnoses of cancer was low after hip replacement (1.25% at one year, 95% confidence interval 1.21% to 1.30%) and lower than that predicted from the age and sex matched normal population (1.65%, 1.60% to 1.70%).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with alternative bearings, there was no evidence that metal-on-metal bearing surfaces were associated with an increased risk of any cancer diagnosis in the seven years after surgery (mean follow-up of three years, 23% (n=67?361) of patients observed for five years or more).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Similarly, there was no increase in the risk of malignant melanoma or haematological, prostate, and renal tract cancers.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The adjusted five year incidence of all cancers for men aged 60 was 4.8% (4.4% to 5.3%) with resurfacing, 6.2% (5.7% to 6.7%) with stemmed metal-on-metal, and 6.7% (6.5% to 7.0%) for other bearing surfaces.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Equivalent rates for women aged 60 were lower: 3.1% (2.8% to 3.4%) with resurfacing, 4.0% (3.7% to 4.3%) with stemmed metal-on-metal, and 4.4% (4.2% to 4.5%) with other bearings.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions These data are reassuring, but the findings are observational with short follow-up.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>The use of hospital episode statistics data might underestimate cancer diagnoses, and there is the possibility of confounding by indication.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>Furthermore, as some cancers have a long latency period it is important that we study the longer term outcomes and continue to investigate the effects of exposure to orthopaedic metals.</segment>    </body>
+</document>

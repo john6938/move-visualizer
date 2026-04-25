@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_056.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Empirical research has found that exposure to specific fictional narratives exerts significant effects on attitudes and beliefs.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, there is little research about the persuasive impact of controversial movies.</segment> <segment id='3' features='rhetorical_moves' state='active'>We present an experimental research study designed to analyze the attitudinal impact of one controversial film (Camino), according to narrative persuasion theoretical models.</segment> <segment id='4' features='rhetorical_moves' state='active'>Because of its critical message toward Opus Dei, this film triggered some controversy in Spain during its release.</segment> <segment id='5' features='rhetorical_moves' state='active'>The results reveal that the experimental exposure to the movie induced negative opinions toward Opus Dei and religion, and weakened the relationship between political self-positioning and the aforementioned beliefs.</segment> <segment id='6' features='rhetorical_moves' state='active'>Furthermore, the attitudinal impact was mediated by identification with the protagonist.</segment> <segment id='7' features='rhetorical_moves' state='active'>These results are convergent with the Extended Elaboration Likelihood Model.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_64.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Recommender systems are becoming increasingly important to individual users and businesses for providing personalized recommendations.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>However, while the majority of algorithms proposed in recommender systems literature have focused on improving recommendation accuracy (as exemplified by the recent Netflix Prize competition), other important aspects of recommendation quality, such as the diversity of recommendations, have often been overlooked.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, we introduce and explore a number of item ranking techniques that can generate substantially more diverse recommendations across all users while maintaining comparable levels of recommendation accuracy.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Comprehensive empirical evaluation consistently shows the diversity gains of the proposed techniques using several real-world rating data sets and different rating prediction algorithms.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_89.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we investigate a power allocation method without feedback of the instantaneous channel gain between a secondary transmitter (ST) and a primary receiver (PR) in spectrum sharing systems where channel information between the ST and the PR is outdated.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a mean value-based power allocation scheme (MVPA), which uses only the mean value of the channel gain of the ST-PR link.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The proposed MVPA satisfies the interference outage constraint at the PR without feedback of the instantaneous channel information, which enables MVPA to reduce feedback burden.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We also derive the ergodic capacity based on MVPA in closed-form and compare the ergodic capacity based on MVPA with that of a power allocation method using the outdated channel information instantaneously.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Through the comparison, we convincingly demonstrate that MVPA without feedback of instantaneous channel information provides more reliable and superior capacity performance by reducing capacity loss from which the power allocation method using the outdated channel information severely suffers.</segment>    </body>
+</document>

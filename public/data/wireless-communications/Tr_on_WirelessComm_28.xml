@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_28.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In the context of fading channels it is well established that, with a constrained transmit power, the bit rates achievable by signals that are not peaky vanish as the bandwidth grows without bound.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Stepping back from the limit, we characterize the highest bit rate achievable by such non-peaky signals and the approximate bandwidth where that apex occurs.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>As it turns out, the gap between the highest rate achievable without peakedness and the infinite-bandwidth capacity (with unconstrained peakedness) is small for virtually all settings of interest to wireless communications.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Thus, although strictly achieving capacity in wideband fading channels does require signal peakedness, bit rates not far from capacity can be achieved with conventional signaling formats that do not exhibit the serious practical drawbacks associated with peakedness.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>In addition, we show that the asymptotic decay of bit rate in the absence of peakedness usually takes hold at bandwidths so large that wideband fading models are called into question.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>Rather, ultrawideband models ought to be used.</segment>    </body>
+</document>

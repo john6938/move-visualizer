@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_058.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>User identification is an important access control mechanism for client-server networking architectures.</segment> <segment id='2' features='rhetorical_moves' state='active'>The concept of single sign-on can allow legal users to use the unitary token to access different service providers in distributed computer networks.</segment> <segment id='3' features='rhetorical_moves' state='active'>Recently, some user identification schemes have been proposed for distributed computer networks.</segment> <segment id='4' features='rhetorical_moves' state='active'>Unfortunately, most existing schemes cannot preserve user anonymity when possible attacks occur.</segment> <segment id='5' features='rhetorical_moves' state='active'>Also, the additional time-synchronized mechanisms they use may cause extensive overhead costs.</segment> <segment id='6' features='rhetorical_moves' state='active'>To overcome these drawbacks, we propose a secure single sign-on mechanism that is efficient, secure, and suitable for mobile devices in distributed computer networks.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_084.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>In a film stack of bathocuproine (BCP) (electron transport layer), fac -tris(2-phenylpyridyl)iridium(III) [Ir(ppy)3] blended in 4,4&apos;-bis(N -carbazolyl)biphenyl (CBP) (light-emitting layer), and 4,4&apos;,4?-tris(N -carbazolyl)triphenylamine (TCTA) (hole transport layer), the BCP and Ir(ppy)3:CBP layers rapidly interdiffuse by anomalous Fickian diffusion.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Diffusion leads to a decrease of up to 33% in the solid-state emission but no change in color.</segment>    </body>
+</document>

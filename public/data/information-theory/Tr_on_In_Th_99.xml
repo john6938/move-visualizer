@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_99.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We consider the problem of securing a multicast network against a wiretapper that can eavesdrop on the packets on a limited number of network edges of its choice.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We assume that the network employs network coding to simultaneously deliver the packets available at the source to all the destinations.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We show that this problem can be looked at as a network generalization of the wiretap channel of type II introduced in a seminal paper by Ozarow and Wyner.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>In particular, we show that the transmitted information can be secured by using the Ozarow-Wyner approach of coset coding at the source on top of the existing network code.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This way, we quickly and transparently recover some of the results available in the literature on secure network coding for wiretap networks.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>Moreover, we use this framework to derive new bounds on the code alphabet size that are independent of the network size, and provide algorithms for explicit construction of secure network codes.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>We also analyze the amount of information that can be leaked to the wiretapper as a function of the number of wiretapped edges.</segment>    </body>
+</document>

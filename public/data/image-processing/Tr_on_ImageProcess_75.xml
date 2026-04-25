@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_75.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Many facial-analysis approaches rely on robust and accurate automatic facial landmarking to correctly function.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this paper, we describe a statistical method for automatic facial-landmark localization.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Our landmarking relies on a parsimonious mixture model of Gabor wavelet features, computed in coarse-to-fine fashion and complemented with a shape prior.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We assess the accuracy and the robustness of the proposed approach in extensive cross-database conditions conducted on four face data sets (Face Recognition Grand Challenge, Cohn-Kanade, Bosphorus, and BioID).</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Our method has 99.33% accuracy on the Bosphorus database and 97.62% accuracy on the BioID database on the average, which improves the state of the art.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>We show that the method is not significantly affected by low-resolution images, small rotations, facial expressions, and natural occlusions such as beard and mustache.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>We further test the goodness of the landmarks in a facial expression recognition application and report landmarking-induced improvement over baseline on two separate databases for video-based expression recognition (Cohn-Kanade and BU-4DFE).</segment>    </body>
+</document>

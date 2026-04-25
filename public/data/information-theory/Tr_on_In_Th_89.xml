@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_89.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Decoding sparse quantum codes can be accomplished by syndrome-based decoding using a belief propagation (BP) algorithm.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We significantly improve this decoding scheme by developing a new feedback adjustment strategy for the standard BP algorithm.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In our feedback procedure, we exploit much of the information from stabilizers, not just the syndrome but also the values of the frustrated checks on individual qubits of the code and the channel model.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore we show that our decoding algorithm is superior to belief propagation algorithms using only the syndrome in the feedback procedure for all cases of the depolarizing channel.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Our algorithm does not increase the measurement overhead compared to the previous method, as the extra information comes for free from the requisite stabilizer measurements.</segment>    </body>
+</document>

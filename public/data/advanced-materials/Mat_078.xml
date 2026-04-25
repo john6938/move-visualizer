@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_078.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>An inorganic enhancement agent (EA) for high-intensity focused ultrasound (HIFU) imaging based on mesoporous silica nanocapsules is presented.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The pronounced coagulative necrosis effects demonstrate, both in vitro and in vivo, that the EA can be developed as a highly promising theranostic agent for effective HIFU imaging and therapy owing to its high stability, efficient perfluorohexane loading and release, enhanced tumor ablation capability, and easy uptake by target tissues.</segment>    </body>
+</document>

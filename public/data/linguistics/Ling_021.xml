@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_021.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The study reported in this article investigates the development of sociolinguistic competence among second-year (US university-level) L2 learners of French who were given systematic instruction on sociolinguistic variation as part of their normal coursework.</segment> <segment id='2' features='rhetorical_moves' state='active'>We focus on the variable use of the negative morpheme ne in verbal negation.</segment> <segment id='3' features='rhetorical_moves' state='active'>Drawing from learners’ explanations of ne presence versus absence, their analyses of two texts representing different levels of discourse, and their own small-group inter-learner online chat discussions, we examine the link between conceptual understanding of variation in French and these learners’ development of conscious control over variation.</segment> <segment id='4' features='rhetorical_moves' state='active'>We show that properly organized pedagogical activity can help learners to develop their understanding of variable features of discourse, which ultimately leads (to) the development of their performance abilities.</segment> <segment id='5' features='rhetorical_moves' state='active'>We present both quantitative and qualitative analyses of learners’ performance to illustrate their developing control over variation in French, which begins to emerge as a sociolinguistic resource by the end of the academic term.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_98.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Designing effective dispatching rules is an important factor for many manufacturing systems.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, this time-consuming process has been performed manually for a very long time.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Recently, some machine learning approaches have been proposed to support this task.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>In this paper, we investigate the use of genetic programming for automatically discovering new dispatching rules for the single objective job shop scheduling problem (JSP).</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Different representations of the dispatching rules in the literature are newly proposed in this paper and are compared and analysed.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results show that the representation that integrates system and machine attributes can improve the quality of the evolved rules.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Analysis of the evolved rules also provides useful knowledge about how these rules can effectively solve JSP.</segment>    </body>
+</document>

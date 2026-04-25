@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_072.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This research examines how sociotechnical affordances shape interpretation of disclosure and social judgments on social networking sites.</segment> <segment id='2' features='rhetorical_moves' state='active'>Drawing on the disclosure personalism framework, Study 1 revealed that information unavailability and relational basis underlay personalistic judgments about Facebook disclosures: Perceivers inferred greater message and relational intimacy from disclosures made privately than from those made publicly.</segment> <segment id='3' features='rhetorical_moves' state='active'>Study 2 revealed that perceivers judged intimate disclosures shared publicly as less appropriate than intimate disclosures shared privately, and that perceived disclosure appropriateness accounted for the effects of public versus private contexts on reduced liking for a discloser.</segment> <segment id='4' features='rhetorical_moves' state='active'>Taken together, the results show how sociotechnical affordances shape perceptions of disclosure and relationships, which has implications for understanding relational development and maintenance on SNS.</segment>    </body>
+</document>

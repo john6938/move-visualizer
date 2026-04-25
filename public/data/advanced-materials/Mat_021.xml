@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_021.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A cross-linked supramolecular polymer network gel is designed and prepared, which shows reversible gel–sol transitions induced by changes in pH, temperature, cation concentration, and metal co-ordination.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The gel pore size is controlled by the amount of cross-linker added to the system, and the material can be molded into shape-persistent, free-standing objects with elastic behavior.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>These features are all due to the dynamically reversible host–guest complexation and good mechanical properties of the cross-linked polymer network.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>No single organogel has previously been reported to possess all of these features, making this supramolecular gel an unprecedentedly intelligent soft material.</segment>    </body>
+</document>

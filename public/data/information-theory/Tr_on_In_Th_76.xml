@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_76.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this note, we show that by quantizing the N-dimensional frame coefficients of signals in Rd using r th-order Sigma-Delta quantization schemes, it is possible to achieve root-exponential accuracy in the oversampling rate ƒÉ: = N/d.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In particular, we construct a family of finite frames tailored specifically for coarse Sigma-Delta quantization that admit themselves as both canonical duals and Sobolev duals.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Our construction allows for error guarantees that behave as e-cã{ƒÉ}, where under a mild restriction on the oversampling rate, the constants are absolute.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, we show that harmonic frames can be used to achieve the same guarantees, but with the constants now depending on d .</segment>    </body>
+</document>

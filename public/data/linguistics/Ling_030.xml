@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_030.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Audience fragmentation is often taken as evidence of social polarization.</segment> <segment id='2' features='rhetorical_moves' state='active'>Yet the tools we use to study fragmentation provide limited information about how people allocate their attention across digital media.</segment> <segment id='3' features='rhetorical_moves' state='active'>We offer a theoretical framework for understanding fragmentation and advocate for more audience-centric studies.</segment> <segment id='4' features='rhetorical_moves' state='active'>This approach is operationalized by applying network analysis metrics to Nielsen data on television and Internet use.</segment> <segment id='5' features='rhetorical_moves' state='active'>We find extremely high levels of audience duplication across 236 media outlets, suggesting overlapping patterns of public attention rather than isolated groups of audience loyalists.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_006.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>It is shown that the work required to produce natural silk fibers is at least ten times less than a classic synthetic polymer, yet still nature produces a fiber with superior mechanical properties.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The concept of polymer crystallization is (re)defined and silks are classed as a new nanocomposite state of biological matter called aquamelts.</segment>    </body>
+</document>

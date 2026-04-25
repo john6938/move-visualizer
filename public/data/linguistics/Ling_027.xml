@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_027.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This Forum challenges and problematizes the term incomplete acquisition, which has been widely used to describe the state of competence of heritage speaker (HS) bilinguals for well over a decade (see, e.g., Montrul, 2008).</segment> <segment id='2' features='rhetorical_moves' state='active'>It is suggested and defended that HS competence, while often different from monolingual peers, is in fact not incomplete (given any reasonable definition by the word incomplete), but simply distinct for reasons related to the realities of their environment.</segment>    </body>
+</document>

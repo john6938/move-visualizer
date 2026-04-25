@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_100.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Extracting information from semistructured documents is a very hard task, and is going to become more and more critical as the amount of digital information available on the Internet grows.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Indeed, documents are often so large that the data set returned as answer to a query may be too big to convey interpretable knowledge.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we describe an approach based on Tree-Based Association Rules (TARs): mined rules, which provide approximate, intensional information on both the structure and the contents of Extensible Markup Language (XML) documents, and can be stored in XML format as well.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This mined knowledge is later used to provide: 1) a concise idea-the gist-of both the structure and the content of the XML document and 2) quick, approximate answers to queries.</segment> <segment id='5' features='rhetorical_moves;introduction;overview' state='active'>In this paper, we focus on the second feature.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>A prototype system and experimental results demonstrate the effectiveness of the approach.</segment>    </body>
+</document>

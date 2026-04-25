@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_69.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Many practical optimization problems are constrained and have a bounded search space.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>In this paper, we propose and compare a wide variety of bound handling techniques for particle swarm optimization.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active' comment='method included as prepositional phrase'>By examining their performance on flat landscapes, we show that many bound handling techniques introduce significant search bias.</segment> <segment id='4' features='rhetorical_moves;method' state='active' comment='result included as participle clause modified by two coordinating that clauses'>Furthermore, we compare the performance of many bound handling techniques on a variety of test problems, demonstrating that the bound handling technique can have a major impact on the algorithm performance, and that the method recently proposed as the standard does not, in general, perform well.</segment>    </body>
+</document>

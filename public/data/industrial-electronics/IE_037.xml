@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_037.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active'>This paper presents the analysis, design, and experimental performance verification of a serial type line conditioner.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Since it processes only a fraction of the load power, the overall converter losses tend to be lower and the efficiency of the conditioner higher.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Regarding the dynamic performance, the line inductance, which results in a positive zero in the transfer function of the plant, is taken into consideration when designing a voltage controller with higher bandwidth for faster response.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>In addition, a virtual resistance is included in the control of the system to damp oscillations often seen for operations at light load and with nonlinear load conditions.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results obtained with a 10 kVA prototype of a serial line conditioner fed from the load side and the proposed feedback control scheme are presented to demonstrate the superior performance of the line conditioner.</segment>     </body>
+</document>

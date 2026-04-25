@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_57.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we derive a generic closed-form approximation (CFA) of the energy efficiency-spectral efficiency (EE-SE) trade-off for the uplink of coordinated multi-point (CoMP) system and demonstrate its accuracy for both idealistic and realistic power consumption models (PCMs).</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We utilize our CFA to compare CoMP against conventional non-cooperative system with orthogonal multiple access.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>In the idealistic PCM, CoMP is more energy efficient than non-cooperative system due to a reduction in power consumption; whereas in the realistic PCM, CoMP can also be more energy efficient but due to an improvement in SE and mainly for cell-edge communication and small cell deployment.</segment>    </body>
+</document>

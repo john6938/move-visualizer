@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_084.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To estimate the cost effectiveness of alternative planned places of birth.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Economic evaluation with individual level data from the Birthplace national prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting 142 of 147 trusts providing home birth services, 53 of 56 freestanding midwifery units, 43 of 51 alongside midwifery units, and a random sample of 36 of 180 obstetric units, stratified by unit size and geographical region, in England, over varying periods of time within the study period 1 April 2008 to 30 April 2010.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 64?538 women at low risk of complications before the onset of labour.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Planned birth in four alternative settings: at home, in freestanding midwifery units, in alongside midwifery units, and in obstetric units.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Incremental cost per adverse perinatal outcome avoided, adverse maternal morbidity avoided, and additional normal birth.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>The non-parametric bootstrap method was used to generate net monetary benefits and construct cost effectiveness acceptability curves at alternative thresholds for cost effectiveness.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results The total unadjusted mean costs were £1066, £1435, £1461, and £1631 for births planned at home, in freestanding midwifery units, in alongside midwifery units, and in obstetric units, respectively (equivalent to about €1274, $1701; €1715, $2290; €1747, $2332; and €1950, $2603).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, and for multiparous women, planned birth at home generated the greatest mean net benefit with a 100% probability of being the optimal setting across all thresholds of cost effectiveness when perinatal outcomes were considered.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>There was, however, an increased incidence of adverse perinatal outcome associated with planned birth at home in nulliparous low risk women, resulting in the probability of it being the most cost effective option at a cost effectiveness threshold of £20?000 declining to 0.63.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>With regards to maternal outcomes in nulliparous and multiparous women, planned birth at home generated the greatest mean net benefit with a 100% probability of being the optimal setting across all thresholds of cost effectiveness.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions For multiparous women at low risk of complications, planned birth at home was the most cost effective option.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>For nulliparous low risk women, planned birth at home is still likely to be the most cost effective option but is associated with an increase in adverse perinatal outcomes.</segment>    </body>
+</document>

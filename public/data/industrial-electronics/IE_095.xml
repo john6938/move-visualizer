@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_095.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A high-efficiency high step-up current-fed multiresonant converter (CFMRC) is proposed for interfacing the sustainable power sources, such as PV panels and fuel cells, which are characterized by low-voltage high-current output and have strict current ripple requirement.</segment> <segment id='2' features='rhetorical_moves' state='active'>The proposed converter has the features of low input current ripple, low circulating energy, achieving zero-current switching (ZCS) for all active switches, and common ground driving.</segment> <segment id='3' features='rhetorical_moves' state='active'>In order to further improve the efficiency and the power density of the CFMRC, coupled inductor and voltage doubler are applied to the two input inductors and the output rectifier, respectively.</segment> <segment id='4' features='rhetorical_moves' state='active'>The operation principle of the CFMRC is introduced.</segment> <segment id='5' features='rhetorical_moves' state='active'>Its dc voltage gain and the ZCS conditions of both the primary switches and the secondary rectifier are also derived based on the steady-state analysis.</segment> <segment id='6' features='rhetorical_moves' state='active'>Finally, a design guideline is given.</segment> <segment id='7' features='rhetorical_moves' state='active'>The theoretical analysis of the CFMRC was verified on a 150-W prototype.</segment> <segment id='8' features='rhetorical_moves' state='active'>An average efficiency of 95.9% was achieved over the entire maximum power point tracking range (23-38 V), with a 350-V output at full load.</segment> <segment id='9' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

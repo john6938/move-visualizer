@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_3.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Many data mining techniques have been proposed for mining useful patterns in text documents.</segment> <segment id='2' features='rhetorical_moves;introduction;gap' state='active'>However, how to effectively use and update discovered patterns is still an open research issue, especially in the domain of text mining.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>Since most existing text mining methods adopted term-based approaches, they all suffer from the problems of polysemy and synonymy.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>Over the years, people have often held the hypothesis that pattern (or phrase)-based approaches should perform better than the term-based ones, but many experiments do not support this hypothesis.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents an innovative and effective pattern discovery technique which includes the processes of pattern deploying and pattern evolving, to improve the effectiveness of using and updating discovered patterns for finding relevant and interesting information.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Substantial experiments on RCV1 data collection and TREC topics demonstrate that the proposed solution achieves encouraging performance.</segment>    </body>
+</document>

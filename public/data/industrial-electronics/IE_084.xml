@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_084.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper presents an analysis by which the stability of a multiple-input-multiple-output system of simultaneous speed and stator resistance estimators for sensorless induction motor drives can be successfully predicted.</segment> <segment id='2' features='rhetorical_moves' state='active'>The instability problem of an adaptive flux observer (AFO) is deeply investigated.</segment> <segment id='3' features='rhetorical_moves' state='active'>In order to achieve stability over a wide range of operation, a design of the observer feedback gain is proposed.</segment> <segment id='4' features='rhetorical_moves' state='active'>Furthermore, closed-loop control systems of the independent use of the two estimators are developed.</segment> <segment id='5' features='rhetorical_moves' state='active'>Therefore, all gains of the adaptive proportional-integral controllers are selected and generalized to provide good tracking performance as well as fast dynamic response.</segment> <segment id='6' features='rhetorical_moves' state='active'>The performance of the AFO using the proposed gains, with a sensorless indirect-field-oriented-controlled induction motor drive, is verified by simulation and experimental results.</segment> <segment id='7' features='rhetorical_moves' state='active'>The results show a good improvement in both convergence and stability, particularly in the regenerative mode at low speeds, which confirm the validity of the proposed analysis.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

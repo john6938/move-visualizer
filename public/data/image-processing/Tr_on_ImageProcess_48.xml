@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_48.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We study the problem of automatic greduced-referenceh image quality assessment (QA) algorithms from the point of view of image information change.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Such changes are measured between the reference- and natural-image approximations of the distorted image.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Algorithms that measure differences between the entropies of wavelet coefficients of reference and distorted images, as perceived by humans, are designed.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The algorithms differ in the data on which the entropy difference is calculated and on the amount of information from the reference that is required for quality computation, ranging from almost full information to almost no information from the reference.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>A special case of these is algorithms that require just a single number from the reference for QA.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The algorithms are shown to correlate very well with subjective quality scores, as demonstrated on the Laboratory for Image and Video Engineering Image Quality Assessment Database and the Tampere Image Database.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Performance degradation, as the amount of information is reduced, is also studied.</segment>    </body>
+</document>

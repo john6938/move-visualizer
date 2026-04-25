@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_26.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We present a method to compute, quickly and efficiently, the mutual information achieved by an independent identically distributed (IID) complex Gaussian signal on a block Rayleigh-faded channel without side information at the receiver.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The method accommodates both scalar and multiple-input multiple-output (MIMO) settings.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Operationally, this mutual information represents the highest spectral efficiency that can be attained using Gaussian codebooks.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>Examples are provided that illustrate the loss in spectral efficiency caused by fast fading and how that loss is amplified when multiple transmit antennas are used.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>These examples are further enriched by comparisons with the channel capacity under perfect channel-state information at the receiver, and with the spectral efficiency attained by pilot-based transmission.</segment>    </body>
+</document>

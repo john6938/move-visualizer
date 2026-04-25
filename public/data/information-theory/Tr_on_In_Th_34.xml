@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_34.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>An analytical approximation is developed for the probability of sensing coverage in a wireless sensor network with randomly deployed sensor nodes each having an isotropic sensing area.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>This approximate probability is obtained by considering the properties of the geometric graph, in which an edge exists between any two vertices representing sensor nodes with overlapping sensing areas.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The principal result is an approximation to the proportion of the sensing area that is covered by at least one sensing node, given the expected number of nodes per unit area in a two-dimensional Poisson process.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The probability of a specified region being completely covered is also approximated.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results corroborate the probabilistic analysis with low error, for any node density.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The relationship between this approximation and noncoverage by the sensors is also examined.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>These results will have applications in planning and design tools for wireless sensor networks, and studies of coverage employing computational geometry.</segment>    </body>
+</document>

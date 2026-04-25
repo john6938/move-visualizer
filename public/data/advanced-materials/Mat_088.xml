@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_088.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Realization of highly responsivity UV detectors is a critical challenge for accelerating the application of UV detectors.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>Exploiting nanoplasmonic enhancement, Ag nanoparticles have been formed on the GaN surface and the responsivity of the GaN UV detector has been enhanced about 30 times compared with that without Ag nanoparticles.</segment>    </body>
+</document>

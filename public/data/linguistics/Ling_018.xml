@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_018.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This article reports on the results of a study which investigated advanced Cantonese English as a Second Language (ESL) learners&apos; use of a monolingual dictionary for determining the meanings of familiar English words used in less familiar contexts.</segment> <segment id='2' features='rhetorical_moves' state='active'>Thirty-two university English majors in Hong Kong participated in a dictionary consultation task, which included nine English sentences each containing a target lexical item the meaning of which depended on the grammatical contexts they were in.</segment> <segment id='3' features='rhetorical_moves' state='active'>Different self-reporting protocols were used to tap into the participants&apos; thinking processes and/or to gather their evaluation of the effectiveness of the dictionaries.</segment> <segment id='4' features='rhetorical_moves' state='active'>The results of the study show that learners demonstrate some degree of success in the use of a monolingual dictionary for determining word meanings, yet the facilitative effects of a dictionary are quite limited, and problems such as learners&apos; preoccupation with typical word collocations and their ignorance of dictionary information may hinder decision making.</segment> <segment id='5' features='rhetorical_moves' state='active'>Such dictionary behavior may affect second language acquisition and requires attention.</segment> <segment id='6' features='rhetorical_moves' state='active'>It is suggested that ESL teachers alert learners to the importance of grammatical associations in language comprehension.</segment>    </body>
+</document>

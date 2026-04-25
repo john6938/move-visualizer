@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_068.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study investigates media effects on stereotypic attitudes toward immigrants in a political campaign that dealt with the naturalization of immigrants.</segment> <segment id='2' features='rhetorical_moves' state='active'>By combining a content analysis of the campaign coverage with a 2-wave panel survey, the study found that negative news portrayals of immigrants increased stereotypic attitudes in the public in the course of the campaign.</segment> <segment id='3' features='rhetorical_moves' state='active'>Additionally, the frequent exposure to positive news portrayals of immigrants reduced the activation of negative outgroup attitudes.</segment> <segment id='4' features='rhetorical_moves' state='active'>However, these findings are contingent on people&apos;s issue-specific knowledge.</segment> <segment id='5' features='rhetorical_moves' state='active'>Only people with low to moderate knowledge were influenced by negative and positive news stories about immigrants in the campaign.</segment> <segment id='6' features='rhetorical_moves' state='active'>Well-informed people were resistant to the effects of positive and news portrayals of immigrants.</segment>    </body>
+</document>

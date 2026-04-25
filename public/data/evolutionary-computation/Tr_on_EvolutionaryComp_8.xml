@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_8.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In the Euclidean optimal communication spanning tree problem, the edges in optimal trees not only have small weights but also point with high probability toward the center of the graph.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>These characteristics of optimal solutions can be used for the design of problem-specific evolutionary algorithms (EAs).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Recombination operators of direct encodings like edge-set and NetDir can be extended such that they prefer not only edges with small distance weights but also edges that point toward the center of the graph.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Experimental results show higher performance and robustness in comparison to EAs using existing crossover strategies.</segment>    </body>
+</document>

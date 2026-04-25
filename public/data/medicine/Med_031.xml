@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_031.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether the acute consumption of cannabis (cannabinoids) by drivers increases the risk of a motor vehicle collision.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review of observational studies, with meta-analysis.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources We did electronic searches in 19 databases, unrestricted by year or language of publication.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We also did manual searches of reference lists, conducted a search for unpublished studies, and reviewed the personal libraries of the research team.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Review methods We included observational epidemiology studies of motor vehicle collisions with an appropriate control group, and selected studies that measured recent cannabis use in drivers by toxicological analysis of whole blood or self report.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We excluded experimental or simulator studies.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Two independent reviewers assessed risk of bias in each selected study, with consensus, using the Newcastle-Ottawa scale.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Risk estimates were combined using random effects models.</segment>
+
+<segment id='9' features='rhetorical_moves;method' state='active'>Results We selected nine studies in the review and meta-analysis.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Driving under the influence of cannabis was associated with a significantly increased risk of motor vehicle collisions compared with unimpaired driving (odds ratio 1.92 (95% confidence interval 1.35 to 2.73); P=0.0003); we noted heterogeneity among the individual study effects (I2=81).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Collision risk estimates were higher in case-control studies (2.79 (1.23 to 6.33); P=0.01) and studies of fatal collisions (2.10 (1.31 to 3.36); P=0.002) than in culpability studies (1.65 (1.11 to 2.46); P=0.07) and studies of non-fatal collisions (1.74 (0.88 to 3.46); P=0.11).</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Acute cannabis consumption is associated with an increased risk of a motor vehicle crash, especially for fatal collisions.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>This information could be used as the basis for campaigns against drug impaired driving, developing regional or national policies to control acute drug use while driving, and raising public awareness.</segment>    </body>
+</document>

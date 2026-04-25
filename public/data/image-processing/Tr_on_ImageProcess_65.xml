@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_65.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>A problem of view interpolation from a pair of rectified stereo images with inaccurate depth information is addressed.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Errors in geometric information greatly affect the quality of the resulting images since inaccurate geometry causes miscorrespondences between the input images.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>A new theory for quantitatively analyzing the effect of depth errors and providing a principled optimization scheme based on the mean-squared error metric is proposed.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The theory clarifies that, if the probabilistic distribution of the depth errors is given, an optimized view-interpolation scheme that outperforms conventional linear interpolation can be derived.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>It also reveals that, under specific conditions, linear interpolation is acceptable as an approximation of the optimized-interpolation scheme.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore, band limitation combined with linear interpolation is also analyzed, leading to an optimal cutoff frequency, which achieves better results than the antialias scheme proposed in previous studies.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results using real scenes are also presented to confirm this theory.</segment>    </body>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_045.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this paper, a novel wire-based robot system with consideration of the different levels of wire rope tension is introduced, and its performance while executing a task in an unknown environment is analyzed.</segment> <segment id='2' features='rhetorical_moves' state='active'>An adaptable wire rope tension control, called a twin direct-drive motor system, provides a unique structure for a robot interaction system.</segment> <segment id='3' features='rhetorical_moves' state='active'>Compared with conventional industrial robots, it significantly becomes the preferred approach for improving the level of reliability and providing safe user interaction because the wire rope mechanism is a low friction and lightweight device.</segment> <segment id='4' features='rhetorical_moves' state='active'>In addition, from the identification results, the bandwidth of the robot system can be regulated by changing the wire rope tension.</segment> <segment id='5' features='rhetorical_moves' state='active'>In the controller design, dual disturbance observers with respect to two operation modes, namely, the common mode and the differential mode, are designed and applied for controlling the wire rope tension and interaction force.</segment> <segment id='6' features='rhetorical_moves' state='active'>A variable wire rope tension algorithm is proposed to change the mechanical bandwidth based on the movements of a human.</segment> <segment id='7' features='rhetorical_moves' state='active'>The advantages of a high mechanical bandwidth and low stiffness transmission are combined.</segment> <segment id='8' features='rhetorical_moves' state='active'>With regard to the rejection of the vibration effects and the generation of a smooth interaction force, the variable wire rope tension control is found to give the best results in an experimental setup.</segment> 
+    </body>
+</document>

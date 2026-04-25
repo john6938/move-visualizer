@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_028.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this article, I first propose to reinterpret R. T. Craig&apos;s (1999) call for a dialogue between communication perspectives as a formulation of design specs to which any constitutive model of communication should respond.</segment> <segment id='2' features='rhetorical_moves' state='active'>I then propose to answer this call by metaphorically conceiving of communication as a form of ventriloquism, which translates our capacity to make other beings say or do things while we speak, write, or, more generally, conduct ourselves.</segment> <segment id='3' features='rhetorical_moves' state='active'>Finally, I show to what extent this ventriloqual model of communication responds to the design specs of each of the 7 traditions Craig identified (rhetoric, semiotics, phenomenology, cybernetics, sociopsychology, sociocultural theory, and the critical approach), while maintaining a certain ontological and epistemological coherence.</segment>    </body>
+</document>

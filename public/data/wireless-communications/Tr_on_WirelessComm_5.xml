@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_5.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Supporting trillions of devices is the critical challenge in machine-to-machine (M2M) communications, which results in severe congestions in random access channels of cellular systems that have been recognized as promising scenarios enabling M2M communications.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>3GPP thus developed the access class barring (ACB) for individual stabilization in each base station (BS).</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>However, without cooperations among BSs, devices within dense areas suffer severe access delays.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>To facilitate devices escaping from continuous congestions, we propose the cooperative ACB for global stabilization and access load sharing to eliminate substantial defects in the ordinary ACB, thus significantly improving access delays.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_004.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate the effect of including unpublished trial outcome data obtained from the Food and Drug Administration (FDA) on the results of meta-analyses of drug trials.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Reanalysis of meta-analyses.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Drug trials with unpublished outcome data for new molecular entities that were approved by the FDA between 2001 and 2002 were identified.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>For each drug, eligible systematic reviews containing at least one meta-analysis were identified by searches of Medline, Embase, and the Cochrane Library in November 2010.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Selection criteria Eligible systematic reviews were done after FDA approval of the drug, were published in English, and had outcomes and comparators that were the same as those of the trials with unpublished FDA trial outcomes, and the characteristics of participants in the systematic reviews were consistent with the FDA approved indication for the drug.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Clinical guidelines, conference proceedings, duplicate systematic reviews, and systematic reviews in which included trials were not referenced or that combined trials across multiple drug classes were excluded.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Systematic reviews using non-standard meta-analytic techniques (such as Bayesian or network meta-analyses) and those that used inappropriate or invalid methods for calculation of summary statistics (such as unweighted pooled analyses) were also excluded.</segment>
+
+<segment id='8' features='rhetorical_moves;method' state='active'>Data extraction Two authors independently extracted data from both the published systematic reviews and the FDA’s medical and statistical reviews of the trials submitted to FDA.</segment>
+
+<segment id='9' features='rhetorical_moves;method' state='active'>Main outcome measure Summary statistics (risk ratios, odds ratios, or weighted mean differences) for relevant outcomes with and without unpublished FDA trial data.</segment>
+
+<segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results 42 meta-analyses (41 efficacy outcomes, one harm outcome) for nine drugs across six drug classes were reanalysed.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, addition of unpublished FDA trial data caused 46% (19/41) of the summary estimates from the meta-analyses to show lower efficacy of the drug, 7% (3/41) to show identical efficacy, and 46% (19/41) to show greater efficacy.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The summary estimate of the single harm outcome showed more harm from the drug after inclusion of unpublished FDA trial data.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusion The effect of including unpublished FDA trial outcome data varies by drug and outcome.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>Unpublished FDA trial outcome data should be available and included in meta-analysis.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Making these data easily accessible is particularly important because the effects of including unpublished data vary.</segment>    </body>
+</document>

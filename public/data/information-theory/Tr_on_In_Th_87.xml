@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_87.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>We derive some properties of minimum-error measurements for mixed quantum state signals where a density operator itself has a certain symmetry.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In the first case, we show that if there exists a regular normal operator that commutes with each density operator of mixed state signals, then there exists an optimal measurement that consists of detection operators expressed as the direct sum of positive operators with supports in the eigenspaces of the regular normal operator.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>In the second case, we show that for abelian geometrically uniform state signals, if a matrix which represents one of the signals in a certain basis has all real elements, then the matrix which represents the corresponding detection operator of an optimal measurement in that basis also has all real elements.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>In addition, we discuss some examples of applications of these properties and derive analytical solutions of optimal measurements for special cases.</segment>    </body>
+</document>

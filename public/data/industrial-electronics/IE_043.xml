@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_043.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>A wide range zero-voltage switching (ZVS) active-clamped L-L type current-fed isolated dc-dc converter is proposed for fuel cells to utility interface application.</segment> <segment id='2' features='rhetorical_moves' state='active'>The proposed converter maintains ZVS of all switches from full load down to very light load condition for wide input voltage variation.</segment> <segment id='3' features='rhetorical_moves' state='active'>Detailed operation, analysis, design, simulation and experimental results for the proposed converter are presented.</segment> <segment id='4' features='rhetorical_moves' state='active'>The auxiliary active clamping circuit absorbs the turn-off voltage spike and also assists in achieving ZVS of main switches.</segment> <segment id='5' features='rhetorical_moves' state='active'>The ZVS of auxiliary switches and main switches is achieved by the energy stored in the boost inductors and series inductor (aided by parallel inductor), respectively.</segment> <segment id='6' features='rhetorical_moves' state='active'>Rectifier diodes operate with zero-current switching.</segment> <segment id='7' features='rhetorical_moves' state='active'>An experimental converter rated at 200 W has been designed, built and tested in the laboratory to verify the analysis, design and performance of the proposed converter for wide variations in input voltage and load.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

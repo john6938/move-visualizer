@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_25.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Speeded-Up Robust Features is a feature extraction algorithm designed for real-time execution, although this is rarely achievable on low-power hardware such as that in mobile robots.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>One way to reduce the computation is to discard some of the scale-space octaves, and previous research has simply discarded the higher octaves.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>This paper shows that this approach is not always the most sensible and presents an algorithm for choosing which octaves to discard based on the properties of the imagery.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Results obtained with this best octaves algorithm show that it is able to achieve a significant reduction in computation without compromising matching performance.</segment>    </body>
+</document>

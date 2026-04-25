@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_063.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Candidate debates are unique in modern politics in their potential to draw widespread attention to policy reasoning, but game-framed postdebate coverage may interfere with this potentially deliberative moment.</segment> <segment id='2' features='rhetorical_moves' state='active'>Two experiments tested effects of policy- versus game-framing of postdebate coverage on audience use of policy reasons, using a new dependent variable we develop and label spontaneous policy reasoning (SPR).</segment> <segment id='3' features='rhetorical_moves' state='active'>In Study 1, a game-framed postdebate story decreased SPR relative to no postdebate story, while exposure to a policy-framed story increased SPR.</segment> <segment id='4' features='rhetorical_moves' state='active'>Study 2 added manipulations of the timing and wording of the reason-giving prompt, replicating the framing effects in another context while validating SPR as a spontaneous tendency to give reasons distinct from existing measures of the ability to do so.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_076.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Much debate has focused on the potential negative role of sexualized violent media on viewer attitudes toward women.</segment> <segment id='2' features='rhetorical_moves' state='active'>One potential issue in previous literature is that depictions of sexuality and violence were confounded with subordinate depictions of female characters.</segment> <segment id='3' features='rhetorical_moves' state='active'>The current study addressed this by randomly assigning young adults to watch either neutral media or sexually violent media with either subordinate or strong female characters.</segment> <segment id='4' features='rhetorical_moves' state='active'>Women who watched sexually violent media were more anxious, and males who watched sexually violent media had more negative attitudes toward women, but only when female characters were subordinate.</segment> <segment id='5' features='rhetorical_moves' state='active'>Sexual and violent content had no influence on viewer attitudes when strong female characters were present, suggesting these are not the crucial influence variables.</segment>    </body>
+</document>

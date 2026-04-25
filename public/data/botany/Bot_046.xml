@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_046.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Auxin is a pivotal plant hormone that regulates many aspects of plant growth and development.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Auxin signaling is also known to promote plant disease caused by plant pathogens.</segment> <segment id='3' features='rhetorical_moves;introduction;gap' state='active'>However, the mechanism by which this hormone confers susceptibility to pathogens is not well understood.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Here, we present evidence that fungal and bacterial plant pathogens hijack the host auxin metabolism in Arabidopsis thaliana, leading to the accumulation of a conjugated form of the hormone, indole-3-acetic acid (IAA)-Asp, to promote disease development.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We also show that IAA-Asp increases pathogen progression in the plant by regulating the transcription of virulence genes.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>These data highlight a novel mechanism to promote plant susceptibility to pathogens through auxin conjugation.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_014.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Engineered polyethylene glycol-maleimide matrices for regenerative medicine exhibit improved reaction efficiency and a wider range of Young&apos;s moduli by utilizing maleimide cross-linking chemistry.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>This hydrogel chemistry is advantageous for cell delivery due to the mild reaction that occurs rapidly enough for in situ delivery, while easily lending itself to “plug-and-play” design variations such as incorporation of enzyme-cleavable cross-links and cell-adhesion peptides.</segment>    </body>
+</document>

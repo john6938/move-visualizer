@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_88.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Due to their noise amplification, conventional Zero-Forcing (ZF) equalizers are not suited for interference-limited environments such as the Single-Carrier Frequency Division Multiple Access (SC-FDMA) in the presence of Carrier-Frequency Offsets (CFOs) .</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Moreover, they suffer increasing complexity with the number of subcarriers and in particular with Multiple-Input Multiple-Output (MIMO) systems.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this letter, we propose a Joint Low-Complexity Regularized ZF (JLRZF) equalizer for MIMO SC-FDMA systems to cope with these problems.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The main objective of this equalizer is to avoid the direct matrix inversion by performing it in two steps to reduce the complexity.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We add a regularization term in the second step to avoid the noise amplification.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>From the obtained simulation results, the proposed scheme is able to enhance the system performance with lower complexity and sufficient robustness to estimation errors.</segment>    </body>
+</document>

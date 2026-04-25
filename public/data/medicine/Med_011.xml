@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_011.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the independent associations of antihypertensive drugs with the risk of incident gout among people with hypertension.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Nested case-control study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting UK general practice database, 2000-7.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants All incident cases of gout (n=24?768) among adults aged 20-79 and a random sample of 50?000 matched controls.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure Relative risk of incident gout associated with use of antihypertensive drugs.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results After adjusting for age, sex, body mass index, visits to the general practitioner, alcohol intake, and pertinent drugs and comorbidities, the multivariate relative risks of incident gout associated with current use of antihypertensive drugs among those with hypertension (n=29?138) were 0.87 (95% confidence interval 0.82 to 0.93) for calcium channel blockers, 0.81 (0.70 to 0.94) for losartan, 2.36 (2.21 to 2.52) for diuretics, 1.48 (1.40 to 1.57) for ß blockers, 1.24 (1.17 to 1.32) for angiotensin converting enzyme inhibitors, and 1.29 (1.16 to 1.43) for non-losartan angiotensin II receptor blockers.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Similar results were obtained among those without hypertension.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The multivariate relative risks for the duration of use of calcium channel blockers among those with hypertension were 1.02 for less than one year, 0.88 for 1-1.9 years, and 0.75 for two or more years and for use of losartan they were 0.98, 0.87, and 0.71, respectively (both P&lt;0.05 for trend).</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions Compatible with their urate lowering properties, calcium channel blockers and losartan are associated with a lower risk of incident gout among people with hypertension.</segment> <segment id='10' features='rhetorical_moves;discussion' state='active'>By contrast, diuretics, ß blockers, angiotensin converting enzyme inhibitors, and non-losartan angiotensin II receptor blockers are associated with an increased risk of gout.</segment>    </body>
+</document>

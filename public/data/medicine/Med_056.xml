@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_056.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To determine if patients with rheumatoid arthritis have increased risk of atrial fibrillation and stroke.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Longitudinal nationwide register based cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Inpatient and outpatient hospital care in Denmark from 1997 to 2009.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Entire Danish population aged over 15 years without rheumatoid arthritis, atrial fibrillation, or stroke before 1997.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Participants with rheumatoid arthritis were identified by individual level linkage of diagnoses and rheumatoid arthritis treatment.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Rates of atrial fibrillation and stroke.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Of 4?182?335 participants included in the cohort, 18?247 were identified as having rheumatoid arthritis during follow-up, with a mean age at disease onset of 59.2 years and a median follow-up of 4.8 years.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>A total of 156?484 people, including 774 with rheumatoid arthritis, were diagnosed as having atrial fibrillation (age and sex matched event rates of 8.2 per 1000 person years in rheumatoid arthritis patients and 6.0 per 1000 person years in the general population), with an adjusted incidence rate ratio of 1.41 (95% confidence interval 1.31 to 1.51).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>In addition, 165?343 people, including 718 with rheumatoid arthritis, had a stroke (7.6 per 1000 person years in rheumatoid arthritis and 5.7 per 1000 person years in the general population), with a resultant rate ratio of 1.32 (1.22 to 1.42).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>For both atrial fibrillation and stroke, relative risks were increased in all strata based on thirds of sex and age, with higher relative risks in younger patients but higher absolute risk differences in older patients.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Rheumatoid arthritis was associated with an increased incidence of atrial fibrillation and stroke.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>The novel finding of increased risk of atrial fibrillation in rheumatoid arthritis suggests that this arrhythmia is relevant in cardiovascular risk assessment of these patients.</segment>    </body>
+</document>

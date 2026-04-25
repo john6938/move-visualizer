@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_61.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a low-complexity video coding scheme based upon 2-D singular value decomposition (2-D SVD), which exploits basic temporal correlation in visual signals without resorting to motion estimation (ME).</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active' comment='method embedded as prepositional phrase in theme position'>By exploring the energy compaction property of 2-D SVD coefficient matrices, high coding efficiency is achieved.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The proposed scheme is for the better compromise of computational complexity and temporal redundancy reduction, i.e., compared with the existing video coding methods.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In addition, the problems caused by frame decoding dependence in hybrid video coding, such as unavailability of random access, are avoided.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The comparison of the proposed 2-D SVD coding scheme with the existing relevant non-ME-based low-complexity codecs shows its advantages and potential in applications.</segment>    </body>
+</document>

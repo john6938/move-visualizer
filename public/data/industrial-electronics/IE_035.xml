@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_035.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Synchronous rectification has previously been adopted in switched-mode circuits for reducing the conduction losses particularly in high-frequency, low-voltage, and high-current applications.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a generalized “self-driven” ac-dc synchronous rectification technique that can be used even at mains frequency to develop an ac-dc synchronous rectifier that behaves like a diode bridge but with much reduced conduction losses and without control integrated circuits.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>This generalized concept can be extended from single-phase to multiphase systems.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Experiments based on 1- and 2-kW single-phase systems have been successfully conducted for capacitive, inductive, and resistive loads.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Very significant power loss reduction (over 50%) has been achieved in the rectification stage at both 110- and 220-V ac mains operations.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>This patent-pending circuit can be regarded as a direct replacement of a general-purpose diode rectifier.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>Due to the reduction of power loss, further reduction in the size and cost of the heat sink or thermal management for the power circuit becomes possible.</segment>     </body>
+</document>

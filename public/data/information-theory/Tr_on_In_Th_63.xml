@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_63.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we answer several open questions related to diversity-multiplexing tradeoffs (DMTs) for point-to-point and multiple-access (MAC) MIMO channels.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active' comment='embedded method'>By analyzing the DMT performance of a simple code, we show that the optimal MAC-DMT holds even when the channel remains fixed for less than Knt+nr-1 channel uses, where K is the number of users, nt is the number of transmit antennas of each user, and nr is the number of receive antennas at receiver.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We also prove that the simple code is MAC-DMT optimal.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>A general code design criterion for constructing MAC-DMT optimal codes that is much more relaxed than the previously known design criterion is provided.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Finally, by changing some design parameters, the simple code is modified for use in point-to-point MIMO channels.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We show the modified code achieves the same DMT performance as the Gaussian random code.</segment>    </body>
+</document>

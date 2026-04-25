@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_099.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether there is a relation between aortic diameter and morbidity and mortality in men screened for abdominal aortic aneurysm.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Highland and Western Isles (a large, sparsely populated area of Scotland).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 8146 men aged 65-74.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Morbidity and mortality in relation to presence of abdominal aortic aneurysm and three categories of aortic diameter (=24 mm, 25-29 mm, and =30 mm).</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results When screened, 414 men (5.1%) had an aneurysm (diameter =30 mm), 669 (8.2%) an aortic diameter of 25-29 mm, and 7063 (86.7%) an aortic diameter of =24 mm.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The cohort was followed up for a median of 7.4 (interquartile range 6.9-8.2) years.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Mortality was significantly associated with aortic diameter: 512 (7.2%) men in the =24 mm group died compared with 69 (10.3%) in the 25-29 mm group and 73 (17.6%) in the =30 mm group.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>The mortality risk in men with an aneurysm or with an aorta measuring 25-29 mm was significantly higher than in men with an aorta of =24 mm.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>The increased mortality risk in the 25-29 mm group was reduced when taking confounders such as smoking and known heart disease into account.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>After adjustment, compared with men with an aortic diameter of =24 mm, the risk of hospital admission for cardiovascular disease and chronic obstructive pulmonary disease was significantly higher in men with aneurysm and those with aortas measuring 25-29 mm.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Men with an aneurysm also had an increased risk of hospital admission for cerebrovascular disease, atherosclerosis, peripheral arterial disease, and respiratory disease.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>In men with aortas measuring 25-29 mm, the risk of hospital admission with abdominal aortic aneurysm was significantly higher than in men with an aorta of =24 mm (adjusted hazard ratio 6.7, 99% confidence interval 3.4 to 13.2) and this increased risk became apparent two years after screening.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusions Men with abdominal aortic aneurysm and those with aortic diameters measuring 25-29 mm have an increased risk of mortality and subsequent hospital admissions compared with men with an aorta diameter of =24 mm.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>Consideration should be given to control of risk factors and to rescreening men with aortas measuring 25-29 mm at index scanning.</segment>    </body>
+</document>

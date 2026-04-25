@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_93.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper investigates a type of attacks on a cognitive radio (CR) network, most active band (MAB) attack, where an attacker or a malicious CR node senses/determines the most active band within a multi-band CR network and targets this band through a denial of service (DoS) attack.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a countermeasure strategy, coordinated concealment strategy (CCS), to counter the MAB attack.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Our results show that CCS significantly outperforms CR&apos;s inherent capability of signal/interference avoidance under a MAB attack.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We also introduce power control in CCS to further improve the countermeasure performance in terms of the percentage of survival nodes.</segment>    </body>
+</document>

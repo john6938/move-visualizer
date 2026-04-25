@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_36.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Halftone dot orientation modulation has recently been proposed as a method for data hiding in printed images.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Extraction of data embedded with halftone orientation modulation is accomplished by computing, from the scanned hardcopy image, detection statistics that uniquely identify the embedded orientation.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>From a communications perspective, this data hiding setup forms an interesting class of channels with dot orientation as input and a vector of statistics as the output.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This paper derives capacity expressions for these channels that allow for numerical evaluation of the capacity.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Results provide significant insight for orientation modulation based print-scan resilient data hiding: the capacity varies significantly as a function of the image graylevel and experimentally observed error free data rates closely mirror the variation in capacity.</segment>    </body>
+</document>

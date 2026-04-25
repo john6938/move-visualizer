@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_036.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A reversible interlocker that is inspired by the wing locking device of beetles is presented.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>It exploits the van der Waals force-assisted binding between high-aspect-ratio polymer fibers.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The two-layered interlocker is highly flexible and displays an extremely high shear locking force and easy normal lift-off.</segment>    </body>
+</document>

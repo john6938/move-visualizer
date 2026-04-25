@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_53.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>A density ratio is defined by the ratio of two probability densities.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>We study the inference problem of density ratios and apply a semiparametric density-ratio estimator to the two-sample homogeneity test.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>In the proposed test procedure, the f-divergence between two probability densities is estimated using a density-ratio estimator.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The f -divergence estimator is then exploited for the two-sample homogeneity test.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We derive an optimal estimator of f-divergence in the sense of the asymptotic variance in a semiparametric setting, and provide a statistic for two-sample homogeneity test based on the optimal estimator.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We prove that the proposed test dominates the existing empirical likelihood score test.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Through numerical studies, we illustrate the adequacy of the asymptotic theory for finite-sample inference.</segment>    </body>
+</document>

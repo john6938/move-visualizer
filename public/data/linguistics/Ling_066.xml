@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_066.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Contemporary inoculation scholarship has focused on the process of resistance to persuasion, and recently begun to examine various incidental effects that may accompany inoculation treatments.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study considers how talk fits within both of these areas, not only as a byproduct of inoculation, but also as a potentially important contributor to the process of resistance.</segment> <segment id='3' features='rhetorical_moves' state='active'>Results indicate inoculation not only enhances talk about the target issue, but such talk appears to bolsters resistance to subsequent counterattitudinal messages.</segment>    </body>
+</document>

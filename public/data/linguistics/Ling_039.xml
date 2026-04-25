@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_039.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>To deepen our understanding of the relationship between social media and political change during the Egyptian uprising of early 2011, events in Tahrir Square must be situated in a larger context of media use and recent history of online activism.</segment> <segment id='2' features='rhetorical_moves' state='active'>For several years, the most successful social movements in Egypt, including Kefaya, the April 6th Youth, and We are all Khaled Said, were those using social media to expand networks of disaffected Egyptians, broker relations between activists, and globalize the resources and reach of opposition leaders.</segment> <segment id='3' features='rhetorical_moves' state='active'>Social media afforded these opposition leaders the means to shape repertoires of contention, frame the issues, propagate unifying symbols, and transform online activism into offline protests.</segment>    </body>
+</document>

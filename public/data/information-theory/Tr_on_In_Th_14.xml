@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_14.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In an earlier transactions paper, Rosnes and Ytrehus presented an efficient algorithm for determining all stopping sets of low-density parity-check (LDPC) codes, up to a specified weight, and also gave results for a number of well-known codes including the family of IEEE 802.16e LDPC codes, commonly referred to as the WiMax codes.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>It is the purpose of this short paper to review the algorithm for determining the initial part of the stopping set weight spectrum (which includes the codeword weight spectrum), and to provide some improvements to the algorithm.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>As a consequence, complete stopping set weight spectra up to weight 32 (for selected IEEE 802.16e LDPC codes) can be provided, while in previous work only stopping set weights up to 28 are reported.</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>In the published standard for the IEEE 802.16e codes there are two methods of construction presented, depending upon the code rate and the code length.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>We compare the stopping sets of the resulting codes and provide complete stopping set weight spectra (up to five terms) for all IEEE 802.16e LDPC codes using both construction methods.</segment>    </body>
+</document>

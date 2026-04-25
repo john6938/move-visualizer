@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_80.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This correspondence describes a publicly available database of eye-tracking data, collected on a set of standard video sequences that are frequently used in video compression, processing, and transmission simulations.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>A unique feature of this database is that it contains eye-tracking data for both the first and second viewings of the sequence.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>We have made available the uncompressed video sequences and the raw eye-tracking data for each sequence, along with different visualizations of the data and a preliminary analysis based on two well-known visual attention models.</segment>    </body>
+</document>

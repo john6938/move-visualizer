@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_022.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Staining and etching is developed for the fabrication of two-dimensional arrays and three-dimensional foam-like metallic nanostructures from a piece of tissue using a combination of metal staining and oxygen plasma etching.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This novel nanofabrication technique is repeatable and cost effective, which are very attractive features from the perspective of nanomanufacturing process.</segment>    </body>
+</document>

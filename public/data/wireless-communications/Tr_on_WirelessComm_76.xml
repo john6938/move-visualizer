@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_76.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We consider an energy constrained wireless sensor network, with arbitrary number of nodes, where source nodes utilize Slepian-Wolf (SW) coding before transmission to a joint decoder.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We investigate optimal and near-optimal SW coding rates, transmit powers, and transmit durations that maximize the number of collected samples during the network lifetime, subject to channel capacity, SW rate region, and residual energy constraints.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We find optimal (near-optimal) closed-form solutions in the absence (presence) of an energy constraint at the joint decoder.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We take into account the energy consumption of SW encoding and decoding and communication circuitry.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Numerical results demonstrate the effectiveness of the proposed optimization, especially when the joint decoder is not energy constrained.</segment>    </body>
+</document>

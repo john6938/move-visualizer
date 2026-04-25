@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_079.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Two experiments investigated when and how politicians&apos; Twitter communication affects the public&apos;s cognitive, affective, and behavioral reactions, focusing on the effects of message personalization.</segment> <segment id='2' features='rhetorical_moves' state='active'>In Study 1, personalized (vs. depersonalized) messages significantly enhanced message recognition and recall, but they heightened perceived presence of and imagined intimacy with the candidate only among more affiliative individuals, while lowering the willingness to vote for him among less affiliative ones.</segment> <segment id='3' features='rhetorical_moves' state='active'>In Study 2, although personalized messages improved message encoding and retrieval, they induced stronger perceived intimacy with and more positive evaluations of the in-group candidate only among those with weak party identification.</segment> <segment id='4' features='rhetorical_moves' state='active'>By contrast, those attaching greater value to their party affiliation responded negatively to the personalized messages and showed robust in-group favoritism.</segment>    </body>
+</document>

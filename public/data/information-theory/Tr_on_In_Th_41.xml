@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_41.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we present a new analog error correcting coding scheme for real valued signals that are corrupted by impulsive noise.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active' comment='method embedded as preposition phrase'>This product code improves Donoho&apos;s deterministic construction by using a probabilistic approach.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>More specifically, our construction corrects more errors than the Donoho matrices by allowing a vanishingly small probability of error (with the increase in block size).</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The problem of decoding the long block code is decoupled into two sets of parallel Linear Programming problems.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This leads to a significant reduction in decoding complexity as compared to one-step Linear Programming decoding.</segment>    </body>
+</document>

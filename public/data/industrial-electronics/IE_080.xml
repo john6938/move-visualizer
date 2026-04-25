@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_080.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this paper, the application of optimal state estimation and optimal state feedback algorithms for real-time active magnetic bearing control is treated.</segment> <segment id='2' features='rhetorical_moves' state='active'>A linear quadratic Gaussian controller, consisting of an extended Kalman filter and an optimal state feedback regulator, is implemented.</segment> <segment id='3' features='rhetorical_moves' state='active'>It is shown that this controller yields improved rotor positioning accuracy, better system dynamics, higher bearing stiffness, and reduced control energy effort compared to the conventionally used proportional-integral-differential control approaches.</segment> <segment id='4' features='rhetorical_moves' state='active'>In addition, a method for compensating unbalance-caused forces and vibrations of the magnetically levitated rotor is presented which is based on the estimation of unknown disturbance forces.</segment> <segment id='5' features='rhetorical_moves' state='active'>All results achieved in this paper are verified by means of measurements.</segment> <segment id='6' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

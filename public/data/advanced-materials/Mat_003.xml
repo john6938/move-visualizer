@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_003.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A relaxor ferroelectric polymer poly(vinylidene fluoride-trifluoroethylene-chlorofloroethylene) exhibits a high relative dielectric constant (k) (~60).</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The high-k polymer is used successfully in solution processable low-voltage OTFTs as the gate insulator for the first time.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Both n-channel and p-channel OTFTs based on conjugated polymers are fabricated and show carrier mobilities higher than 0.1 cm2 V-1 s-1 at an operating voltage of 3 V.</segment>    </body>
+</document>

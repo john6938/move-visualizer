@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_012.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>With the ever increasing number of studies on formulaic language, we are beginning to learn more about the processing of formulaic language (e.g. Ellis et al.</segment> <segment id='2' features='rhetorical_moves' state='active'>2008; Siyanova et al.</segment> <segment id='3' features='rhetorical_moves' state='active'>2011), its use in speech (e.g. Aijmer 1996; Wood 2012) and writing (e.g. Hyland 2008a, 2008b) and its application in natural language processing (e.g. Tschichold 2000).</segment> <segment id='4' features='rhetorical_moves' state='active'>The problem is, however, that we know only very little about the prosody of formulaic language.</segment> <segment id='5' features='rhetorical_moves' state='active'>This article calls for more attention to the prosody of formulaic language in applied linguistics.</segment> <segment id='6' features='rhetorical_moves' state='active'>It is argued that prosody underlies not only the use and the validation of formulaic language, but also its learning and memory.</segment> <segment id='7' features='rhetorical_moves' state='active'>While child first language learners’ learning and memory of formulaic language is prosody-driven, English-as-a-Foreign-Language (EFL) learners cannot benefit from the same mechanism in their learning of formulaic language due to the poverty of spontaneous spoken English input.</segment> <segment id='8' features='rhetorical_moves' state='active'>The lack of opportunity to hear the prosody of formulaic language may partly explain the various difficulties EFL learners have with formulaic language.</segment>    </body>
+</document>

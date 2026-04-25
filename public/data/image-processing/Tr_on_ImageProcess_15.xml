@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_15.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Compressed-sensing methodology typically employs random projections simultaneously with signal acquisition to accomplish dimensionality reduction within a sensor device.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>The effect of such random projections on the preservation of anomalous data is investigated.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The popular RX anomaly detector is derived for the case in which global anomalies are to be identified directly in the random-projection domain, and it is determined via both random simulation, as well as empirical observation that strongly anomalous vectors are likely to be identifiable by the projection-domain RX detector even in low-dimensional projections.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Finally, a reconstruction procedure for hyperspectral imagery is developed wherein projection-domain anomaly detection is employed to partition the data set, permitting anomaly and normal pixel classes to be separately reconstructed in order to improve the representation of the anomaly pixels.</segment>    </body>
+</document>

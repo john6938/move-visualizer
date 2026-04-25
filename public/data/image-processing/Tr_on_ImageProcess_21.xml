@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_21.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a novel online learning-based framework for occlusion boundary detection in video sequences.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>This approach does not require any prior training and instead glearnsh occlusion boundaries by updating a set of weights for the online learning Hedge algorithm at each frame instance.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Whereas previous training-based methods perform well only on data similar to the trained examples, the proposed method is well suited for any video sequence.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We demonstrate the performance of the proposed detector both for the CMU data set, which includes hand-labeled occlusion boundaries, and for a novel video sequence.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>In addition to occlusion boundary detection, the proposed algorithm is capable of classifying occlusion boundaries by angle and by whether the occluding object is covering or uncovering the background.</segment>    </body>
+</document>

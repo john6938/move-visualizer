@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_077.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>The phase diagram of the redox active ionic liquid 1-methyl-3-propylimidazolium iodide (PMII) is examined as a function of temperature and iodine concentration.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Beyond a threshold concentration of 3.9 M, the formation of higher polyiodides gives rise to a viscoelastic phase upon cooling.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Despite of the very high viscosity of such polyiodide-containing PMII melts a strikingly high conductivity is maintained through Grotthuss-type bond exchange and ionic conduction.</segment>    </body>
+</document>

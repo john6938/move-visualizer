@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_7.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A power-constrained contrast-enhancement algorithm for emissive displays based on histogram equalization (HE) is proposed in this paper.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We first propose a log-based histogram modification scheme to reduce overstretching artifacts of the conventional HE technique.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Then, we develop a power-consumption model for emissive displays and formulate an objective function that consists of the histogram-equalizing term and the power term.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>By minimizing the objective function based on the convex optimization theory, the proposed algorithm achieves contrast enhancement and power saving simultaneously.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Moreover, we extend the proposed algorithm to enhance video sequences, as well as still images.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results demonstrate that the proposed algorithm can reduce power consumption significantly while improving image contrast and perceptual quality.</segment>    </body>
+</document>

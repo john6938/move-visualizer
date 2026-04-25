@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_29.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Although attempts have been made to solve the problem of clustering categorical data via cluster ensembles, with the results being competitive to conventional algorithms, it is observed that these techniques unfortunately generate a final data partition based on incomplete information.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>The underlying ensemble-information matrix presents only cluster-data point relations, with many entries being left unknown.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>The paper presents an analysis that suggests this problem degrades the quality of the clustering result, and it presents a new link-based approach, which improves the conventional matrix by discovering unknown entries through similarity between clusters in an ensemble.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>In particular, an efficient link-based algorithm is proposed for the underlying similarity assessment.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Afterward, to obtain the final clustering result, a graph partitioning technique is applied to a weighted bipartite graph that is formulated from the refined matrix.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Experimental results on multiple real data sets suggest that the proposed link-based method almost always outperforms both conventional clustering algorithms for categorical data and well-known cluster ensemble techniques.</segment>    </body>
+</document>

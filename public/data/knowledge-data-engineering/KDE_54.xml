@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_54.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Discovering semantic knowledge is significant for understanding and interpreting how people interact in a meeting discussion.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a mining method to extract frequent patterns of human interaction based on the captured content of face-to-face meetings.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>Human interactions, such as proposing an idea, giving comments, and expressing a positive opinion, indicate user intention toward a topic or role in a discussion.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Human interaction flow in a discussion session is represented as a tree.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Tree-based interaction mining algorithms are designed to analyze the structures of the trees and to extract interaction flow patterns.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The experimental results show that we can successfully extract several interesting patterns that are useful for the interpretation of human behavior in meeting discussions, such as determining frequent interactions, typical interaction flows, and relationships between different types of interactions.</segment>    </body>
+</document>

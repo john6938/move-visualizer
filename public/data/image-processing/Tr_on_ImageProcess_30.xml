@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_30.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A multiple exposure fusion to enhance the dynamic range of an image is proposed.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The construction of high dynamic range images (HDRIs) is performed by combining multiple images taken with different exposures and estimating the irradiance value for each pixel.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>This is a common process for HDRI acquisition.</segment> <segment id='4' features='rhetorical_moves;introduction;problem' state='active'>During this process, displacements of the images caused by object movements often yield motion blur and ghosting artifacts.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>To address the problem, this paper presents an efficient and accurate multiple exposure fusion technique for the HDRI acquisition.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Our method simultaneously estimates displacements and occlusion and saturation regions by using maximum a posteriori estimation and constructs motion-blur-free HDRIs.</segment> <segment id='7' features='rhetorical_moves;result;methodasproduct' state='active'>We also propose a new weighting scheme for the multiple image fusion.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>We demonstrate that our HDRI acquisition algorithm is accurate, even for images with large motion.</segment>    </body>
+</document>

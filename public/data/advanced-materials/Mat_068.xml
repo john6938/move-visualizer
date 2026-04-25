@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_068.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Kinetically assembled nanoparticles are fabricated from an advanced class of bioactive macromolecules that have potential utility in counteracting atherosclerotic plaque development via receptor-level blockage of inflammatory cells.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>In contrast to micellar analogs that exhibit poor potency and structural integrity under physiologic conditions, these kinetic nanoparticle assemblies maintain structural stability and demonstrate superior bioactivity in mediating oxidized low-density lipoprotein (oxLDL) uptake in inflammatory cells.</segment>    </body>
+</document>

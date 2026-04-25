@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_68.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper considers a random access system where each sender is in one of two possible states, active or not active, and the states are only known to the common receiver.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Active senders encode data into independent information streams, a subset of which is decoded depending on the collective interference.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>An information-theoretic formulation of the problem is presented and the set of achievable rates is characterized with a guaranteed gap to optimality.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Inner and outer bounds on the capacity region of a two-sender system are tight in the case of a binary-expansion deterministic channel and differ by less than one bit in the case of a Gaussian channel.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>In systems with an arbitrary number of senders, the symmetric scenario of equal access probabilities and received power constraints is studied and the system throughput, i.e., the maximum achievable expected sum rate, is characterized.</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>It is shown that a simple coding scheme where active senders transmit a single message is optimum for a binary-expansion deterministic channel and achieves within one bit of the optimum in the case of a Gaussian channel.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active' comment='emdedded method'>Finally, a comparison with the slotted ALOHA protocol is provided, showing that encoding rate adaptation at the transmitters achieves constant (rather than zero) throughput as the number of users tends to infinity.</segment>
+
+    </body>
+</document>

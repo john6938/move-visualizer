@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_073.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>On the basis of a televised debate in the 2005 German national election, this study compares the influence of verbal, visual, and vocal communication on viewers&apos; immediate impressions of political candidates by using an innovative research design.</segment> <segment id='2' features='rhetorical_moves' state='active'>A second-by-second content analysis of 17 verbal, visual, and vocal message elements is combined with a second-by-second analysis of viewers&apos; immediate impressions using continuous response measurement (CRM).</segment> <segment id='3' features='rhetorical_moves' state='active'>Findings show that viewers&apos; immediate impressions are mainly influenced by verbal communication, especially the issues discussed and the argumentative structure used.</segment> <segment id='4' features='rhetorical_moves' state='active'>In contrast to that, the effect of nonverbal communication is far smaller.</segment> <segment id='5' features='rhetorical_moves' state='active'>The causes and implications of these findings are discussed.</segment>    </body>
+</document>

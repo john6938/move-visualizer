@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_43.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper presents a novel cluster-oriented ensemble classifier.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The proposed ensemble classifier is based on original concepts such as learning of cluster boundaries by the base classifiers and mapping of cluster confidences to class decision using a fusion classifier.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The categorized data set is characterized into multiple clusters and fed to a number of distinctive base classifiers.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The base classifiers learn cluster boundaries and produce cluster confidence vectors.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>A second level fusion classifier combines the cluster confidences and maps to class decisions.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>The proposed ensemble classifier modifies the learning domain for the base classifiers and facilitates efficient learning.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>The proposed approach is evaluated on benchmark data sets from UCI machine learning repository to identify the impact of multicluster boundaries on classifier learning and classification accuracy.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The experimental results and two-tailed sign test demonstrate the superiority of the proposed cluster-oriented ensemble classifier over existing ensemble classifiers published in the literature.</segment>    </body>
+</document>

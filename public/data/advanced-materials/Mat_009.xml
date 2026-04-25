@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_009.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A novel solid electrolyte with a three-dimensional ionic channel is used in a solid-state dye-sensitized solar cell, which produces a power conversion efficiency of 6.63% with a fill factor of 0.73.</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>The findings presented will pave a new way for the design of new solid electrolytes towards high-efficiency solid state dye-sensitized solar cells.</segment>    </body>
+</document>

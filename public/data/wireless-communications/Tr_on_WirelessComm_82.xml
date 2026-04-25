@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_82.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We deal with the construction of optimal channel shortening, also known as combined linear Viterbi detection, algorithms for ISI and MIMO channels.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>In the case of MIMO channel shortening, the tree structure to represent MIMO signals is replaced by a trellis.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The optimization is performed from an information theoretical perspective and the achievable information rates of the shortened models are derived and optimized.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Closed form expressions for all components of the optimal detector of the class are derived.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Furthermore, we show that previously published channel shortening algorithms can be seen as special cases of the derived model.</segment>    </body>
+</document>

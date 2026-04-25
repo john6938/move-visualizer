@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_2.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>The problem of finding a minimum decomposition of a permutation in terms of transpositions with predetermined non-uniform and non-negative costs is addressed.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>Alternatively, computing the transposition distance between two permutations, where transpositions are endowed with arbitrary non-negative costs, is studied.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>For such cost functions, polynomial-time, constant-approximation decomposition algorithms are described.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>For metric-path costs, exact polynomial-time decomposition algorithms are presented.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The algorithms in this paper represent a combination of Viterbi-type algorithms and graph-search techniques for minimizing the cost of individual transpositions, and dynamic programing algorithms for finding minimum cost decompositions of cycles.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>The presented algorithms have a myriad of applications in information theory, bioinformatics, and algebra.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_84.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Direct-conversion radio architecture is a low-cost, low-power and small-size design that has been widely employed in today&apos;s wireless devices.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>This architecture, however, induces radio impairments such as I-Q imbalance and dc offset that may incur severe degradation in communication performance if left uncompensated.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a new method is proposed to calibrate simultaneously a transceiver&apos;s own transmitter and receiver radio impairments with no dedicated analog circuit in the feedback loop.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Based on a unified time-domain approach, the proposed method is able to calibrate jointly the frequency-independent I-Q imbalance, frequency-dependent I-Q imbalance and dc offset and is applicable to any type of communication systems (single-carrier, multiple-carrier, etc.).</segment> <segment id='6' features='rhetorical_moves;introduction;background' state='active'>The existing methods in the literature either need a dedicated analog circuit in the feedback loop and/or are applicable only to a particular type of systems with some radio impairments present.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>The issue of training sequence design is also investigated to optimize the calibration performance, and analytical and simulation results show that the performance loss due to radio impairments can be recovered by the proposed method.</segment>    </body>
+</document>

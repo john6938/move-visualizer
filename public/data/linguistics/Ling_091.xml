@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_091.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>If two centrally presented visual stimuli occur within approximately half a second of each other, the second target often fails to be reported correctly.</segment> <segment id='2' features='rhetorical_moves' state='active'>This effect, called the attentional blink (AB; Raymond, J. E., Shapiro, K. L., &amp; Arnell, K. M. Temporary suppression of visual processing in an RSVP task: An attentional blink?</segment> <segment id='3' features='rhetorical_moves' state='active'>Journal of Experimental Psychology, Human Perception and Performance, 18, 849–860, 1992], has been attributed to a resource “bottleneck,” likely arising as a failure of attention during encoding into or retrieval from visual working memory (WM).</segment> <segment id='4' features='rhetorical_moves' state='active'>Here we present participants with a hybrid WM–AB study while they undergo fMRI to provide insight into the neural underpinnings of this bottleneck.</segment> <segment id='5' features='rhetorical_moves' state='active'>Consistent with a WM-based bottleneck account, fronto-parietal brain areas exhibited a WM load-dependent modulation of neural responses during the AB task.</segment> <segment id='6' features='rhetorical_moves' state='active'>These results are consistent with the view that WM and attention share a capacity-limited resource and provide insight into the neural structures that underlie resource allocation in tasks requiring joint use of WM and attention.</segment>    </body>
+</document>

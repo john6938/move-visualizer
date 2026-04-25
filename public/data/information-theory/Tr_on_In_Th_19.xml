@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_19.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The low-rank matrix completion problem can be succinctly stated as follows: given a subset of the entries of a matrix, find a low-rank matrix consistent with the observations.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>While several low-complexity algorithms for matrix completion have been proposed so far, it remains an open problem to devise -type search procedures with provable performance guarantees.</segment> <segment id='3' features='rhetorical_moves;introduction;problem' state='active'>The standard approach to the problem, which involves the minimization of an objective function defined using the Frobenius metric, has inherent difficulties: the objective function is not continuous and the solution set is not closed.</segment> <segment id='4' features='rhetorical_moves;purpose' state='active'>To address this problem, we consider an optimization procedure that searches for a column (or row) space that is geometrically consistent with the partial observations.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The geometric objective function is continuous everywhere and the solution set is the closure of the solution set of the Frobenius metric.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We also preclude the existence of local minimizers, and hence establish strong performance guarantees, for special completion scenarios, which do not require matrix incoherence and hold with probability one for arbitrary matrix size.</segment>    </body>
+</document>

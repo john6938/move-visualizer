@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_19.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Existing distance measures of time series such as the euclidean distance, DTW, and EDR are inadequate in handling certain degrees of amplitude shifting and scaling variances of data items.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a novel distance measure of time series, Spatial Assembling Distance (SpADe), that is able to handle noisy, shifting, and scaling in both temporal and amplitude dimensions.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We further apply the SpADe to the application of streaming pattern detection, which is very useful in trend-related analysis, sensor networks, and video surveillance.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Our experimental results on real time series data sets show that SpADe is an effective distance measure of time series.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, high accuracy and efficiency are achieved by SpADe for continuous pattern detection in streaming time series.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_021.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To examine 25 year trends in first time hospitalisation for acute myocardial infarction in Denmark, subsequent short and long term mortality, and the prognostic impact of sex and comorbidity.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Nationwide population based cohort study using medical registries.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting All hospitals in Denmark.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Subjects 234 331 patients with a first time hospitalisation for myocardial infarction from 1984 through 2008.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Standardised incidence rate of myocardial infarction and 30 day and 31–365 day mortality by sex.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Comorbidity categories were defined as normal, moderate, severe, and very severe according to the Charlson comorbidity index, and were compared by means of mortality rate ratios based on Cox regression.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results The standardised incidence rate per 100 000 people decreased in the 25 year period by 37% for women (from 209 to 131) and by 48% for men (from 410 to 213).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The 30 day, 31–365 day, and one year mortality declined from 31.4%, 15.6%, and 42.1% in 1984–8 to 14.8%, 11.1%, and 24.2% in 2004–8, respectively.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>After adjustment for age at time of myocardial infarction, men and women had the same one year risk of dying.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>The mortality reduction was independent of comorbidity category.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Comparing patients with very severe versus normal comorbidity during 2004–8, the mortality rate ratio, adjusted for age and sex, was 1.96 (95% CI 1.83 to 2.11) within 30 days and 3.89 (3.58 to 4.24) within 31–365 days.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions The rate of first time hospitalisation for myocardial infarction and subsequent short term mortality both declined by nearly half between 1984 and 2008.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The reduction in mortality occurred for all patients, independent of sex and comorbidity.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>However, comorbidity burden was a strong prognostic factor for short and long term mortality, while sex was not.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_090.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To examine the reasons why practices exempt patients from the UK Quality and Outcomes Framework pay for performance scheme (exception reporting) and to identify the characteristics of general practices associated with informed dissent.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective analysis.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Data for 2008-9 extracted from the clinical computing systems of general practices in England.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 8229 English family practices.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Rates of exception reporting for 37 clinical quality indicators, associations of patient and general practice factors with exception rates, and financial gain for practices relating to their use of exception reporting.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The median rate of exception reporting was 2.7% (interquartile range 1.9-3.9%) overall and 0.44% (0.14-1.1%) for informed dissent, but variation in rates was wide between practices and across indicators.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Common reasons for exception reporting were logistical (40.6% of exceptions), clinical contraindication (18.7%), and patient informed dissent (30.1%).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Higher rates of informed dissent were associated with: higher numbers of registered patients, higher levels of local area deprivation, and failure of the practice to secure maximum remuneration in the previous year.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Exception reporting increased the cost of the scheme by £30?844?500 (€36?877?700; $49?053?200) (£0.58 per patient), with two indicators accounting for a quarter of this additional cost.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions The provision to exception report enables practices to exempt dissenting patients without being financially penalised.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>Relatively few patients were excluded for informed dissent, however, suggesting that the incentivised activities were broadly acceptable to patients.</segment>    </body>
+</document>

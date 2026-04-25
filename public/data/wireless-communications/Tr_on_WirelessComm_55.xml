@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_55.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This letter investigates masked beamforming schemes for multiuser multiple-input multiple-output (MIMO) downlink systems in the presence of an eavesdropper.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>With noisy and outdated channel state information (CSI) at the base station (BS), we aim to maximize the transmit power of an artificial noise, which is broadcast to jam any potential eavesdropper, while meeting individual minimum mean square error (MMSE) constraints of the desired user links.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>To this end, we adopt a Bayesian approach and derive an average MSE uplink-downlink duality with imperfect CSI.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Using the duality, a robust beamforming algorithm is proposed.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results show the effectiveness of the proposed scheme.</segment>    </body>
+</document>

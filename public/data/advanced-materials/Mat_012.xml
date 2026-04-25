@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_012.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Polycrystalline graphene sensors easily obtained through chemical vapor deposition (CVD) have been developed for chemical sensing.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We show that linear defects or continuous lines of point defects on these sensors result in significantly higher sensitivity than that of pristine graphene and carbon nanotube film sensors.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>Further sensitivity enhancement is obtained by cutting the graphene into ribbons of width comparable to the linear defect dimensions (micrometers).</segment>    </body>
+</document>

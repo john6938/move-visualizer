@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_064.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate the association between low functional health literacy (ability to read and understand basic health related information) and mortality in older adults.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Population based longitudinal cohort study based on a stratified random sample of households.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting England.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 7857 adults aged 52 or more who participated in the second wave (2004-5) of the English Longitudinal Study of Ageing and survived more than 12 months after interview.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Participants completed a brief four item test of functional health literacy, which assessed understanding of written instructions for taking an aspirin tablet.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measure Time to death, based on all cause mortality through October 2009.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Health literacy was categorised as high (maximum score, 67.2%), medium (one error, 20.3%), or low (more than one error, 12.5%).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>During follow-up (mean 5.3 years) 621 deaths occurred: 321 (6.1%) in the high health literacy category, 143 (9.0%) in the medium category, and 157 (16.0%) in the low category.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>After adjusting for personal characteristics, socioeconomic position, baseline health, and health behaviours, the hazard ratio for all cause mortality for participants with low health literacy was 1.40 (95% confidence interval 1.15 to 1.72) and with medium health literacy was 1.15 (0.94 to 1.41) compared with participants with high health literacy.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Further adjustment for cognitive ability reduced the hazard ratio for low health literacy to 1.26 (1.02 to 1.55).</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions A third of older adults in England have difficulties reading and understanding basic health related written information.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Poorer understanding is associated with higher mortality.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The limited health literacy capabilities within this population have implications for the design and delivery of health related services for older adults in England.</segment>    </body>
+</document>

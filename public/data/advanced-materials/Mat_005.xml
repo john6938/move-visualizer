@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_005.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Ag2S nanocrystals (NCs) are embedded into a GeS2 matrix while controlling the size, shape, and interparticle spacing of the Ag2S NCs.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We demonstrate that the ionic and electronic properties of these inorganic nanocomposites can be systematically controlled by varying the diameter of the Ag2S NCs.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We also observe an ionic conductivity enhancement relative to pure Ag2S and (GeS2)0.5(Ag2S)0.5 glass.</segment>    </body>
+</document>

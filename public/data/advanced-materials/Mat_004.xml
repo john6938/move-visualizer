@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_004.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Gold nanocrystals are dispersed uniformly in poly(dimethylsiloxane) to produce a plasmonic composite.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The composite can be readily used to fabricate microfluidic channels.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>An efficient optical heating approach on the microfluidic chips made of the composite is realized on the basis of plasmon-enabled photothermal conversion.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>A fluid flow switch based on the plasmonic heating is also demonstrated.</segment>    </body>
+</document>

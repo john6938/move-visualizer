@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_061.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Research on race in public discourse tends to fall into 1 of 2 categories: Either it focuses broadly on how media communicate about racial groups and frame political issues in racial terms or it focuses specifically on how politicians, in 1 or 2 key speeches, discuss race.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study bridges these approaches.</segment> <segment id='3' features='rhetorical_moves' state='active'>It borrows an analytical strategy from research on race in media but applies this strategy to presidential discourse.</segment> <segment id='4' features='rhetorical_moves' state='active'>Drawing on a content analysis of every mention of race in presidential addresses over 8 decades, we find that presidents have avoided talking about race and especially specific racial groups.</segment> <segment id='5' features='rhetorical_moves' state='active'>We also find that race discourse varies across speech types and that Southern Democrats discuss race differently than do others.</segment>    </body>
+</document>

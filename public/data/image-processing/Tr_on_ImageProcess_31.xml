@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_31.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Mosaicing is largely dependent on the quality of registration among the constituent input images.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>Parallax and object motion present challenges to image registration, leading to artifacts in the result.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>To reduce the impact of these artifacts, traditional image mosaicing approaches often impose planar scene constraints or rely on purely rotational camera motion or dense sampling.</segment> <segment id='4' features='rhetorical_moves;introduction;problem' state='active'>However, these requirements are often impractical or fail to address the needs of all applications.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Instead, taking advantage of depth cues and a smooth transition criterion, we achieve significantly improved mosaicing results for static scenes, coping effectively with nontrivial parallax in the input.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>We extend this approach to the synthesis of dynamic video mosaics, incorporating foreground/background segmentation and a consistent motion perception criterion.</segment> <segment id='7' features='rhetorical_moves;result;methodasproduct' state='active'>Although further additions are required to cope with unconstrained object motion, our algorithm can synthesize a perceptually convincing output, conveying the same appearance of motion as seen in the input sequences.</segment>    </body>
+</document>

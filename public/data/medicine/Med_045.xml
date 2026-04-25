@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_045.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine the relative costs and health effects of interventions to combat cardiovascular disease, diabetes, and tobacco related disease in order to guide the allocation of resources in developing countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis of 123 single or combined prevention and treatment strategies for cardiovascular disease, diabetes, and smoking by means of a lifetime population model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Two World Health Organization sub-regions of the world: countries in sub-Saharan Africa with very high adult and high child mortality (AfrE) and countries in South East Asia with high adult and high child mortality (SearD).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Demographic and epidemiological data were taken from the WHO databases of mortality and global burden of disease.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Estimates of intervention coverage, effectiveness, and resource needs were drawn from clinical trials, observational studies, and treatment guidelines.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Unit costs were taken from the WHO-CHOICE (Choosing Interventions that are Cost-Effective) price database.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Main outcome measures Cost per disability adjusted life year (DALY) averted, expressed in international dollars ($Int) for the year 2005.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results Most of the interventions studied were considered highly cost effective, meaning they generate one healthy year of life at a cost of &lt;$Int2000 (which is the gross domestic product per capita of the two regions considered here).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Interventions that offer particularly good monetary value, and which could be considered for prioritised implementation or scale up, include demand reduction strategies of the Framework Convention for Tobacco Control (&lt;$Int950 and &lt;$Int200 per DALY averted in AfrE and SearD respectively); combination drug therapy for people with a &gt;25% chance of experiencing a cardiovascular event over the next decade, either alone or together with specific multidrug regimens for the secondary prevention of post-acute ischaemic heart disease and stroke (&lt;$Int150 and &lt;$Int230 per DALY averted in AfrE and SearD respectively); and retinopathy screening and glycaemic control for patients with diabetes (&lt;$Int2100 and &lt;$Int950 per DALY averted in AfrE and SearD respectively).</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusion This comparative economic assessment has identified a set of population-wide and individual strategies for prevention and control of cardiovascular disease that are inexpensive and cost effective in low resource settings.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_43.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents a spiking neuroevolutionary system which implements memristors as plastic connections, i.e., whose weights can vary during a trial.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The evolutionary design process exploits parameter self-adaptation and variable topologies, allowing the number of neurons, connection weights, and interneural connectivity pattern to emerge.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active' comment='method included as subordinate clause'>By comparing two phenomenological real-world memristor implementations with networks comprised of: 1) linear resistors, and 2) constant-valued connections, we demonstrate that this approach allows the evolution of networks of appropriate complexity to emerge whilst exploiting the memristive properties of the connections to reduce learning time.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We extend this approach to allow for heterogeneous mixtures of memristors within the networks; our approach provides an in-depth analysis of network structure.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active' comment='method as independent clause preceeding semicolon'>Our networks are evaluated on simulated robotic navigation tasks; results demonstrate that memristive plasticity enables higher performance than constant-weighted connections in both static and dynamic reward scenarios, and that mixtures of memristive elements provide performance advantages when compared to homogeneous memristive networks.</segment>    </body>
+</document>

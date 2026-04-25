@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_9.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Loss of information in a wavelet domain can occur during storage or transmission when the images are formatted and stored in terms of wavelet coefficients.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This calls for image inpainting in wavelet domains.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>In this paper, a variational approach is used to formulate the reconstruction problem.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>We propose a simple but very efficient iterative scheme to calculate an optimal solution and prove its convergence.</segment> <segment id='5' features='rhetorical_moves;introduction;overview' state='active'>Numerical results are presented to show the performance of the proposed algorithm.</segment>    </body>
+</document>

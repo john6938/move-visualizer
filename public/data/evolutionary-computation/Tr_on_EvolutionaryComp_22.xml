@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_22.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>The dynamic update rule of particle swarm optimization is formulated as a second-order stochastic difference equation and general relations are derived for search focus, search spread, and swarm stability at stagnation.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The relations are applied to three particular particle swarm optimization (PSO) implementations, the standard PSO of Clerc and Kennedy, a PSO with discrete recombination, and the Bare Bones swarm.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The simplicity of the Bare Bones swarm facilitates theoretical analysis and a further no-collapse condition is derived.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>A series of experimental trials confirms that Bare Bones situated at the edge of collapse is comparable to other PSOs, and that performance can be still further improved with the use of an adaptive distribution.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>It is conjectured that, subject to spread, stability and no-collapse, there is a single encompassing particle swarm paradigm, and that an important aspect of parameter tuning within any particular manifestation is to remove any deleterious behavior that ensues from the dynamics.</segment>    </body>
+</document>

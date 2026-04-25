@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_73.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The coinciding development of multiobjective evolutionary algorithms (MOEAs) and the emergence of complex problem formulation in the finance and economics areas has led to a mutual interest from both research communities.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Since the 1990s, an increasing number of works have thus proposed the application of MOEAs to solve complex financial and economic problems, involving multiple objectives.</segment> <segment id='3' features='rhetorical_moves;introduction;overview' state='active' comment='note: this abstract is for a review article'>This paper provides a survey on the state-of-the-art of research, reported in the specialized literature to date, related to this framework.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The taxonomy chosen here makes a distinction between the (widely covered) portfolio optimization problem and the other applications in the field.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>In addition, potential paths for future research within this area are identified.</segment>    </body>
+</document>

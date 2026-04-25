@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_001.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper presents a novel matrix converter with one ac input and two ac outputs.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The presented topology is based on the traditional indirect matrix converter, but with its rear-end six-switch inverter replaced by a compact nine-switch inverter.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>With only three extra switches added, the proposed converter can produce two sets of three-phase ac outputs, whose amplitudes, frequencies, and phases can appropriately be regulated.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Features such as sinusoidal input and outputs, unity input power factor and minimum commutation count are all retained by the proposed topology, despite having an additional output.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Its modulation is realized by the computationally less intensive carrier-based method, whose unique carrier requirements can easily be managed within a programmable logic device.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Mathematical proof for validating sinusoidal input and outputs achieved by this modulation technique is also discussed, before being verified in simulation and experimentally, together with other findings.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_075.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Two active capacitor voltage balancing schemes are proposed for single-phase (H-bridge) flying-capacitor multilevel converters.</segment> <segment id='2' features='rhetorical_moves' state='active'>They are based on the circuit equations of flying-capacitor converters.</segment> <segment id='3' features='rhetorical_moves' state='active'>Consequently, they can be implemented using straightforward control rules.</segment> <segment id='4' features='rhetorical_moves' state='active'>In particular, the first technique is based on an algorithm which follows the standard multilevel modulation.</segment> <segment id='5' features='rhetorical_moves' state='active'>Then, it utilizes a redundant state selection table for capacitor voltage balancing.</segment> <segment id='6' features='rhetorical_moves' state='active'>In the second method, multiple duty cycles are defined and modulated in direct response to the capacitor voltages.</segment> <segment id='7' features='rhetorical_moves' state='active'>The most important advantage of these two proposed methods is that they can be utilized to converters with any desired number of levels in their output voltage.</segment> <segment id='8' features='rhetorical_moves' state='active'>Moreover, the analysis and implementation of both methods are straightforward.</segment> <segment id='9' features='rhetorical_moves' state='active'>Through simulation and experimental implementation, these methods are shown to be effective on capacitor voltage regulation in flying-capacitor multilevel converters.</segment> <segment id='10' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

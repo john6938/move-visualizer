@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_040.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Based on a survey of participants in Egypt&apos;s Tahrir Square protests, we demonstrate that social media in general, and Facebook in particular, provided new sources of information the regime could not easily control and were crucial in shaping how citizens made individual decisions about participating in protests, the logistics of protest, and the likelihood of success.</segment> <segment id='2' features='rhetorical_moves' state='active'>We demonstrate that people learned about the protests primarily through interpersonal communication using Facebook, phone contact, or face-to-face conversation.</segment> <segment id='3' features='rhetorical_moves' state='active'>Controlling for other factors, social media use greatly increased the odds that a respondent attended protests on the first day.</segment> <segment id='4' features='rhetorical_moves' state='active'>Half of those surveyed produced and disseminated visuals from the demonstrations, mainly through Facebook.</segment>    </body>
+</document>

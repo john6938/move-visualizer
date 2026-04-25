@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_85.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Static forecasting of stationary and ergodic time series is considered, i.e., inference of the conditional expectation of the response variable at time zero given the infinite past.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>It is shown that the mean squared error of a combination of suitably defined localized least squares estimates converges to zero for all distributions where the response variable is square integrable.</segment>    </body>
+</document>

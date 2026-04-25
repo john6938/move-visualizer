@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_40.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Smile detection in face images captured in unconstrained real-world scenarios is an interesting problem with many potential applications.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This paper presents an efficient approach to smile detection, in which the intensity differences between pixels in the grayscale face images are used as features.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We adopt AdaBoost to choose and combine weak classifiers based on intensity differences to form a strong classifier.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Experiments show that our approach has similar accuracy to the state-of-the-art method but is significantly faster.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Our approach provides 85% accuracy by examining 20 pairs of pixels and 88% accuracy with 100 pairs of pixels.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We match the accuracy of the Gabor-feature-based support vector machine using as few as 350 pairs of pixels.</segment>    </body>
+</document>

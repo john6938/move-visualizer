@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_004.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This study compares the relative effectiveness of reading and writing sentences for the incidental acquisition of new vocabulary in a second language.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>It also examines if recall varies according to the concreteness of target words.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Participants were 203 French-speaking intermediate and advanced English as second language (ESL) learners, tested for incidental acquisition of 16 rare concrete, or abstract L2 words.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Immediate and delayed cued recall was used to assess acquisition.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Results from immediate recall show superior recall for writing tasks over reading tasks, and for concrete words over abstract words.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>However, delayed recall scores suggest that this superiority disappears over time.</segment>    </body>
+</document>

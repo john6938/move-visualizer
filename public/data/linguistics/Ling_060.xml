@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_060.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Across all age groups, entertainment is one of the most important motivations for media use.</segment> <segment id='2' features='rhetorical_moves' state='active'>Relatively little is known, though, about the development of entertainment experience over the life span.</segment> <segment id='3' features='rhetorical_moves' state='active'>Does entertainment actually mean the same thing to young and older people?</segment> <segment id='4' features='rhetorical_moves' state='active'>Based on theories of adult emotional development, affect regulation, and well-being, this study predicted and found that in terms of entertainment gratifications sought, young adults were more interested than older adults in emotionally intense entertainment experiences such as thrilling and tear-jerking experiences, whereas older adults were more interested in contemplative entertainment experiences.</segment> <segment id='5' features='rhetorical_moves' state='active'>However, in terms of gratifications obtained, ratings of film scenes showed that the same types of gratifications obtained predicted more positive evaluations independent of age.</segment>    </body>
+</document>

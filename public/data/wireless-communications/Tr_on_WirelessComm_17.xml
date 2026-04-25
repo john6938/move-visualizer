@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_17.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We investigate bandwidth allocation in next generation cellular systems employing relays similar to LTE advanced systems with type-I relays.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We jointly optimize the bandwidth and power usage under constraints on required rate, bandwidth and transmit power.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We study scenarios wherein, the relay acts as a forwarder for multiple User Equipments (UEs/users) in both uplink and/or downlink.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This includes scenarios when the relay has its own data to send along with forwarding the data of other users.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We examine the weighted power minimization problem for relaying with multiple users.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active' comment='announcement of results without providinng result'>We also show specific results with N user scenario and also single user case in order to understand how the bandwidth and power are allocated.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Numerical evaluations with N users on a three sector LTE-A cell employing Fractional Frequency Reuse (FFR) indicate that power savings of at least 3 dB can be achieved by optimizing over both bandwidth and power.</segment>    </body>
+</document>

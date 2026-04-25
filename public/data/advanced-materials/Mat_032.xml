@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_032.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Tip fabrication by a new strategy is proposed for simultaneous acquisition of electrochemical (EC) signals from an ultramicroelectrode and spectroscopic information from surface-enhanced Raman scattering (SERS).</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The EC-SERS tip (see figure) is prepared by carefully tuning a SERS-active gold microshell to maximize Raman scattering, mechanically attaching it to the end of a micropipet, and electrically connecting it to a ruthenium inner layer through electroless deposition.</segment>    </body>
+</document>

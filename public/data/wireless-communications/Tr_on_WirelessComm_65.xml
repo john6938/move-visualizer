@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_65.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Terminal relaying offers an effective means for improving the performance of OFDMA-based wireless networks.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, revrr{with the increase in the number of relaying terminals (RTs), their coordination becomes a cumbersome task.}</segment> <segment id='6' features='rhetorical_moves;result;methodasproduct' state='active'>To address this drawback, in this paper an autonomous scheme is proposed whereby the RTs assign resource blocks (RBs) to incoming wireless terminals (WTs) in a way that minimizes the number of hit occurrences at which the same RB is assigned to multiple WTs.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The proposed scheme uses cyclic group generators to determine the sequence of RBs to be assigned by each RT.</segment> <segment id='4' features='rhetorical_moves;discussion' state='active'>This scheme is particularly beneficial in terminal relaying systems in which the distribution of the WTs is nonuniform and the channel quality indicators are not available.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Simulation results show that the proposed scheme performs significantly better than currently available autonomous assignment schemes.</segment>    </body>
+</document>

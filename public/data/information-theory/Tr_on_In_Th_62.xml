@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_62.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>We study the effect of the absence of channel knowledge at the transmitters for multiple-input-multiple-output (MIMO) networks.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Specifically, we assume perfect channel state information at the receivers, no channel state information at the transmitter(s), and independent identically distributed (i.i.d.) Rayleigh fading across antennas, users and time slots.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We provide the characterization of the degrees of freedom (DoF) region for a 2-user MIMO broadcast channel.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We then provide a DoF region outer bound for a 2-user MIMO interference channel.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>This bound is shown to be tight for all possible combinations of the number of antennas at each node except for one case.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>To analyze the unsolved case, we point out the potential of interference alignment in the 2-user MIMO interference channel with no channel state information at the transmitters.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>As a byproduct, we explore a special class of MIMO broadcast channels where the capacity region is established by using the outer bound developed in the DoF analysis.</segment>    </body>
+</document>

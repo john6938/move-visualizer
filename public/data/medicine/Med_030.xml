@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_030.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To quantify the separate contributions of menopausal hormone treatment and mammography screening activities on trends in incidence of invasive breast cancer between 1987 and 2008.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Population study using aggregated data analysed by an extended age-period-cohort model.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Norway.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Population Norwegian women aged 30-90 between 1987 and 2008, including 50?102 newly diagnosed cases of invasive breast cancer.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcomes measures Attributable proportions of mammography screening and hormone treatment to recent incidence of invasive breast cancer, and the remaining variation in incidence after adjustment for mammography screening and hormone treatment.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results The incidence of invasive breast cancer in Norway increased steadily until 2002, levelled off, and then declined from 2006.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>All non-linear changes in incidence were explained by use of hormone treatment and mammography screening activities, with about similar contributions of each factor.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>In 2002, when the incidence among women aged 50-69 was highest, an estimated 23% of the cases in that age group could be attributed to mammography screening and 27% to use of hormone treatment.</segment>
+
+<segment id='9' features='rhetorical_moves;discussion' state='active'>Conclusions Changes in incidence trends of invasive breast cancer since the early 1990s may be fully attributed to mammography screening and hormone treatment, with about similar contributions of each factor.</segment>    </body>
+</document>

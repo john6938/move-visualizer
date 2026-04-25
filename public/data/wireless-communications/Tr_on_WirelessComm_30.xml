@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_30.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper analyzes the outage probability of multi-branch dual-hop decode-and-forward (DF) cooperative relaying systems over non-identical Nakagami/Nakagami fading channels.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The paper derives an exact closed-form expression for the outage probability with maximum ratio combining considering both the effect of co-channel interference (CCI) and addictive white Gaussian noise.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The results of this paper show that a DF cooperative relaying system is more vulnerable to noise than interference for low and moderate SINR, whereas it is more susceptible to interference than noise for high SINR and high diversity order.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, this paper shows that the robustness of the destination against CCI is more important than that of the relay.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active' comment='verification method as result'>The results of this paper are verified by Monte Carlo simulations.</segment>    </body>
+</document>

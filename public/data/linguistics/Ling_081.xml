@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_081.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Given the importance of public information environment in cancer control, it is theoretically and practically important to explore how people&apos;s media use to acquire health information influences their beliefs about cancer prevention.</segment> <segment id='2' features='rhetorical_moves' state='active'>In the current research, we focus on the role of the Internet in shaping fatalistic beliefs about cancer prevention (cancer fatalism).</segment> <segment id='3' features='rhetorical_moves' state='active'>To be more specific, we examine the effect of Internet use for health information on changes in cancer fatalism using a 2-wave nationally representative survey.</segment> <segment id='4' features='rhetorical_moves' state='active'>We then investigate whether the effect of Internet use on cancer fatalism is moderated by education and health knowledge.</segment> <segment id='5' features='rhetorical_moves' state='active'>Health-related Internet use reduced cancer fatalism only among those with average and lower than the average levels of education and health knowledge.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_070.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To compare the effects of free nicotine replacement therapy or proactive telephone counselling in addition to standard smoking cessation support offered through a telephone quitline.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Parallel group, 2×2 factorial, randomised controlled trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting National quitline, England.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 2591 non-pregnant smokers aged 16 or more residing in England who called the quitline between February 2009 and February 2010 and agreed to set a quit date: 648 were each randomised to standard support, proactive support, or proactive support with nicotine replacement therapy, and 647 were randomised to standard support with nicotine replacement therapy.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Interventions Two interventions were offered in addition to standard support: six weeks’ nicotine replacement therapy, provided free, and proactive counselling sessions (repeat telephone calls from, and interaction with, cessation advisors).</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures The primary outcome was self reported smoking cessation for six or more months after the quit date.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>The secondary outcome was cessation validated by exhaled carbon monoxide measured at six or more months.</segment>
+
+<segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Results At six months, 17.7% (n=229) of those offered nicotine replacement therapy reported smoking cessation compared with 20.1% (n=261) not offered such therapy (odds ratio 0.85, 95% confidence interval 0.70 to 1.04), and 18.2% (n=236) offered proactive counselling reported smoking cessation compared with 19.6% (n=254) offered standard support (0.91, 0.75 to 1.11).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Data validated by carbon monoxide readings changed the findings for nicotine replacement therapy only, with smoking cessation validated in 6.6% (85/1295) of those offered nicotine replacement therapy compared with 9.4% (122/1296) not offered such therapy (0.67, 0.50 to 0.90).</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Offering free nicotine replacement therapy or additional (proactive) counselling to standard helpline support had no additional effect on smoking cessation.</segment>    </body>
+</document>

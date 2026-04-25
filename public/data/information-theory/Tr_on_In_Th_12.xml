@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_12.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A new family of low-complexity array codes is proposed for correcting 4 column erasures.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The new codes are tailored for the new error model of clustered column erasures that captures the properties of high-order failure combinations in storage arrays.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The model of clustered column erasures considers the number of erased columns, together with the number of clusters into which they fall, without pre-defining the sizes of the clusters.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>This model addresses the problem of correlated device failures in storage arrays, whereby each failure event may affect multiple devices in a single cluster.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The new codes correct essentially all combinations of clustered 4 erasures, i.e., those combinations that fall into three or less clusters.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>The new codes are significantly more efficient, in all relevant complexity measures, than the best known 4-erasure correcting codes.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>These measures include encoding complexity, decoding complexity and update complexity.</segment>    </body>
+</document>

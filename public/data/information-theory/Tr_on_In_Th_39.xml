@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_39.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, the authors continue a program to find arithmetic, or gwith-carry,h analogs of polynomial-based phenomena that appear in the design and analysis of cryptosystems and other branches of digital computation and communications.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>They construct arithmetic analogs of the Walsh-Hadamard transform and correlation functions of Boolean functions.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>These play central roles in the cryptographic analysis of block ciphers and stream ciphers.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>After making basic definitions and constructing various algebraic tools they: 1) show how to realize arithmetic correlations as cardinalities of intersections of hypersurfaces; 2) show that the arithmetic Walsh spectrum characterizes a Boolean function; 3) study the average behavior of arithmetic Walsh transforms; and 4) find the arithmetic Walsh transforms of linear and affine functions.</segment>    </body>
+</document>

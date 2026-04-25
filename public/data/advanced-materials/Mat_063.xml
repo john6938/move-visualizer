@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_063.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A novel cost-efficient and facile technique, molecular crystal lithography, to fabricate nanogap electrodes efficiently is reported.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The gap width of the electrodes can be tuned from ~9 nm to several micrometers.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>Organic field-effect transistors based on the nanogap electrodes all exhibit a high performance, indicating the effectiveness and practicability of molecular crystal lithography for mass production of nanogap electrodes.</segment>    </body>
+</document>

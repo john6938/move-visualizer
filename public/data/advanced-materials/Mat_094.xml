@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_094.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Direct laser interference patterning (DLIP) is used to fabricate large area, two-dimensional periodic surface patterns on polyethylene terephthalate (PET) substrates to enhance the performance of ZnPc:C60 solar cells by light concentration in the absorber layer.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Comparing the power conversion efficiencies to the reference cell on flat PET, a relative increase of 21% is observed for the hexagonal pattern with 0.7 µm period, depicted in the figure.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_065.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>Scanning Kelvin probe microscopy (SKPM) measurements reveal a higher positive surface potential at the grain boundaries (GBs) as compared to the grain while conductive atomic force microscopy (C-AFM) measurements show higher current flow in the vicinity of the GBs of Cu2ZnSnS4 (CZTS) and Cu2ZnSn(S,Se)4 (CZTSSe).</segment> <segment id='2' features='rhetorical_moves;discussion' state='active'>These results demonstrate the enhanced minority carrier collection taking place at the GBs of CZTS and CZTSSe.</segment>    </body>
+</document>

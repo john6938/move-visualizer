@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_47.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Four joint relay and antenna selection strategies for dual-hop amplify-and-forward (AF) multiple-input multiple-output relay networks are studied.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Two of them require full channel state information (CSI) whereas the other two require only partial CSI.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The relays are either channel-assisted AF or fixed-gain AF type.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The first joint selection strategy involves choosing the best relay and the best single transmit antennas at the source and the relay.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The second strategy jointly involves choosing the best relay and the best single transmit/receive antenna pairs at the source-to-relay and relay-to-destination channels.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Moreover, two partial selection strategies, which can be used when the global CSI is not available, are also proposed and analyzed.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>In order to quantify the system performance analytically, the exact outage probability of all selection strategies is derived in closed-form.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Direct insights into the system-design are obtained by deriving the asymptotic outage probability, asymptotic average symbol error rate, diversity order and array gain.</segment>    </body>
+</document>

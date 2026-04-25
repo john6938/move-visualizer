@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_29.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we analyze the instantaneous power distributions of the transmitting signals at the relay in the non-regenerative and regenerative cooperation scenarios with linear modulation.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We study the following four relay function scenarios: fixed gain amplify and forward (AF) relay, variable gain AF relay, estimate and forward (EF) relay, and decode and forward (DF) relay.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>The analytical results show that the transmitting signals from non-regenerative relaying tend to suffer from high peak power, which is even prohibitive when the power amplifier (PA) efficiency at the relay is of primary concern.</segment>    </body>
+</document>

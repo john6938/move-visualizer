@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_057.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Four longitudinal control techniques are compared: a classical Proportional-Integral (PI) control; an advanced technique-called the i-PI-that adds an intelligent component to the PI; a fuzzy controller based on human experience; and an adaptive-network-based fuzzy inference system.</segment> <segment id='2' features='rhetorical_moves' state='active'>The controllers were designed to tackle one of the challenging topics as yet unsolved by the automotive sector: managing autonomously a gasoline-propelled vehicle at very low speeds.</segment> <segment id='3' features='rhetorical_moves' state='active'>The dynamics involved are highly nonlinear and constitute an excellent test-bed for newly designed controllers.</segment> <segment id='4' features='rhetorical_moves' state='active'>A Citroe¨n C3 Pluriel car was modified to permit autonomous action on the accelerator and the brake pedals-i.e., longitudinal control.</segment> <segment id='5' features='rhetorical_moves' state='active'>The controllers were tested in two stages.</segment> <segment id='6' features='rhetorical_moves' state='active'>First, the vehicle was modeled to check the controllers&apos; feasibility.</segment> <segment id='7' features='rhetorical_moves' state='active'>Second, the controllers were then implemented in the Citroe¨n, and their behavior under the same conditions on an identical real circuit was compared.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_46.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active' comment='problem or gap or background'>To date, work in evolvable and adaptive hardware (EAH) has been largely isolated from primary inclusion into larger design processes.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Almost without exception, EAH efforts are aimed at creating systems whole cloth, creating drop-in replacements for existing components of a larger design, or creating after-the-fact fixes for designs found to be deficient.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>This paper will discuss early efforts in integrating EAH methods into the design of a controller for a flapping-wing micro air vehicle (FWMAV).</segment> <segment id='4' features='rhetorical_moves;introduction;background' state='active'>The FWMAV project is extensive, multidisciplinary, and on going.</segment> <segment id='5' features='rhetorical_moves;introduction;background' state='active'>Because EAH methods were in consideration during its earliest design stages, this project provides a rich environment in which to explore means of effectively combining EAH and traditional design methodologies.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>In addition to providing a concrete EAH design that addresses potential problems with FWMAV flight in a unique way, this paper will also provide a provisional list of EAH design integration principles, drawn from our experiences to date.</segment>    </body>
+</document>

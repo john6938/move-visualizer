@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_017.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To assess the effectiveness of agricultural interventions in improving the nutritional status of children in developing countries.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Published and unpublished reports (after 1990) in English identified by searching 10 databases (Agris, Econlit, Eldis, IBSS, IDEAS, IFPRI, Jolis, PubMed, Web of Science, and World Bank), websites, previous systematic reviews, and reference lists and by contacting experts.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Study selection Included studies assessed effects of agricultural interventions aiming at improving the nutritional status of children (bio-fortification, home gardens, small scale fisheries and aquaculture, dairy development, and animal husbandry and poultry development).</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Only studies that used a valid counterfactual analysis were included.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Before/after studies and participants/non-participants comparisons affected by selection bias were excluded.</segment>
+
+<segment id='7' features='rhetorical_moves;method' state='active'>Data analysis Results were analysed for four intermediate outcomes (programme participation, income, dietary diversity, and micronutrient intake) and one final outcome (prevalence of under-nutrition).</segment> <segment id='8' features='rhetorical_moves;method' state='active'>Analysis was by summary tables of mean effects and by meta-analysis (for vitamin A absorption).</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Results The review included 23 studies, mostly evaluating home garden interventions.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>The studies reviewed did not report participation rates or the characteristics of participants in programmes.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>The interventions had a positive effect on the production of the agricultural goods promoted, but not on households’ total income.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The interventions were successful in promoting the consumption of food rich in protein and micronutrients, but the effect on the overall diet of poor people remains unclear.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>No evidence was found of an effect on the absorption of iron, but some evidence exists of a positive effect on absorption of vitamin A.</segment> <segment id='17' features='rhetorical_moves;result;resultasproduct' state='active'>Very little evidence was found of a positive effect on the prevalence of stunting, wasting, and underweight among children aged under 5.</segment>
+
+<segment id='14' features='rhetorical_moves;discussion' state='active'>Conclusions The question posed by the review cannot be answered with any level of confidence.</segment> <segment id='15' features='rhetorical_moves;discussion' state='active'>The data available show a poor effect of these interventions on nutritional status, but methodological weaknesses of the studies cast serious doubts on the validity of these results.</segment> <segment id='16' features='rhetorical_moves;discussion' state='active'>More rigorous and better designed studies are needed, as well as the establishment of agreed quality standards to guide researchers in this important area.</segment>    </body>
+</document>

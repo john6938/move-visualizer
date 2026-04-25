@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_087.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To compare the clinical and cost effectiveness of total hip arthroplasty with resurfacing arthroplasty in patients with severe arthritis of the hip.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Single centre, two arm, parallel group, assessor blinded, randomised controlled trial with 1:1 treatment allocation.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting One large teaching hospital in the United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 126 patients older than 18 years with severe arthritis of the hip joint, suitable for resurfacing arthroplasty of the hip.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Patients were excluded if they were considered to be unable to adhere to trial procedures or complete questionnaires.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Interventions Total hip arthroplasty (replacement of entire femoral head and neck); hip resurfacing arthroplasty (replacement of the articular surface of femoral head only, femoral neck remains intact).</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Both procedures replaced the articular surface of the acetabulum.</segment>
+
+<segment id='8' features='rhetorical_moves;method' state='active'>Main outcome measures Hip function at 12 months after surgery, assessed using the Oxford hip score and Harris hip score.</segment> <segment id='9' features='rhetorical_moves;method' state='active'>Secondary outcomes were quality of life, disability rating, physical activity level, complications, and cost effectiveness.</segment>
+
+<segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results 60 patients were randomly assigned to hip resurfacing arthroplasty and 66 to total hip arthroplasty.</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Intention to treat analysis showed no evidence for a difference in hip function between treatment groups at 12 months (t test, P=0.242 and P=0.070 for Oxford hip score and Harris hip score, respectively); 95% of follow-up data was available for analysis.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Mean Oxford hip score was 40.4 (95% confidence interval 37.9 to 42.9) in the resurfacing group and 38.2 (35.3 to 41.0) in the total arthroplasty group (estimated treatment effect size 2.23 (-1.52 to 5.98)).</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>Mean Harris hip score was 88.4 (84.4 to 92.4) in the resurfacing group and 82.3 (77.2 to 87.5) in the total arthroplasty group (6.04 (-0.51 to 12.58)).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>Although we saw no evidence of a difference, we cannot definitively exclude clinically meaningful differences in hip function in the short term.</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>Overall complication rates did not differ between treatment groups (P=0.291).</segment> <segment id='16' features='rhetorical_moves;result;resultasproduct' state='active'>However, we saw more wound complications in the total arthroplasty group (P=0.056) and more thromboembolic events in the resurfacing group (P=0.049).</segment>
+
+<segment id='17' features='rhetorical_moves;discussion' state='active'>Conclusions No evidence of a difference in hip function was seen in patients with severe arthritis of the hip, one year after receiving a total hip arthroplasty versus resurfacing arthroplasty.</segment> <segment id='18' features='rhetorical_moves;discussion' state='active'>The long term effects of these interventions remain uncertain.</segment>    </body>
+</document>

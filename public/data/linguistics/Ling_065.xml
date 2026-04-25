@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_065.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study explored the effects of premessage emotions (happiness, anger, and fear) and chronic levels of motivational system activation (behavioral approach system: BAS, and behavioral inhibition system: BIS) on the processing of gain- and loss-framed persuasive messages.</segment> <segment id='2' features='rhetorical_moves' state='active'>The data showed that emotion functions (approach and avoidance), not valences (positive and negative), predicted emotions&apos; interactions with motivational systems and framed messages.</segment> <segment id='3' features='rhetorical_moves' state='active'>While fear was associated with BIS, happiness and anger were linked to BAS.</segment> <segment id='4' features='rhetorical_moves' state='active'>Also, while a loss frame was more persuasive among fearful individuals, a gain frame produced more persuasion for happy and angry participants.</segment> <segment id='5' features='rhetorical_moves' state='active'>BAS mediated persuasion when angry and happy participants read a gain frame; BIS mediated persuasion among fearful individuals who attended to a loss frame.</segment>    </body>
+</document>

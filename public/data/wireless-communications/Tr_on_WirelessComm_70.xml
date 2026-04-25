@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_70.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Two-way relaying can significantly improve the spectrum efficiency of bi-directional information transmission between two nodes with the help of half-duplex relays.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>However, in the general case of asymmetric channel gains, the achievable rates of both directions are restricted by the link with the worse channel quality.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose a new three-phase cooperative transmission protocol, which exploits the direct link and the time resource of a two-way relay system more efficiently.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We derive the rate region outer bound of this protocol, and propose a practical transmission scheme based on doubly nested lattice codes, which can achieve this outer bound within 0.5 bit.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>Numerical results show the superiority of this protocol over two other classical protocols in asymmetric channels.</segment>    </body>
+</document>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_073.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether a difference in systolic blood pressure readings between arms can predict a reduced event free survival after 10 years.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Rural general practice in Devon, United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 230 people receiving treatment for hypertension in primary care.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Bilateral blood pressure measurements recorded at three successive surgery attendances.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Cardiovascular events and deaths from all causes during a median follow-up of 9.8 years.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results At recruitment 24% (55/230) of participants had a mean interarm difference in systolic blood pressure of 10 mm Hg or more and 9% (21/230) of 15 mm Hg or more; these differences were associated with an increased risk of all cause mortality (adjusted hazard ratio 3.6, 95% confidence interval 2.0 to 6.5 and 3.1, 1.6 to 6.0, respectively).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The risk of death was also increased in 183 participants without pre-existing cardiovascular disease with an interarm difference in systolic blood pressure of 10 mm Hg or more or 15 mm Hg or more (2.6, 1.4 to 4.8 and 2.7, 1.3 to 5.4).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>An interarm difference in diastolic blood pressure of 10 mm Hg or more was weakly associated with an increased risk of cardiovascular events or death.</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Differences in systolic blood pressure between arms can predict an increased risk of cardiovascular events and all cause mortality over 10 years in people with hypertension.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>This difference could be a valuable indicator of increased cardiovascular risk.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Bilateral blood pressure measurements should become a routine part of cardiovascular assessment in primary care.</segment>    </body>
+</document>

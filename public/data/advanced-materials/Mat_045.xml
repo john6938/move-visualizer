@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_045.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>High-resolution aberration-corrected transmission electron microscopy aided by statistical parameter estimation theory is used to quantify localized displacements at a (110) twin boundary in orthorhombic CaTiO3.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The displacements are 3–6 pm for the Ti atoms and confined to a thin layer.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>This is the first direct observation of the generation of ferroelectricity by interfaces inside this material which opens the door for domain boundary engineering.</segment>    </body>
+</document>

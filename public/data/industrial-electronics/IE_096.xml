@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_096.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+	<segment id='1' features='rhetorical_moves' state='active'>In the field of urban transport, supercapacitors are submitted to relative high charge and discharge currents and therefore significant heat generation occurs.</segment> <segment id='2' features='rhetorical_moves' state='active'>It has been shown that the temperature has a great influence on the aging mechanism of supercapacitors and, by consequence, on the lifetime of the system.</segment> <segment id='3' features='rhetorical_moves' state='active'>That is why the thermal management becomes a key issue in the study of the performance of a supercapacitors stack.</segment> <segment id='4' features='rhetorical_moves' state='active'>In this paper, thermal modeling of a supercapacitors stack is presented and a matrix representation of the model is deduced.</segment> <segment id='5' features='rhetorical_moves' state='active'>Validation of the model has been carried out using measurement on a developed test bench.</segment> <segment id='6' features='rhetorical_moves' state='active'>Sensitivity of the model according to input uncertainties is finally discussed.</segment> <segment id='7' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

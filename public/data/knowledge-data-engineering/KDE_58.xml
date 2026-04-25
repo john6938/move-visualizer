@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_58.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The VAT algorithm is a visual method for determining the possible number of clusters in, or the cluster tendency of a set of objects.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>The improved VAT (iVAT) algorithm uses a graph-theoretic distance transform to improve the effectiveness of the VAT algorithm for gtoughh cases where VAT fails to accurately show the cluster tendency.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we present an efficient formulation of the iVAT algorithm which reduces the computational complexity of the iVAT algorithm from O(N3) to O(N2).</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>We also prove a direct relationship between the VAT image and the iVAT image produced by our efficient formulation.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>We conclude with three examples displaying clustering tendencies in three of the Karypis data sets that illustrate the improvement offered by the iVAT transformation.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>We also provide a comparison of iVAT images to those produced by the Reverse Cuthill-Mckee (RCM) algorithm; our examples suggest that iVAT is superior to the RCM method of display.</segment>    </body>
+</document>

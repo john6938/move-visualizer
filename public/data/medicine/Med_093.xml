@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_093.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objectives To test whether frequent bullying victimisation in childhood increases the likelihood of self harming in early adolescence, and to identify which bullied children are at highest risk of self harm.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design The Environmental Risk (E-Risk) longitudinal study of a nationally representative UK cohort of 1116 twin pairs born in 1994-95 (2232 children).</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting England and Wales, United Kingdom.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants Children assessed at 5, 7, 10, and 12 years of age.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measures Relative risks of children’s self harming behaviour in the six months before their 12th birthday.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Self harm data were available for 2141 children.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Among children aged 12 who had self harmed (2.9%; n=62), more than half were victims of frequent bullying (56%; n=35).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Exposure to frequent bullying predicted higher rates of self harm even after children’s pre-morbid emotional and behavioural problems, low IQ, and family environmental risks were taken into account (bullying victimisation reported by mother: adjusted relative risk 1.92, 95% confidence interval 1.18 to 3.12; bullying victimisation reported by child: 2.44, 1.36 to 4.40).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Victimised twins were more likely to self harm than were their non-victimised twin sibling (bullying victimisation reported by mother: 13/162 v 3/162, ratio=4.3, 95% confidence interval 1.3 to 14.0; bullying victimisation reported by child: 12/144 v 7/144, ratio=1.7, 0.71 to 4.1).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with bullied children who did not self harm, bullied children who self harmed were distinguished by a family history of attempted/completed suicide, concurrent mental health problems, and a history of physical maltreatment by an adult.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Prevention of non-suicidal self injury in young adolescents should focus on helping bullied children to cope more appropriately with their distress.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Programmes should target children who have additional mental health problems, have a family history of attempted/completed suicide, or have been maltreated by an adult.</segment>    </body>
+</document>

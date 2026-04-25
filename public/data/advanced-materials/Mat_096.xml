@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_096.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A large scale homogenous invisibility cloak functioning at terahertz frequencies is reported.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The terahertz invisibility device features a large concealed volume, low loss, and broad bandwidth.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>In particular, it is capable of hiding objects with a dimension nearly an order of magnitude larger than that of its lithographic counterpart, but without involving complex and time-consuming cleanroom processing.</segment>    </body>
+</document>

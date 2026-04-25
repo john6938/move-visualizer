@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_048.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate the burden of later disease associated with moderate/late preterm (32-36 weeks) and early term (37-38 weeks) birth.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Secondary analysis of data from the Millennium Cohort Study (MCS).</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting Longitudinal study of infants born in the United Kingdom between 2000 and 2002.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 18?818 infants participated in the MCS.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Effects of gestational age at birth on health outcomes at 3 (n=14?273) and 5 years (n=14?056) of age were analysed.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Growth, hospital admissions, longstanding illness/disability, wheezing/asthma, use of prescribed drugs, and parental rating of their children’s health.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Measures of general health, hospital admissions, and longstanding illness showed a gradient of increasing risk of poorer outcome with decreasing gestation, suggesting a “dose-response” effect of prematurity.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The greatest contribution to disease burden at 3 and 5 years was in children born late/moderate preterm or early term.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Population attributable fractions for having at least three hospital admissions between 9 months and 5 years were 5.7% (95% confidence interval 2.0% to 10.0%) for birth at 32-36 weeks and 7.2% (1.4% to 13.6%) for birth at 37-38 weeks, compared with 3.8% (1.3% to 6.5%) for children born very preterm (&lt;32 weeks).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Similarly, 2.7% (1.1% to 4.3%), 5.4% (2.4% to 8.6%), and 5.4% (0.7% to 10.5%) of limiting longstanding illness at 5 years were attributed to very preterm birth, moderate/late preterm birth, and early term birth.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions These results suggest that health outcomes of moderate/late preterm and early term babies are worse than those of full term babies.</segment> <segment id='12' features='rhetorical_moves;discussion' state='active'>Additional research should quantify how much of the effect is due to maternal/fetal complications rather than prematurity itself.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>Irrespective of the reason for preterm birth, large numbers of these babies present a greater burden on public health services than very preterm babies.</segment>    </body>
+</document>

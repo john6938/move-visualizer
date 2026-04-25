@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_044.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To inform decision making regarding intervention strategies against non-communicable diseases in Mexico, in the context of health reform.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cost effectiveness analysis based on epidemiological modelling.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Interventions 101 intervention strategies relating to nine major clusters of non-communicable disease: depression, heavy alcohol use, tobacco use, cataracts, breast cancer, cervical cancer, chronic obstructive pulmonary disease, cardiovascular disease, and diabetes.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data sources Mexican data sources were used for most key input parameters, including administrative registries; disease burden and population estimates; household surveys; and drug price databases.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>These sources were supplemented as needed with estimates for Mexico from the WHO-CHOICE unit cost database or with estimates extrapolated from the published literature.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Population health outcomes, measured in disability adjusted life years (DALYs); costs in 2005 international dollars ($Int); and costs per DALY.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results Across 101 intervention strategies examined in this study, average yearly costs at the population level would range from around =$Int1m (such as for cataract surgeries) to &gt;$Int1bn for certain strategies for primary prevention in cardiovascular disease.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Wide variation also appeared in total population health benefits, from &lt;1000 DALYs averted a year (for some components of cancer treatments or aspirin for acute ischaemic stroke) to &gt;300?000 averted DALYs (for aggressive combinations of interventions to deal with alcohol use or cardiovascular risks).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Interventions in this study spanned a wide range of average cost effectiveness ratios, differing by more than three orders of magnitude between the lowest and highest ratios.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Overall, community and public health interventions such as non-personal interventions for alcohol use, tobacco use, and cardiovascular risks tended to have lower cost effectiveness ratios than many clinical interventions (of varying complexity).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Even within the community and public health interventions, however, there was a 200-fold difference between the most and least cost effective strategies examined.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>Likewise, several clinical interventions appeared among the strategies with the lowest average cost effectiveness ratios—for example, cataract surgeries.</segment>
+
+<segment id='13' features='rhetorical_moves;discussion' state='active'>Conclusions Wide variations in costs and effects exist within and across intervention categories.</segment> <segment id='14' features='rhetorical_moves;discussion' state='active'>For every major disease area examined, at least some strategies provided excellent value for money, including both population based and personal interventions.</segment>    </body>
+</document>

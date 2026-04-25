@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_017.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Shape-memory surfaces with on-demand, tunable nanopatterns are developed to observe time dependent changes in cell alignment using temperature-responsive poly(?-caprolactone) (PCL) films.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>Temporary grooved nanopatterns are easily programmed on the films and triggered to transition quickly to permanent surface patterns by the application of body heat.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>A time-dependent cytoskeleton remodeling is also observed under biologically relevant conditions.</segment>    </body>
+</document>

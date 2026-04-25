@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_057.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective In view of mobile phone exposure being classified as a possible human carcinogen by the International Agency for Research on Cancer (IARC), we determined the compatibility of two recent reports of glioma risk (forming the basis of the IARC’s classification) with observed incidence trends in the United States.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Comparison of observed rates with projected rates of glioma incidence for 1997-2008.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>We estimated projected rates by combining relative risks reported in the 2010 Interphone study and a 2011 Swedish study by Hardell and colleagues with rates adjusted for age, registry, and sex; data for mobile phone use; and various latency periods.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Setting US population based data for glioma incidence in 1992-2008, from 12 registries in the Surveillance, Epidemiology, and End Results (SEER) programme (Atlanta, Detroit, Los Angeles, San Francisco, San Jose-Monterey, Seattle, rural Georgia, Connecticut, Hawaii, Iowa, New Mexico, and Utah).</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Participants Data for 24?813 non-Hispanic white people diagnosed with glioma at age 18 years or older.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results Age specific incidence rates of glioma remained generally constant in 1992-2008 (-0.02% change per year, 95% confidence interval -0.28% to 0.25%), a period coinciding with a substantial increase in mobile phone use from close to 0% to almost 100% of the US population.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>If phone use was associated with glioma risk, we expected glioma incidence rates to be higher than those observed, even with a latency period of 10 years and low relative risks (1.5).</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Based on relative risks of glioma by tumour latency and cumulative hours of phone use in the Swedish study, predicted rates should have been at least 40% higher than observed rates in 2008.</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>However, predicted glioma rates based on the small proportion of highly exposed people in the Interphone study could be consistent with the observed data.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>Results remained valid if we used either non-regular users or low users of mobile phones as the baseline category, and if we constrained relative risks to be more than 1.</segment>
+
+<segment id='11' features='rhetorical_moves;discussion' state='active'>Conclusions Raised risks of glioma with mobile phone use, as reported by one (Swedish) study forming the basis of the IARC’s re-evaluation of mobile phone exposure, are not consistent with observed incidence trends in US population data, although the US data could be consistent with the modest excess risks in the Interphone study.</segment>    </body>
+</document>

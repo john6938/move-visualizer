@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_46.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Compressive sensing (CS) is an emerging approach for the acquisition of signals having a sparse or compressible representation in some basis.</segment> <segment id='2' features='rhetorical_moves;introduction;problem' state='active'>While the CS literature has mostly focused on problems involving 1-D signals and 2-D images, many important applications involve multidimensional signals; the construction of sparsifying bases and measurement systems for such signals is complicated by their higher dimensionality.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we propose the use of Kronecker product matrices in CS for two purposes.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>First, such matrices can act as sparsifying bases that jointly model the structure present in all of the signal dimensions.</segment> <segment id='5' features='rhetorical_moves;result;methodasproduct' state='active'>Second, such matrices can represent the measurement protocols used in distributed settings.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Our formulation enables the derivation of analytical bounds for the sparse approximation of multidimensional signals and CS recovery performance, as well as a means of evaluating novel distributed measurement schemes.</segment>    </body>
+</document>

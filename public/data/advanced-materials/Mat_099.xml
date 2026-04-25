@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_099.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>A series of metal coordination polymers containing 1,1,2,2-ethenetetrathiolate (ett) linking bridge (poly[Ax(M-ett)]) are synthesized.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>The Seebeck coefficients of these conducting materials are high, and vary according to the center metals and counter cations.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>The TE device fabricated demonstrates the great potentials of these materials for TE applications.</segment>    </body>
+</document>

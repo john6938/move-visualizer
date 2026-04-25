@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_16.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we consider the cascade and triangular rate-distortion problems where the same side information is available at the source node and user 1, and the side information available at user 2 is a degraded version of the side information at the source node and user 1.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We characterize the rate-distortion region for these problems.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>For the cascade setup, we show that, at user 1, decoding and rebinning the codeword sent by the source node for user 2 is optimum.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>We then extend our results to the two-way cascade and triangular setting, where the source node is interested in lossy reconstruction of the side information at user 2 via a rate limited link from user 2 to the source node.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We characterize the rate-distortion regions for these settings.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Complete explicit characterizations for all settings are given in the quadratic Gaussian case.</segment> <segment id='7' features='rhetorical_moves;discussion' state='active'>We conclude with two further extensions: a triangular source coding problem with a helper, and an extension of our two-way cascade setting in the quadratic Gaussian case.</segment>    </body>
+</document>

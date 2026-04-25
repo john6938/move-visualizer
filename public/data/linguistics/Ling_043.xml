@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_043.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Despite censorship, Chinese bloggers routinely uncover corruption, help solve social problems, and even pressure state officials to change policy.</segment> <segment id='2' features='rhetorical_moves' state='active'>The power of online opinion is undisputed in individual cases, but the overall effect of blog discourse on Chinese political life is unclear.</segment> <segment id='3' features='rhetorical_moves' state='active'>Do blogs relieve pressure for political change by allowing troublemakers to vent frustrations in a marginal medium, or are they integrated with the larger system of political communication in China, inspiring political activism and building communities of like-minded activists?</segment> <segment id='4' features='rhetorical_moves' state='active'>Using large-scale content analysis and specific case studies, I argue that blogs serve as a “safety valve” on issues where the mainstream media set the agenda, and a “pressure cooker” on issues where bloggers get ahead of journalists.</segment>    </body>
+</document>

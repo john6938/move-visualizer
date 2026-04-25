@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_33.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>We use a new measure of creativity as a guide in an interactive evolutionary art task and tie the results to natural language usage of the term gcreative.h</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Following previous work, we explore a tractable definition of creativity, one emphasizing the novelty of systems, and its addition to an interactive application.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>We next introduce a generative ecosystemic art system, EvoEco, an agent-based pixel-level means of generating images.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>EvoEco is used as a component of an online survey which asks users to evolve a pleasing image and then rank the success of the process and its output.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Evolutionary search is augmented with the creativity measure, and compared with control groups augmented with either random search or a measure of phenotypic distance.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>We show that users consistently rate the creativity measure-enhanced version as more gcreativeh and gnovelh than other search techniques.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>We further derive additional insights into appropriate forms of genetic representation and pattern space-traversal in an interactive evolutionary algorithm.</segment>    </body>
+</document>

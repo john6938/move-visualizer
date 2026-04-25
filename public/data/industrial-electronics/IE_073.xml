@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_073.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In this paper, an input power factor compensation method is proposed for a high-power pulse-width-modulated current-source-converter (CSC)-fed permanent magnet synchronous motor (PMSM) drive system.</segment> <segment id='2' features='rhetorical_moves' state='active'>The proposed method is based on controlling the d-axis stator current component in the field-oriented control (FOC) scheme of the drive system.</segment> <segment id='3' features='rhetorical_moves' state='active'>The CSC-fed PMSM drive system and its FOC scheme are first introduced.</segment> <segment id='4' features='rhetorical_moves' state='active'>Then, the relationships between the machine side, dc-link, and the line side are investigated.</segment> <segment id='5' features='rhetorical_moves' state='active'>Based on the analysis, a new d-axis stator current control scheme that can ensure unity input power factor for the operating speed range is proposed.</segment> <segment id='6' features='rhetorical_moves' state='active'>The main feature of the proposed scheme is to compensate the line-side power factor without the need for modulation index control in either the rectifier or the inverter.</segment> <segment id='7' features='rhetorical_moves' state='active'>Therefore, offline Selective Harmonic Elimination (SHE) modulation schemes can be implemented on both line- and machine-side converters to minimize the total harmonic distortion.</segment> <segment id='8' features='rhetorical_moves' state='active'>This results in reduced switching frequency and reduced switching losses.</segment> <segment id='9' features='rhetorical_moves' state='active'>Simulation results for a 2.44 MW medium-voltage system and experimental results from a low-voltage 6.5 kW IPM motor drive are provided to verify the effectiveness of the proposed compensation method.</segment> 
+    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_28.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>In this paper, we study two important metrics in multiple-input multiple-output (MIMO) time-varying Rayleigh flat fading channels.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>One is the eigen-channel, and the other is the instantaneous mutual information (IMI).</segment> <segment id='3' features='rhetorical_moves;method' state='active'>Their second-order statistics, such as the correlation coefficient, level crossing rate (LCR), and average fade/outage duration, are investigated, assuming a general nonisotropic scattering environment.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Exact closed-form expressions are derived and Monte Carlo simulations are provided to verify the accuracy of the analytical results.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>For the eigen-channels, we found they tend to be spatio-temporally uncorrelated in large MIMO systems.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>For the IMI, the results show that its correlation coefficient can be well approximated by the squared amplitude of the correlation coefficient of the channel, under certain conditions.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Moreover, we also found the LCR of IMI is much more sensitive to the scattering environment than that of each eigen-channel.</segment>    </body>
+</document>

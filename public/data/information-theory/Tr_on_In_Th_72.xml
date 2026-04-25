@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Info Theory Abstracts/Tr_on_In_Th_72.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>In-order delivery of packets is a key issue in data communication networks.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>Re-sequencing delay and re-sequencing buffer size are two important measures in design, performance and optimization.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a large deviation result is proved for the re-sequencing buffer, which is fed by m parallel M/M/1 queues.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The result provides a limit for the probability of a large buffer.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>This limit can be significantly simplified when the m parallel M/M/1 queues are symmetric; that is, with the same arrival and service rates, respectively.</segment> <segment id='6' features='rhetorical_moves;discussion' state='active'>The large deviation result obtained in this paper extends a recent result in the literature.</segment>    </body>
+</document>

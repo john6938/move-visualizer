@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_51.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper a hybrid one-bit feedback algorithm is proposed to achieve carrier phase alignment at the receiver for distributed transmit beamforming.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>The proposed iterative algorithm employs two schemes to speed up the convergence process, which exploit negative feedback information in a single time slot (Scheme 1) and in successive time slots (Scheme 2) respectively, whereas previously proposed algorithms in the literature discard this information.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>We show that the proposed algorithm yields a significant improvement in the convergence speed compared to the original algorithm.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Furthermore, we modify the proposed algorithm to be capable of tracking time-varying channels which have variable rates of phase drift.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The modified hybrid algorithm has the ability to adjust perturbation sizes adaptively without the knowledge of channel state information and is suited for practical implementations.</segment>    </body>
+</document>

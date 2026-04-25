@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_055.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>The increasing popularity of media multitasking is frequently reported in national surveys while laboratory research consistently confirms that multitasking impairs task performance.</segment> <segment id='2' features='rhetorical_moves' state='active'>This study explores this apparent contradiction.</segment> <segment id='3' features='rhetorical_moves' state='active'>Using dynamic panel analysis of time series data collected from college students across 4 weeks, this study examines dynamic reciprocal impacts of media multitasking, needs (emotional, cognitive, social, and habitual), and corresponding gratifications.</segment> <segment id='4' features='rhetorical_moves' state='active'>Consistent with the laboratory research, cognitive needs are not satisfied by media multitasking even though they drive media multitasking in the first place.</segment> <segment id='5' features='rhetorical_moves' state='active'>Instead, emotional gratifications are obtained despite not being actively sought.</segment> <segment id='6' features='rhetorical_moves' state='active'>This helps explain why people increasingly multitask at the cost of cognitive needs.</segment> <segment id='7' features='rhetorical_moves' state='active'>Importantly, this study provides evidence of the dynamic persistence of media multitasking behavior.</segment>    </body>
+</document>

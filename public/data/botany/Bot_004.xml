@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_004.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>The gibberellins (GAs) are a group of endogenous compounds that promote the growth of most plant organs, including stem internodes.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>We show that in tobacco (Nicotiana tabacum) the presence of leaves is essential for the accumulation of bioactive GAs and their immediate precursors in the stem and consequently for normal stem elongation, cambial proliferation, and xylem fiber differentiation.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>These processes do not occur in the absence of maturing leaves but can be restored by application of C19-GAs, identifying the presence of leaves as a requirement for GA signaling in stems and revealing the fundamental role of GAs in secondary growth regulation.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>The use of reporter genes for GA activity and GA-directed DELLA protein degradation in Arabidopsis thaliana confirms the presence of a mobile signal from leaves to the stem that induces GA signaling.</segment>    </body>
+</document>

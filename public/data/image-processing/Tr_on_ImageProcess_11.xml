@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_11.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;method' state='active'>Nonparametric Bayesian methods are considered for recovery of imagery based upon compressive, incomplete, and/or noisy measurements.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>A truncated beta-Bernoulli process is employed to infer an appropriate dictionary for the data under test and also for image recovery.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In the context of compressive sensing, significant improvements in image recovery are manifested using learned dictionaries, relative to using standard orthonormal image expansions.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>The compressive-measurement projections are also optimized for the learned dictionary.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Additionally, we consider simpler (incomplete) measurements, defined by measuring a subset of image pixels, uniformly selected at random.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Spatial interrelationships within imagery are exploited through use of the Dirichlet and probit stick-breaking processes.</segment> <segment id='7' features='rhetorical_moves;introduction;overview' state='active' comment='General overview statement'>Several example results are presented, with comparisons to other methods in the literature.</segment>    </body>
+</document>

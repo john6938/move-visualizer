@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_52.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In recent years, several algorithms for mining frequent and emerging substring patterns from databases of string data (such as proteins and natural language texts) have been discovered, all of which traverse an enhanced suffix array data structure.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>All of these algorithms lie at either extreme of the efficiency spectrum; they are either fast and use enormous amounts of space, or they are compact and orders of magnitude slower.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, we present an algorithm that achieves the best of both these extremes, having runtime comparable to the fastest published algorithms while using less space than the most space efficient ones.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>This excellent practical performance is underpinned by theoretical guarantees.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Our main mechanism for keeping memory usage low is to build the enhanced suffix array incrementally, in blocks.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Once built, a block is traversed to output patterns with required support before its space is reclaimed to be used for the next block.</segment>    </body>
+</document>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_081.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To evaluate the association of volume limited and pressure limited (lung protective) mechanical ventilation with two year survival in patients with acute lung injury.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Prospective cohort study.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting 13 intensive care units at four hospitals in Baltimore, Maryland, USA.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 485 consecutive mechanically ventilated patients with acute lung injury.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Main outcome measure Two year survival after onset of acute lung injury.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results 485 patients contributed data for 6240 eligible ventilator settings, as measured twice daily (median of eight eligible ventilator settings per patient; 41% of which adhered to lung protective ventilation).</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Of these patients, 311 (64%) died within two years.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>After adjusting for the total duration of ventilation and other relevant covariates, each additional ventilator setting adherent to lung protective ventilation was associated with a 3% decrease in the risk of mortality over two years (hazard ratio 0.97, 95% confidence interval 0.95 to 0.99, P=0.002).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with no adherence, the estimated absolute risk reduction in two year mortality for a prototypical patient with 50% adherence to lung protective ventilation was 4.0% (0.8% to 7.2%, P=0.012) and with 100% adherence was 7.8% (1.6% to 14.0%, P=0.011).</segment>
+
+<segment id='10' features='rhetorical_moves;discussion' state='active'>Conclusions Lung protective mechanical ventilation was associated with a substantial long term survival benefit for patients with acute lung injury.</segment> <segment id='11' features='rhetorical_moves;discussion' state='active'>Greater use of lung protective ventilation in routine clinical practice could reduce long term mortality in patients with acute lung injury.</segment>    </body>
+</document>

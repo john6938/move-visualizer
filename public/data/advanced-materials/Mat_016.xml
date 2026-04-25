@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_016.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;overview' state='active'>Two examples of confined molecular catalysts are presented.</segment> <segment id='2' features='rhetorical_moves;method' state='active'>PtCl42- complexes are attached to a thiol-terminated monolayer by ligand exchange of Cl- with a thiolate group and incorporated in a multilayer of viologen moieties by ion exchange.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>All Cl- ligands are replaced by OH- or H2O before HER takes place.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>Ex situ and in situ XAFS measurements confirm that the Pt complexes accelerate HER without being converted into Pt particles.</segment>    </body>
+</document>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_075.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>The elastic deformation of few layers (5 to 25) of thick, freely suspended MoS2 nanosheets by means of a nanoscopic version of a bending test experiment, carried out with the tip of an atomic force microscope is reported.</segment> <segment id='2' features='rhetorical_moves;result;resultasproduct' state='active'>Young&apos;s modulus of these nanosheets is extremely high (E = 0.33 TPa), comparable to that of graphene oxide, and the deformations are reversible up to tens of nanometers.</segment>    </body>
+</document>

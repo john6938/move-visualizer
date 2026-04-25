@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Wireless Comm/Tr_on_WirelessComm_53.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>In conventional multiuser parallel scheduling schemes, every scheduled user is interfering with every other scheduled user, which limits the capacity and performance of multiuser systems, and the level of interference becomes substantial as the number of scheduled users increases.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>Based on the above observations, we investigate the trade-off between the system throughput and the number of scheduled users through the exact analysis of the total average sum rate capacity and the average spectral efficiency.</segment> <segment id='3' features='rhetorical_moves;discussion' state='active'>Our analytical results can help the system designer to carefully select the appropriate number of scheduled users to maximize the overall throughput while maintaining an acceptable quality of service under certain channel conditions.</segment>    </body>
+</document>

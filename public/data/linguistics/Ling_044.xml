@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_044.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>Protest activity has become a central means for political change in Chile.</segment> <segment id='2' features='rhetorical_moves' state='active'>We examine the association between social media use and youth protest, as well as mediating and moderating mechanisms of this relationship, using survey data collected in Chile in 2010.</segment> <segment id='3' features='rhetorical_moves' state='active'>We found that Facebook use was associated significantly with protest activity, even after taking into account political grievances, material and psychological resources, values, and news media use.</segment> <segment id='4' features='rhetorical_moves' state='active'>The link between overall Facebook use and protest activity was explained by using the social network for news and socializing rather than when it was used for self-expression.</segment> <segment id='5' features='rhetorical_moves' state='active'>Postmaterialist values and political ideologies were not found to moderate the association between Facebook use and protest.</segment>    </body>
+</document>

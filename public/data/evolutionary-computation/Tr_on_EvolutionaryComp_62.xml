@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Evolutionary Computation/Tr_on_EvolutionaryComp_62.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;background' state='active'>Unlike evolutionary dynamics, coevolutionary dynamics can exhibit a wide variety of complex regimes.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>This has been confirmed by numerical studies, e.g., in the context of evolutionary game theory (EGT) and population dynamics of simple two-strategy games with various types of replication and selection mechanisms.</segment> <segment id='3' features='rhetorical_moves;purpose' state='active'>Using the framework of shadowing lemma, we study to what degree can such infinite population dynamics: 1) be reliably simulated on finite precision computers; and 2) be trusted to represent coevolutionary dynamics of possibly very large, but finite, populations.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>In a simple EGT setting of two-player symmetric games with two pure strategies and a polymorphic equilibrium, we prove that for $(mu,lambda)$, truncation, sequential tournament, best-of-group tournament, and linear ranking selections, the coevolutionary dynamics do not possess the shadowing property.</segment> <segment id='5' features='rhetorical_moves;discussion' state='active'>In other words, infinite population simulations cannot be guaranteed to represent real trajectories or to be representative of coevolutionary dynamics of potentially very large, but finite, populations.</segment>    </body>
+</document>

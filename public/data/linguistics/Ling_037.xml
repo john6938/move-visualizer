@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ling SRA/Ling_037.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This study analyzes news coverage of 4 female political candidates—Elizabeth Dole, Claire McCaskill, Hillary Clinton, and Sarah Palin—and their male competitors, as each competed in 2 elections between 1999 and 2008.</segment> <segment id='2' features='rhetorical_moves' state='active'>Analysis focused on novelty labeling, and “feminine” and “masculine” political issues and character traits to determine whether the coverage of women and men differed in general, and across the offices of Senator, Governor, Vice President, or President.</segment> <segment id='3' features='rhetorical_moves' state='active'>Overall, women received more news coverage, and the gendered gap in coverage was especially large for novelty, issue, and trait coverage when women sought the “executive” offices of Governor and in the White House.</segment> <segment id='4' features='rhetorical_moves' state='active'>These findings provide insight into the evolving gender dynamics of women running within the masculinized domain of politics.</segment>    </body>
+</document>

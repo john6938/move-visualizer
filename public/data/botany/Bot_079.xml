@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Bot SRA/Bot_079.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>It is increasingly important in life sciences that many cell-scale and tissue-scale measurements are quantified from confocal microscope images.</segment> <segment id='2' features='rhetorical_moves' state='active'>However, extracting and analyzing large-scale confocal image data sets represents a major bottleneck for researchers.</segment> <segment id='3' features='rhetorical_moves' state='active'>To aid this process, CellSeT software has been developed, which utilizes tissue-scale structure to help segment individual cells.</segment> <segment id='4' features='rhetorical_moves' state='active'>We provide examples of how the CellSeT software can be used to quantify fluorescence of hormone-responsive nuclear reporters, determine membrane protein polarity, extract cell and tissue geometry for use in later modeling, and take many additional biologically relevant measures using an extensible plug-in toolset.</segment> <segment id='5' features='rhetorical_moves' state='active'>Application of CellSeT promises to remove subjectivity from the resulting data sets and facilitate higher-throughput, quantitative approaches to plant cell research.</segment>    </body>
+</document>

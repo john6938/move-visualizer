@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_93.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Clustering high-dimensional data is a major challenge due to the curse of dimensionality.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>To solve this problem, projective clustering has been defined as an extension to traditional clustering that attempts to find projected clusters in subsets of the dimensions of a data space.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>In this paper, a probability model is first proposed to describe projected clusters in high-dimensional data space.</segment> <segment id='4' features='rhetorical_moves;result;methodasproduct' state='active'>Then, we present a model-based algorithm for fuzzy projective clustering that discovers clusters with overlapping boundaries in various projected subspaces.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The suitability of the proposal is demonstrated in an empirical study done with synthetic data set and some widely used real-world data set.</segment>    </body>
+</document>

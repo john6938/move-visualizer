@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_072.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To evaluate the Indian Integrated Management of Neonatal and Childhood Illness (IMNCI) programme, which integrates improved treatment of illness for children with home visits for newborn care, to inform its scale-up.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Cluster randomised trial.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Setting 18 clusters (population 1.1 million) in Haryana, India.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Participants 29?667 births in intervention clusters and 30?813 in control clusters.</segment>
+
+<segment id='5' features='rhetorical_moves;method' state='active'>Intervention Community health workers were trained to conduct postnatal home visits and women’s group meetings; physicians, nurses, and community health workers were trained to treat or refer sick newborns and children; supply of drugs and supervision were strengthened.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Main outcome measures Neonatal and infant mortality; newborn care practices.</segment>
+
+<segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Results The infant mortality rate (adjusted hazard ratio 0.85, 95% confidence interval 0.77 to 0.94) and the neonatal mortality rate beyond the first 24 hours (adjusted hazard ratio 0.86, 0.79 to 0.95) were significantly lower in the intervention clusters than in control clusters.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>The adjusted hazard ratio for neonatal mortality rate was 0.91 (0.80 to 1.03).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>A significant interaction was found between the place of birth and the effect of the intervention for all mortality outcomes except post-neonatal mortality rate.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>The neonatal mortality rate was significantly lower in the intervention clusters in the subgroup born at home (adjusted hazard ratio 0.80, 0.68 to 0.93) but not in the subgroup born in a health facility (1.06, 0.91 to1.23) (P value for interaction=0.001).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Optimal newborn care practices were significantly more common in the intervention clusters.</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusions Implementation of the IMNCI resulted in substantial improvement in infant survival and in neonatal survival in those born at home.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>The IMNCI should be a part of India’s strategy to achieve the millennium development goal on child survival.</segment>    </body>
+</document>

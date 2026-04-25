@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_012.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To determine whether treatment with agonists of glucagon-like peptide-1 receptor (GLP-1R) result in weight loss in overweight or obese patients with or without type 2 diabetes mellitus.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Systematic review with meta-analyses.</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Electronic searches (Cochrane Library, Medline, Embase, and Web of Science) and manual searches (up to May 2011).</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Review methods Randomised controlled trials of adult participants with a body mass index of 25 or higher; with or without type 2 diabetes mellitus; and who received exenatide twice daily, exenatide once weekly, or liraglutide once daily at clinically relevant doses for at least 20 weeks.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Control interventions assessed were placebo, oral antidiabetic drugs, or insulin.</segment>
+
+<segment id='6' features='rhetorical_moves;method' state='active'>Data extraction Three authors independently extracted data.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>We used random effects models for the primary meta-analyses.</segment> <segment id='8' features='rhetorical_moves;method' state='active'>We also did subgroup, sensitivity, regression, and sequential analyses to evaluate sources of intertrial heterogeneity, bias, and the robustness of results after adjusting for multiple testing and random errors.</segment>
+
+<segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Results 25 trials were included in the analysis.</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>GLP-1R agonist groups achieved a greater weight loss than control groups (weighted mean difference -2.9 kg, 95% confidence interval –3.6 to –2.2; 21 trials, 6411 participants).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>We found evidence of intertrial heterogeneity, but no evidence of bias or small study effects in regression analyses.</segment> <segment id='12' features='rhetorical_moves;result;resultasproduct' state='active'>The results were confirmed in sequential analyses.</segment> <segment id='13' features='rhetorical_moves;result;resultasproduct' state='active'>We recorded weight loss in the GLP-1R agonist groups for patients without diabetes (–3.2 kg, –4.3 to –2.1; three trials) as well as patients with diabetes (–2.8 kg, –3.4 to –2.3; 18 trials).</segment> <segment id='14' features='rhetorical_moves;result;resultasproduct' state='active'>In the overall analysis, GLP-1R agonists had beneficial effects on systolic and diastolic blood pressure, plasma concentrations of cholesterol, and glycaemic control, but did not have a significant effect on plasma concentrations of liver enzymes.</segment> <segment id='15' features='rhetorical_moves;result;resultasproduct' state='active'>GLP-1R agonists were associated with nausea, diarrhoea, and vomiting, but not with hypoglycaemia.</segment>
+
+<segment id='16' features='rhetorical_moves;discussion' state='active'>Conclusions The present review provides evidence that treatment with GLP-1R agonists leads to weight loss in overweight or obese patients with or without type 2 diabetes mellitus.</segment>    </body>
+</document>

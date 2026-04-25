@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_031.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;resultasproduct' state='active'>This paper proposes the use of a steady-state model to identify the parameters of an induction motor.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>A time-varying impedance can be found with the time-varying voltages and currents under a starting no-load low-voltage test, where time-varying slip rates were also recorded.</segment> <segment id='3' features='rhetorical_moves;introduction;background' state='active'>With a proper conversion, the variations of impedance versus slip rates could be acquired as sampled data for identification, and both electrical and mechanical parameters can be found.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>A least mean square (LMS) method was used with a particle swarm optimization method to solve the aforementioned problem.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>The method to find a good set of initial values for LMS is also described in this paper.</segment> <segment id='6' features='rhetorical_moves;method' state='active'>Many tests were conducted to simulate the starting phases of an induction machine to compare with the existing data.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>From various tests, the practicability and accuracy of this method can be proven.</segment>     </body>
+</document>

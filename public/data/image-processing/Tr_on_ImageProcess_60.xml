@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Image Processing/Tr_on_ImageProcess_60.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>This paper makes an investigation of the dehazing effects on image and video coding for surveillance systems.</segment> <segment id='2' features='rhetorical_moves;purpose' state='active'>The goal is to achieve good dehazed images and videos at the receiver while sustaining low bitrates (using compression) in the transmission pipeline.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>At first, this paper proposes a novel method for single-image dehazing, which is used for the investigation.</segment> <segment id='4' features='rhetorical_moves;result;resultasproduct' state='active'>It operates at a faster speed than current methods and can avoid halo effects by using the median operation.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>We then consider the dehazing effects in compression by investigating the coding artifacts and motion estimation in cases of applying any dehazing method before or after compression.</segment> <segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>We conclude that better dehazing performance with fewer artifacts and better coding efficiency is achieved when the dehazing is applied before compression.</segment> <segment id='7' features='rhetorical_moves;method' state='active'>Simulations for Joint Photographers Expert Group images in addition to subjective and objective tests with H.264 compressed sequences validate our conclusion.</segment>    </body>
+</document>

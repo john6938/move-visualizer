@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Med abstracts/Med_009.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;purpose' state='active'>Objective To investigate to what extent three types of documents for reporting clinical trials provide sufficient information for trial evaluation.</segment>
+
+<segment id='2' features='rhetorical_moves;method' state='active'>Design Retrospective analysis</segment>
+
+<segment id='3' features='rhetorical_moves;method' state='active'>Data sources Primary studies and corresponding documents (registry reports, clinical study reports, journal publications) from 16 health technology assessments of drugs conducted by the German Institute for Quality and Efficiency in Health Care between 2006 and February 2011.</segment>
+
+<segment id='4' features='rhetorical_moves;method' state='active'>Data analysis We assessed reporting quality for each study and each available document for six items on methods and six on outcomes, and dichotomised them as “completely reported” or “incompletely reported.”</segment> <segment id='5' features='rhetorical_moves;method' state='active'>For each document type, we calculated the proportion of studies with complete reporting for methods and outcomes, per item and overall, and compared the findings.</segment>
+
+<segment id='6' features='rhetorical_moves;result;resultasproduct' state='active'>Results We identified 268 studies.</segment> <segment id='7' features='rhetorical_moves;result;resultasproduct' state='active'>Publications, study reports and registry reports were available for 192 (72%), 101 (38%), and 78 (29%) studies, respectively.</segment> <segment id='8' features='rhetorical_moves;result;resultasproduct' state='active'>Reporting quality was highest in study reports, which overall provided complete information for 90% of items (1086/1212).</segment> <segment id='9' features='rhetorical_moves;result;resultasproduct' state='active'>Registry reports provided more complete information on outcomes than on methods (overall 330/468 (71%) v 147/468 (31%)); the same applied to publications (594/1152 (52%) v 458/1152 (40%)).</segment> <segment id='10' features='rhetorical_moves;result;resultasproduct' state='active'>In the matched pairs analysis, reporting quality was poorer in registry reports than in study reports for overall methods and outcomes (P&lt;0.001 in each case).</segment> <segment id='11' features='rhetorical_moves;result;resultasproduct' state='active'>Compared with publications, reporting quality was poorer in registry reports for overall methods (P&lt;0.001), but better for outcomes (P=0.005).</segment>
+
+<segment id='12' features='rhetorical_moves;discussion' state='active'>Conclusion Registry reports and publications insufficiently report clinical trials but may supplement each other.</segment> <segment id='13' features='rhetorical_moves;discussion' state='active'>Measures to improve reporting include the mandatory worldwide implementation of adequate standards for results registration.</segment>    </body>
+</document>

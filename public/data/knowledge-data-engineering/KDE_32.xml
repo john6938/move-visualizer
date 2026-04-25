@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>Trans on Know &amp; Data Eng/Tr_on_Know&amp;DataEng_32.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;introduction;problem' state='active'>Data quantity is the main issue in the small data set problem, because usually insufficient data will not lead to a robust classification performance.</segment> <segment id='2' features='rhetorical_moves;introduction;background' state='active'>How to extract more effective information from a small data set is thus of considerable interest.</segment> <segment id='3' features='rhetorical_moves;result;methodasproduct' state='active'>This paper proposes a new attribute construction approach which converts the original data attributes into a higher dimensional feature space to extract more attribute information by a similarity-based algorithm using the classification-oriented fuzzy membership function.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Seven data sets with different attribute sizes are employed to examine the performance of the proposed method.</segment> <segment id='5' features='rhetorical_moves;result;resultasproduct' state='active'>The results show that the proposed method has a superior classification performance when compared to principal component analysis (PCA), kernel principal component analysis (KPCA), and kernel independent component analysis (KICA) with a Gaussian kernel in the support vector machine (SVM) classifier.</segment>    </body>
+</document>

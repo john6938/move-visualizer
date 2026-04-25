@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_017.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>A novel approach based on indirect modulation, which significantly extends the reactive power control range for three-phase ac-ac matrix converters (MCs; applicable to all matrix topologies) and which is implementable with lowest computational effort, is proposed.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>This new method denoted as hybrid modulation facilitates the formation of reactive input current also for purely reactive load.</segment> <segment id='3' features='rhetorical_moves;method' state='active'>The derivation of the modulation schemes, which rely on a decoupling of the output voltage and the reactive input current formation, is described in detail.</segment> <segment id='4' features='rhetorical_moves;method' state='active'>Furthermore, the operating limits, i.e., the maximum reactive input current that could be formed for the given output voltage amplitude and load current amplitude, are determined.</segment> <segment id='5' features='rhetorical_moves;method' state='active'>Finally, all theoretical considerations are verified by measurements taken on a 6.5-kW Very Sparse MC.</segment>    </body>
+</document>

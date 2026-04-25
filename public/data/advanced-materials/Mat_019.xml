@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 MAT Adv Mat SRA/Mat_019.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves;result;methodasproduct' state='active'>Manipulating the ferromagnetism of diluted magnetic semiconductors by tuning the valence state of doped ions is found to be achievable in Mn-doped NiO.</segment> <segment id='2' features='rhetorical_moves;result;methodasproduct' state='active'>First-principles calculations predict that the interactions between substitutional Mn3+ ions in NiO are ferromagnetic, while the Mn2+–Mn2+ interactions are antiferromagnetic.</segment> <segment id='3' features='rhetorical_moves;result;resultasproduct' state='active'>This scenario is experimentally supported by a great enhancement of saturation magnetization with increased Mn3+/Mn2+ ratio in Mn-doped and (Mn, Li)-codoped NiO.</segment>    </body>
+</document>

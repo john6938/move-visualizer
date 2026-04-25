@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_072.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>In order to properly suppress the harmonic current in a power system, the harmonic similarity metric is developed in this paper and used to establish an efficient strategy for harmonic filter placement.</segment> <segment id='2' features='rhetorical_moves' state='active'>To validate the strategy, an industrial distribution system is analyzed under two harmonic current injection scenarios.</segment> <segment id='3' features='rhetorical_moves' state='active'>It is demonstrated that the proposed strategy has a robust ability to successfully determine the most efficient and effective location for placing a harmonic filter bank based upon the desired objectives.</segment> <segment id='4' features='rhetorical_moves' state='active'>The two harmonic current injection scenarios serve to validate the proposed strategy regardless of the power distribution level at which harmonic current is injected.</segment> <segment id='5' features='rhetorical_moves' state='active'></segment>    </body>
+</document>

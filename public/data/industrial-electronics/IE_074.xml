@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <textfile>100 Ind Electronics SRA/IE_074.txt</textfile>
+    <lang>english</lang>
+  </header>
+    <body>
+<segment id='1' features='rhetorical_moves' state='active'>This paper continues the design considerations of a novel type of passive filter called hybrid LC filter (HLCF).</segment> <segment id='2' features='rhetorical_moves' state='active'>The filter is aimed at significant reduction in high-frequency differential mode (DM) and common mode (CM) currents in speed-controlled ac drives.</segment> <segment id='3' features='rhetorical_moves' state='active'>A model of the HLCF is presented.</segment> <segment id='4' features='rhetorical_moves' state='active'>Based on the model, a transfer function of the HLCF is found.</segment> <segment id='5' features='rhetorical_moves' state='active'>The HLCF behavior is analyzed in frequency domain.</segment> <segment id='6' features='rhetorical_moves' state='active'>A method for HLCF frequency-domain behavior estimation with asymptotes is proposed.</segment> <segment id='7' features='rhetorical_moves' state='active'>A comparison of the measured, simulated, and calculated results in frequency domain is presented.</segment> <segment id='8' features='rhetorical_moves' state='active'></segment>    </body>
+</document>
