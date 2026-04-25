@@ -57,15 +57,8 @@ const Controls: React.FC<ControlsProps> = ({
         </select>
       </div>
 
-      {/* Abstract navigation */}
+      {/* Abstract navigation: "Abstract [N] of [total] [+] [−]" */}
       <div className="flex items-center gap-2">
-        <button
-          onClick={onPrev}
-          className="px-3 py-1.5 text-sm border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 transition-colors"
-          aria-label="Previous abstract"
-        >
-          &#8592;
-        </button>
         <span className="text-sm text-gray-600 flex items-center gap-1">
           Abstract
           <input
@@ -81,20 +74,27 @@ const Controls: React.FC<ControlsProps> = ({
         </span>
         <button
           onClick={onNext}
-          className="px-3 py-1.5 text-sm border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 transition-colors"
+          className="px-3 py-1.5 text-sm font-bold border border-yellow-300 rounded-md bg-yellow-50 hover:bg-yellow-100 active:bg-yellow-200 transition-colors"
           aria-label="Next abstract"
         >
-          &#8594;
+          +
+        </button>
+        <button
+          onClick={onPrev}
+          className="px-3 py-1.5 text-sm font-bold border border-yellow-300 rounded-md bg-yellow-50 hover:bg-yellow-100 active:bg-yellow-200 transition-colors"
+          aria-label="Previous abstract"
+        >
+          &minus;
         </button>
       </div>
 
-      {/* Annotation toggle */}
+      {/* Annotation toggle — pale green when off, indigo when on */}
       <button
         onClick={onToggleAnnotation}
         className={`px-4 py-1.5 text-sm rounded-md border transition-colors ${
           showAnnotation
             ? 'bg-indigo-600 text-white border-indigo-600 hover:bg-indigo-700'
-            : 'bg-white text-gray-700 border-gray-300 hover:bg-gray-50'
+            : 'bg-green-50 text-green-800 border-green-300 hover:bg-green-100'
         }`}
       >
         {showAnnotation ? 'Hide Annotations' : 'Show Annotations'}
