@@ -123,6 +123,11 @@ const App: React.FC = () => {
           </div>
         ) : null}
       </main>
+
+      {/* Footer */}
+      <footer className="bg-white border-t border-gray-100 px-4 py-2 text-center text-xs text-gray-400">
+        John Blake, Aston University. Version 2.0.
+      </footer>
     </div>
   );
 };

@@ -3,7 +3,8 @@ import { MOVE_DISPLAY_NAMES } from '../config/moves';
 import { MOVE_COLORS } from '../config/moveColors';
 
 const Legend: React.FC = () => (
-  <div className="flex flex-wrap gap-3 px-6 py-3 bg-gray-50 border-b border-gray-200 items-center">
+  <div className="px-6 py-3 bg-gray-50 border-b border-gray-200">
+    <div className="max-w-4xl mx-auto w-full flex flex-wrap gap-3 items-center">
     <span className="text-xs font-medium text-gray-500 uppercase tracking-wide">Legend:</span>
     {Object.keys(MOVE_DISPLAY_NAMES).map(move => {
       const colors = MOVE_COLORS[move];
@@ -16,6 +17,7 @@ const Legend: React.FC = () => (
         </span>
       );
     })}
+    </div>
   </div>
 );
 
