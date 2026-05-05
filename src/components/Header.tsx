@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header: React.FC = () => (
   <header className="bg-white border-b border-gray-200 px-6 py-5">
-    <div className="flex items-center gap-4">
+    <div className="max-w-4xl mx-auto w-full flex items-center gap-4">
       <img src="./tnt-logo.svg" alt="TNT Lab logo" className="h-12 w-12 flex-shrink-0" />
       <div>
         <h1 className="text-2xl font-bold text-gray-800">Move Visualizer</h1>
